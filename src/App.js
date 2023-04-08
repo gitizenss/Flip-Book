@@ -181,7 +181,7 @@ const App = () => {
 
   const [numPages, setNumPages] = useState(null);
   const [pageNumber, setPageNumber] = useState(1);
-  const [file, setFile] = useState("/intro2.pdf");
+  const [file, setFile] = useState("/Resume.pdf");
 
   function onDocumentLoadSuccess({ numPages: nextNumPages }) {
     setNumPages(nextNumPages);
