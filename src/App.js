@@ -61,7 +61,7 @@ const App = () => {
     const spans = document.querySelectorAll('span[role="presentation"]');
 
     const newpageIndex = pageFlip.current.pageFlip().getCurrentPageIndex();
-    if(updatedspans.length>0){
+    if (updatedspans.length > 0) {
       setLastWord(
         transcript.results[newpageIndex].words[
           transcript.results[newpageIndex].words.length - 1
@@ -114,66 +114,66 @@ const App = () => {
       modifySpans();
       setFixedSpans(fixedSpans + 1);
     }
-      if (resultsindex !== pageFlip.current.pageFlip().getPageCount()) {   
-        if(updatedspans.length>0){
-      if (time > parseFloat(transcript.results[resultsindex].data_end)) {
-        setResultsIndex(resultsindex + 1);
-        const index = transcript.results[resultsindex].words.findIndex(
-          (word) => word.Word === startingWord
-        );
-        setTranscriptIndex(0);
-        setWordsIndex(index);
-      } else if (
-        time >
-          parseFloat(
-            transcript.results[resultsindex].words[transcriptindex].data_start
-          ) &&
-        transcriptindex <= transcript.results[resultsindex].words.length - 1
-      ) {
-        if (updatedspans[wordsindex]) {
-          const words = updatedspans[wordsindex].textContent.split(" ");
-          const currspan = updatedspans[wordsindex];
-          const oldwords = words;
-          if (prevSpan) {
-            prevSpan.style.backgroundColor = "";
-          }
+    if (resultsindex !== pageFlip.current.pageFlip().getPageCount()) {
+      if (updatedspans.length > 0) {
+        if (time > parseFloat(transcript.results[resultsindex].data_end)) {
+          setResultsIndex(resultsindex + 1);
+          const index = transcript.results[resultsindex].words.findIndex(
+            (word) => word.Word === startingWord
+          );
+          setTranscriptIndex(0);
+          setWordsIndex(index);
+        } else if (
+          time >
+            parseFloat(
+              transcript.results[resultsindex].words[transcriptindex].data_start
+            ) &&
+          transcriptindex <= transcript.results[resultsindex].words.length - 1
+        ) {
+          if (updatedspans[wordsindex]) {
+            const words = updatedspans[wordsindex].textContent.split(" ");
+            const currspan = updatedspans[wordsindex];
+            const oldwords = words;
+            if (prevSpan) {
+              prevSpan.style.backgroundColor = "";
+            }
 
-          words[spanindex] = `<span>${words[spanindex]}</span>`;
-          currspan.innerHTML = words.join(" ");
-          const currinnerspan = currspan.querySelector("span");
-          if (currinnerspan) {
-            currinnerspan.style.backgroundColor = "#ffd9c4";
-            // currinnerspan.scrollIntoView({ behavior: "smooth", block: "center" });
-            setPrevSpan(currinnerspan);
-          }
+            words[spanindex] = `<span>${words[spanindex]}</span>`;
+            currspan.innerHTML = words.join(" ");
+            const currinnerspan = currspan.querySelector("span");
+            if (currinnerspan) {
+              currinnerspan.style.backgroundColor = "#ffd9c4";
+              // currinnerspan.scrollIntoView({ behavior: "smooth", block: "center" });
+              setPrevSpan(currinnerspan);
+            }
 
-          if (spanindex == words.length - 1) {
-            setSpanindex(0);
-            setWordsIndex(wordsindex + 1);
-          } else {
-            setSpanindex(spanindex + 1);
-          }
-          if (
-            transcriptindex !==
-            transcript.results[resultsindex].words.length - 1
-          ) {
-            setTranscriptIndex(transcriptindex + 1);
-          }
-          if (
-            transcript.results[resultsindex].words[
+            if (spanindex == words.length - 1) {
+              setSpanindex(0);
+              setWordsIndex(wordsindex + 1);
+            } else {
+              setSpanindex(spanindex + 1);
+            }
+            if (
+              transcriptindex !==
               transcript.results[resultsindex].words.length - 1
-            ].Word === lastWord &&
-            transcriptindex ===
-              transcript.results[resultsindex].words.length - 2
-          ) {
-            setTimeout(() => {
-              flipNextPage();
-            }, 500);
+            ) {
+              setTranscriptIndex(transcriptindex + 1);
+            }
+            if (
+              transcript.results[resultsindex].words[
+                transcript.results[resultsindex].words.length - 1
+              ].Word === lastWord &&
+              transcriptindex ===
+                transcript.results[resultsindex].words.length - 2
+            ) {
+              setTimeout(() => {
+                flipNextPage();
+              }, 500);
+            }
           }
         }
       }
-        }
-  }
+    }
   }
   useEffect(() => {
     introRef.current.volume = 0.1;
@@ -265,40 +265,39 @@ const App = () => {
     const updatedspans = getSpans();
     modifySpans();
     const newpageIndex = pageFlip.current.pageFlip().getCurrentPageIndex();
-    if(updatedspans.length>0){
-    if (newState.data === "read") {
-     
-      if (oldstate === "flipping") {
-        introRef.current.currentTime = parseFloat(
-          transcript.results[newpageIndex].words[0].data_start - 0.5
-        );
-        console.log(oldpageindex);
-        console.log(newpageIndex);
+    if (updatedspans.length > 0) {
+      if (newState.data === "read") {
+        if (oldstate === "flipping") {
+          introRef.current.currentTime = parseFloat(
+            transcript.results[newpageIndex].words[0].data_start - 0.5
+          );
+          console.log(oldpageindex);
+          console.log(newpageIndex);
 
-        setResultsIndex(newpageIndex);
-        setStartingWord(transcript.results[newpageIndex].words[0].Word);
-        const spans = getSpans();
-        const index = Array.from(spans).findIndex((word) =>
-          word.textContent.includes(
-            transcript.results[newpageIndex].words[0].Word
-          )
-        );
-        setTranscriptIndex(0);
-        setSpanindex(0);
-        setWordsIndex(index); 
-        if(disable){
-          setDisable(!disable);
-        }      
+          setResultsIndex(newpageIndex);
+          setStartingWord(transcript.results[newpageIndex].words[0].Word);
+          const spans = getSpans();
+          const index = Array.from(spans).findIndex((word) =>
+            word.textContent.includes(
+              transcript.results[newpageIndex].words[0].Word
+            )
+          );
+          setTranscriptIndex(0);
+          setSpanindex(0);
+          setWordsIndex(index);
+          if (disable) {
+            setDisable(!disable);
+          }
+        }
       }
-      
+    } else {
+      introRef.current.currentTime =
+        transcript.results[newpageIndex - 1].data_end - 0.5;
+      setDisable(!disable);
+      if (playing) {
+        setPlaying(!playing);
+      }
     }
-  }else{
-    introRef.current.currentTime = transcript.results[newpageIndex-1].data_end - 0.5;
-    setDisable(!disable);
-    if(playing){
-      setPlaying(!playing)
-    }
-  }
 
     if (newState.data === "flipping") {
       flippingRef.current.play();
@@ -313,32 +312,29 @@ const App = () => {
       setOldState(newState.data);
       setOldpageindex(pageFlip.current.pageFlip().getCurrentPageIndex());
     }
-    
-    if (
-      oldstate === "user_fold" &&
-      newState.data === "read"
-    ) {
+
+    if (oldstate === "user_fold" && newState.data === "read") {
       const newpageIndex = pageFlip.current.pageFlip().getCurrentPageIndex();
       console.log(oldpageindex);
       console.log(newpageIndex);
-      if(updatedspans.length>0){
-      introRef.current.currentTime = parseFloat(
-        transcript.results[newpageIndex].words[0].data_start - 1
-      );
+      if (updatedspans.length > 0) {
+        introRef.current.currentTime = parseFloat(
+          transcript.results[newpageIndex].words[0].data_start - 1
+        );
 
-      setResultsIndex(newpageIndex);
-      setStartingWord(transcript.results[newpageIndex].words[0].Word);
-      const spans = getSpans();
-      const index = Array.from(spans).findIndex((word) =>
-        word.textContent.includes(
-          transcript.results[newpageIndex].words[0].Word
-        )
-      );
-      setTranscriptIndex(0);
-      setSpanindex(0);
-      setWordsIndex(index);
+        setResultsIndex(newpageIndex);
+        setStartingWord(transcript.results[newpageIndex].words[0].Word);
+        const spans = getSpans();
+        const index = Array.from(spans).findIndex((word) =>
+          word.textContent.includes(
+            transcript.results[newpageIndex].words[0].Word
+          )
+        );
+        setTranscriptIndex(0);
+        setSpanindex(0);
+        setWordsIndex(index);
+      }
     }
-  }
   }
 
   return (
@@ -407,7 +403,7 @@ const App = () => {
                 height="3em"
                 width="3em"
                 onClick={() => {
-                  if(!disable){
+                  if (!disable) {
                     setPlaying(!playing);
                   }
                 }}
@@ -423,7 +419,7 @@ const App = () => {
                 height="3em"
                 width="3em"
                 onClick={() => {
-                    setPlaying(!playing);                
+                  setPlaying(!playing);
                 }}
               >
                 <path d="M512 64C264.6 64 64 264.6 64 512s200.6 448 448 448 448-200.6 448-448S759.4 64 512 64zm0 820c-205.4 0-372-166.6-372-372s166.6-372 372-372 372 166.6 372 372-166.6 372-372 372zm-88-532h-48c-4.4 0-8 3.6-8 8v304c0 4.4 3.6 8 8 8h48c4.4 0 8-3.6 8-8V360c0-4.4-3.6-8-8-8zm224 0h-48c-4.4 0-8 3.6-8 8v304c0 4.4 3.6 8 8 8h48c4.4 0 8-3.6 8-8V360c0-4.4-3.6-8-8-8z" />
