@@ -1,0 +1,3093 @@
+{
+ "results" : [ {
+  "words" : [
+    {
+    "Word": "Melody.",
+    "Start Timecode": "00:00:00.05",
+    "End Timecode": "00:00:00.58",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "Children",
+    "Start Timecode": "00:00:00.74",
+    "End Timecode": "00:00:01.28",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "of",
+    "Start Timecode": "00:00:01.28",
+    "End Timecode": "00:00:01.37",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "the",
+    "Start Timecode": "00:00:01.37",
+    "End Timecode": "00:00:01.49",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "Sands",
+    "Start Timecode": "00:00:01.49",
+    "End Timecode": "00:00:02.21",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "and",
+    "Start Timecode": "00:00:02.21",
+    "End Timecode": "00:00:02.51",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "the",
+    "Start Timecode": "00:00:02.51",
+    "End Timecode": "00:00:02.63",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "Sworn",
+    "Start Timecode": "00:00:02.63",
+    "End Timecode": "00:00:03.05",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "of",
+    "Start Timecode": "00:00:03.08",
+    "End Timecode": "00:00:03.20",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "As-sirat.",
+    "Start Timecode": "00:00:03.20",
+    "End Timecode": "00:00:04.04",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "From",
+    "Start Timecode": "00:00:04.25",
+    "End Timecode": "00:00:04.70",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "the",
+    "Start Timecode": "00:00:04.70",
+    "End Timecode": "00:00:04.79",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "scorching",
+    "Start Timecode": "00:00:04.79",
+    "End Timecode": "00:00:05.36",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "deserts",
+    "Start Timecode": "00:00:05.36",
+    "End Timecode": "00:00:05.78",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "to",
+    "Start Timecode": "00:00:05.78",
+    "End Timecode": "00:00:05.96",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "the",
+    "Start Timecode": "00:00:05.96",
+    "End Timecode": "00:00:06.08",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "dry",
+    "Start Timecode": "00:00:06.08",
+    "End Timecode": "00:00:06.35",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "savannas",
+    "Start Timecode": "00:00:06.38",
+    "End Timecode": "00:00:06.86",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "of",
+    "Start Timecode": "00:00:06.86",
+    "End Timecode": "00:00:06.98",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "the",
+    "Start Timecode": "00:00:06.98",
+    "End Timecode": "00:00:07.07",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "South.",
+    "Start Timecode": "00:00:07.07",
+    "End Timecode": "00:00:07.37",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "The",
+    "Start Timecode": "00:00:07.94",
+    "End Timecode": "00:00:08.24",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "melody",
+    "Start Timecode": "00:00:08.24",
+    "End Timecode": "00:00:08.72",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "had",
+    "Start Timecode": "00:00:08.72",
+    "End Timecode": "00:00:08.93",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "wandered",
+    "Start Timecode": "00:00:08.93",
+    "End Timecode": "00:00:09.38",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "long",
+    "Start Timecode": "00:00:09.38",
+    "End Timecode": "00:00:09.80",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "and",
+    "Start Timecode": "00:00:09.80",
+    "End Timecode": "00:00:10.01",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "far.",
+    "Start Timecode": "00:00:10.01",
+    "End Timecode": "00:00:10.50",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "Living",
+    "Start Timecode": "00:00:10.52",
+    "End Timecode": "00:00:11.06",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "where",
+    "Start Timecode": "00:00:11.06",
+    "End Timecode": "00:00:11.24",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "no",
+    "Start Timecode": "00:00:11.27",
+    "End Timecode": "00:00:11.42",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "other",
+    "Start Timecode": "00:00:11.42",
+    "End Timecode": "00:00:11.69",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "could.",
+    "Start Timecode": "00:00:11.69",
+    "End Timecode": "00:00:12.29",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "Thriving",
+    "Start Timecode": "00:00:12.32",
+    "End Timecode": "00:00:13.07",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "when",
+    "Start Timecode": "00:00:13.07",
+    "End Timecode": "00:00:13.25",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "the",
+    "Start Timecode": "00:00:13.25",
+    "End Timecode": "00:00:13.34",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "world",
+    "Start Timecode": "00:00:13.34",
+    "End Timecode": "00:00:13.67",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "was",
+    "Start Timecode": "00:00:13.67",
+    "End Timecode": "00:00:13.85",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "poisoned.",
+    "Start Timecode": "00:00:13.85",
+    "End Timecode": "00:00:14.81",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "These",
+    "Start Timecode": "00:00:14.84",
+    "End Timecode": "00:00:15.47",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "tough",
+    "Start Timecode": "00:00:15.47",
+    "End Timecode": "00:00:15.80",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "skinned",
+    "Start Timecode": "00:00:15.80",
+    "End Timecode": "00:00:16.19",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "warriors,",
+    "Start Timecode": "00:00:16.22",
+    "End Timecode": "00:00:16.91",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "artisans",
+    "Start Timecode": "00:00:16.94",
+    "End Timecode": "00:00:17.57",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "and",
+    "Start Timecode": "00:00:17.57",
+    "End Timecode": "00:00:17.75",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "advisers,",
+    "Start Timecode": "00:00:17.75",
+    "End Timecode": "00:00:18.38",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "have",
+    "Start Timecode": "00:00:18.41",
+    "End Timecode": "00:00:18.77",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "stood",
+    "Start Timecode": "00:00:18.77",
+    "End Timecode": "00:00:19.04",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "the",
+    "Start Timecode": "00:00:19.04",
+    "End Timecode": "00:00:19.13",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "test",
+    "Start Timecode": "00:00:19.13",
+    "End Timecode": "00:00:19.40",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "of",
+    "Start Timecode": "00:00:19.40",
+    "End Timecode": "00:00:19.52",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "time",
+    "Start Timecode": "00:00:19.52",
+    "End Timecode": "00:00:19.88",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "so",
+    "Start Timecode": "00:00:19.88",
+    "End Timecode": "00:00:20.12",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "far",
+    "Start Timecode": "00:00:20.12",
+    "End Timecode": "00:00:20.42",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "through",
+    "Start Timecode": "00:00:20.42",
+    "End Timecode": "00:00:20.66",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "both",
+    "Start Timecode": "00:00:20.66",
+    "End Timecode": "00:00:20.99",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "their",
+    "Start Timecode": "00:00:20.99",
+    "End Timecode": "00:00:21.20",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "zeal",
+    "Start Timecode": "00:00:21.20",
+    "End Timecode": "00:00:21.62",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "and",
+    "Start Timecode": "00:00:21.62",
+    "End Timecode": "00:00:21.86",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "willingness",
+    "Start Timecode": "00:00:21.86",
+    "End Timecode": "00:00:22.34",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "to",
+    "Start Timecode": "00:00:22.34",
+    "End Timecode": "00:00:22.46",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "persevere",
+    "Start Timecode": "00:00:22.46",
+    "End Timecode": "00:00:23.00",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "through",
+    "Start Timecode": "00:00:23.03",
+    "End Timecode": "00:00:23.27",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "the",
+    "Start Timecode": "00:00:23.27",
+    "End Timecode": "00:00:23.39",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "harshest",
+    "Start Timecode": "00:00:23.39",
+    "End Timecode": "00:00:23.96",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "storms",
+    "Start Timecode": "00:00:23.96",
+    "End Timecode": "00:00:24.80",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "and",
+    "Start Timecode": "00:00:24.80",
+    "End Timecode": "00:00:25.13",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "to",
+    "Start Timecode": "00:00:25.13",
+    "End Timecode": "00:00:25.31",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "laugh",
+    "Start Timecode": "00:00:25.31",
+    "End Timecode": "00:00:25.67",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "in",
+    "Start Timecode": "00:00:25.67",
+    "End Timecode": "00:00:25.79",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "the",
+    "Start Timecode": "00:00:25.79",
+    "End Timecode": "00:00:25.88",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "face",
+    "Start Timecode": "00:00:25.88",
+    "End Timecode": "00:00:26.18",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "of",
+    "Start Timecode": "00:00:26.18",
+    "End Timecode": "00:00:26.30",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "death.",
+    "Start Timecode": "00:00:26.30",
+    "End Timecode": "00:00:26.85",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "Surely",
+    "Start Timecode": "00:00:26.87",
+    "End Timecode": "00:00:27.47",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "taking",
+    "Start Timecode": "00:00:27.47",
+    "End Timecode": "00:00:27.77",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "much",
+    "Start Timecode": "00:00:27.77",
+    "End Timecode": "00:00:28.04",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "pride",
+    "Start Timecode": "00:00:28.04",
+    "End Timecode": "00:00:28.40",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "in",
+    "Start Timecode": "00:00:28.40",
+    "End Timecode": "00:00:28.55",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "spite",
+    "Start Timecode": "00:00:28.55",
+    "End Timecode": "00:00:28.82",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "of",
+    "Start Timecode": "00:00:28.82",
+    "End Timecode": "00:00:28.94",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "adversity,",
+    "Start Timecode": "00:00:28.94",
+    "End Timecode": "00:00:29.87",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "though",
+    "Start Timecode": "00:00:30.20",
+    "End Timecode": "00:00:30.62",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "it",
+    "Start Timecode": "00:00:30.62",
+    "End Timecode": "00:00:30.71",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "is",
+    "Start Timecode": "00:00:30.71",
+    "End Timecode": "00:00:30.86",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "wrong",
+    "Start Timecode": "00:00:30.86",
+    "End Timecode": "00:00:31.07",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "to",
+    "Start Timecode": "00:00:31.10",
+    "End Timecode": "00:00:31.19",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "say",
+    "Start Timecode": "00:00:31.19",
+    "End Timecode": "00:00:31.37",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "the",
+    "Start Timecode": "00:00:31.37",
+    "End Timecode": "00:00:31.46",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "melody",
+    "Start Timecode": "00:00:31.49",
+    "End Timecode": "00:00:31.88",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "have",
+    "Start Timecode": "00:00:31.88",
+    "End Timecode": "00:00:32.06",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "not",
+    "Start Timecode": "00:00:32.06",
+    "End Timecode": "00:00:32.30",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "faced",
+    "Start Timecode": "00:00:32.30",
+    "End Timecode": "00:00:32.75",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "tragedy.",
+    "Start Timecode": "00:00:32.75",
+    "End Timecode": "00:00:33.59",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "From",
+    "Start Timecode": "00:00:33.74",
+    "End Timecode": "00:00:34.16",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "the",
+    "Start Timecode": "00:00:34.16",
+    "End Timecode": "00:00:34.22",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "beginning",
+    "Start Timecode": "00:00:34.22",
+    "End Timecode": "00:00:34.67",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "they",
+    "Start Timecode": "00:00:34.67",
+    "End Timecode": "00:00:34.82",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "were",
+    "Start Timecode": "00:00:34.82",
+    "End Timecode": "00:00:34.97",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "nomads,",
+    "Start Timecode": "00:00:34.97",
+    "End Timecode": "00:00:35.81",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "living",
+    "Start Timecode": "00:00:35.84",
+    "End Timecode": "00:00:36.32",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "from",
+    "Start Timecode": "00:00:36.32",
+    "End Timecode": "00:00:36.53",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "place",
+    "Start Timecode": "00:00:36.53",
+    "End Timecode": "00:00:36.83",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "to",
+    "Start Timecode": "00:00:36.83",
+    "End Timecode": "00:00:36.92",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "place,",
+    "Start Timecode": "00:00:36.92",
+    "End Timecode": "00:00:37.25",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "always",
+    "Start Timecode": "00:00:37.25",
+    "End Timecode": "00:00:37.67",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "on",
+    "Start Timecode": "00:00:37.67",
+    "End Timecode": "00:00:37.79",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "the",
+    "Start Timecode": "00:00:37.79",
+    "End Timecode": "00:00:37.88",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "move.",
+    "Start Timecode": "00:00:37.88",
+    "End Timecode": "00:00:38.57",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "But",
+    "Start Timecode": "00:00:38.60",
+    "End Timecode": "00:00:39.02",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "they",
+    "Start Timecode": "00:00:39.02",
+    "End Timecode": "00:00:39.23",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "were",
+    "Start Timecode": "00:00:39.23",
+    "End Timecode": "00:00:39.41",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "wanderers",
+    "Start Timecode": "00:00:39.41",
+    "End Timecode": "00:00:39.98",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "who",
+    "Start Timecode": "00:00:39.98",
+    "End Timecode": "00:00:40.16",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "disrespected",
+    "Start Timecode": "00:00:40.16",
+    "End Timecode": "00:00:40.91",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "the",
+    "Start Timecode": "00:00:40.91",
+    "End Timecode": "00:00:41.00",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "tenets",
+    "Start Timecode": "00:00:41.00",
+    "End Timecode": "00:00:41.39",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "of",
+    "Start Timecode": "00:00:41.39",
+    "End Timecode": "00:00:41.51",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "their",
+    "Start Timecode": "00:00:41.51",
+    "End Timecode": "00:00:41.72",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "former",
+    "Start Timecode": "00:00:41.72",
+    "End Timecode": "00:00:42.05",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "tribe.",
+    "Start Timecode": "00:00:42.05",
+    "End Timecode": "00:00:42.70",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "Now",
+    "Start Timecode": "00:00:42.71",
+    "End Timecode": "00:00:43.16",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "instead",
+    "Start Timecode": "00:00:43.16",
+    "End Timecode": "00:00:43.58",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "forced",
+    "Start Timecode": "00:00:43.58",
+    "End Timecode": "00:00:43.91",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "to",
+    "Start Timecode": "00:00:43.91",
+    "End Timecode": "00:00:44.06",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "seal",
+    "Start Timecode": "00:00:44.06",
+    "End Timecode": "00:00:44.42",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "their",
+    "Start Timecode": "00:00:44.42",
+    "End Timecode": "00:00:44.63",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "fate",
+    "Start Timecode": "00:00:44.63",
+    "End Timecode": "00:00:44.90",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "by",
+    "Start Timecode": "00:00:44.90",
+    "End Timecode": "00:00:45.14",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "wandering",
+    "Start Timecode": "00:00:45.14",
+    "End Timecode": "00:00:45.59",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "the",
+    "Start Timecode": "00:00:45.59",
+    "End Timecode": "00:00:45.71",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "dunes",
+    "Start Timecode": "00:00:45.71",
+    "End Timecode": "00:00:46.10",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "of",
+    "Start Timecode": "00:00:46.10",
+    "End Timecode": "00:00:46.25",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "death",
+    "Start Timecode": "00:00:46.25",
+    "End Timecode": "00:00:46.88",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "where",
+    "Start Timecode": "00:00:46.91",
+    "End Timecode": "00:00:47.30",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "no",
+    "Start Timecode": "00:00:47.33",
+    "End Timecode": "00:00:47.51",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "man",
+    "Start Timecode": "00:00:47.51",
+    "End Timecode": "00:00:47.81",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "or",
+    "Start Timecode": "00:00:47.81",
+    "End Timecode": "00:00:47.99",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "God",
+    "Start Timecode": "00:00:47.99",
+    "End Timecode": "00:00:48.29",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "alike",
+    "Start Timecode": "00:00:48.29",
+    "End Timecode": "00:00:48.68",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "emerged",
+    "Start Timecode": "00:00:48.71",
+    "End Timecode": "00:00:49.19",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "alive.",
+    "Start Timecode": "00:00:49.19",
+    "End Timecode": "00:00:49.94",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "A",
+    "Start Timecode": "00:00:50.09",
+    "End Timecode": "00:00:50.33",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "most",
+    "Start Timecode": "00:00:50.33",
+    "End Timecode": "00:00:50.66",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "cruel",
+    "Start Timecode": "00:00:50.66",
+    "End Timecode": "00:00:51.11",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "punishment",
+    "Start Timecode": "00:00:51.11",
+    "End Timecode": "00:00:51.80",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "invoked",
+    "Start Timecode": "00:00:51.80",
+    "End Timecode": "00:00:52.43",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "only",
+    "Start Timecode": "00:00:52.43",
+    "End Timecode": "00:00:52.79",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "by",
+    "Start Timecode": "00:00:52.79",
+    "End Timecode": "00:00:52.97",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "the",
+    "Start Timecode": "00:00:52.97",
+    "End Timecode": "00:00:53.09",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "harshest",
+    "Start Timecode": "00:00:53.09",
+    "End Timecode": "00:00:53.57",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "of",
+    "Start Timecode": "00:00:53.57",
+    "End Timecode": "00:00:53.69",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "chiefs",
+    "Start Timecode": "00:00:53.69",
+    "End Timecode": "00:00:54.08",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "at",
+    "Start Timecode": "00:00:54.08",
+    "End Timecode": "00:00:54.17",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "the",
+    "Start Timecode": "00:00:54.17",
+    "End Timecode": "00:00:54.29",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "time.",
+    "Start Timecode": "00:00:54.29",
+    "End Timecode": "00:00:54.95",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "Yet",
+    "Start Timecode": "00:00:55.04",
+    "End Timecode": "00:00:55.46",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "this",
+    "Start Timecode": "00:00:55.46",
+    "End Timecode": "00:00:55.79",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "was",
+    "Start Timecode": "00:00:55.79",
+    "End Timecode": "00:00:56.03",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "the",
+    "Start Timecode": "00:00:56.03",
+    "End Timecode": "00:00:56.12",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "first",
+    "Start Timecode": "00:00:56.12",
+    "End Timecode": "00:00:56.48",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "proof",
+    "Start Timecode": "00:00:56.48",
+    "End Timecode": "00:00:56.84",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "of",
+    "Start Timecode": "00:00:56.84",
+    "End Timecode": "00:00:56.99",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "faith",
+    "Start Timecode": "00:00:56.99",
+    "End Timecode": "00:00:57.76",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "their",
+    "Start Timecode": "00:00:57.77",
+    "End Timecode": "00:00:58.25",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "willingness",
+    "Start Timecode": "00:00:58.25",
+    "End Timecode": "00:00:58.67",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "to",
+    "Start Timecode": "00:00:58.67",
+    "End Timecode": "00:00:58.76",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "put",
+    "Start Timecode": "00:00:58.76",
+    "End Timecode": "00:00:58.94",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "themselves",
+    "Start Timecode": "00:00:58.94",
+    "End Timecode": "00:00:59.33",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "in",
+    "Start Timecode": "00:00:59.33",
+    "End Timecode": "00:00:59.48",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "danger",
+    "Start Timecode": "00:00:59.48",
+    "End Timecode": "00:00:59.87",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "did",
+    "Start Timecode": "00:00:59.97",
+    "End Timecode": "00:01:00.12",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "not",
+    "Start Timecode": "00:01:00.12",
+    "End Timecode": "00:01:00.36",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "go",
+    "Start Timecode": "00:01:00.36",
+    "End Timecode": "00:01:00.54",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "unnoticed",
+    "Start Timecode": "00:01:00.54",
+    "End Timecode": "00:01:01.11",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "for",
+    "Start Timecode": "00:01:01.11",
+    "End Timecode": "00:01:01.29",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "long.",
+    "Start Timecode": "00:01:01.29",
+    "End Timecode": "00:01:01.92",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "The",
+    "Start Timecode": "00:01:01.95",
+    "End Timecode": "00:01:02.34",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "eyes",
+    "Start Timecode": "00:01:02.34",
+    "End Timecode": "00:01:02.61",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "of",
+    "Start Timecode": "00:01:02.61",
+    "End Timecode": "00:01:02.73",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "the",
+    "Start Timecode": "00:01:02.73",
+    "End Timecode": "00:01:02.85",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "night",
+    "Start Timecode": "00:01:02.85",
+    "End Timecode": "00:01:03.18",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "sky",
+    "Start Timecode": "00:01:03.18",
+    "End Timecode": "00:01:03.66",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "watched",
+    "Start Timecode": "00:01:03.66",
+    "End Timecode": "00:01:04.08",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "diligently",
+    "Start Timecode": "00:01:04.08",
+    "End Timecode": "00:01:04.95",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "and",
+    "Start Timecode": "00:01:04.95",
+    "End Timecode": "00:01:05.28",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "even",
+    "Start Timecode": "00:01:05.28",
+    "End Timecode": "00:01:05.52",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "among",
+    "Start Timecode": "00:01:05.52",
+    "End Timecode": "00:01:05.79",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "the",
+    "Start Timecode": "00:01:05.79",
+    "End Timecode": "00:01:05.91",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "dunes,",
+    "Start Timecode": "00:01:05.91",
+    "End Timecode": "00:01:06.39",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "the",
+    "Start Timecode": "00:01:06.39",
+    "End Timecode": "00:01:06.51",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "vermin",
+    "Start Timecode": "00:01:06.51",
+    "End Timecode": "00:01:06.96",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "truly",
+    "Start Timecode": "00:01:06.96",
+    "End Timecode": "00:01:07.35",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "persevered.",
+    "Start Timecode": "00:01:07.35",
+    "End Timecode": "00:01:08.19",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "For",
+    "Start Timecode": "00:01:08.22",
+    "End Timecode": "00:01:08.58",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "it",
+    "Start Timecode": "00:01:08.58",
+    "End Timecode": "00:01:08.67",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "is",
+    "Start Timecode": "00:01:08.67",
+    "End Timecode": "00:01:08.82",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "where",
+    "Start Timecode": "00:01:08.82",
+    "End Timecode": "00:01:09.00",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "the",
+    "Start Timecode": "00:01:09.00",
+    "End Timecode": "00:01:09.12",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "three",
+    "Start Timecode": "00:01:09.12",
+    "End Timecode": "00:01:09.39",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "tailed",
+    "Start Timecode": "00:01:09.39",
+    "End Timecode": "00:01:09.69",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "scorpion",
+    "Start Timecode": "00:01:09.69",
+    "End Timecode": "00:01:10.29",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "set",
+    "Start Timecode": "00:01:10.29",
+    "End Timecode": "00:01:10.53",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "his",
+    "Start Timecode": "00:01:10.53",
+    "End Timecode": "00:01:10.77",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "cruel",
+    "Start Timecode": "00:01:10.77",
+    "End Timecode": "00:01:11.16",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "stage.",
+    "Start Timecode": "00:01:11.16",
+    "End Timecode": "00:01:12.03",
+    "Speaker": "Speaker1"
+  }
+],
+"data_start": 73.02,
+"data_end": 116.39
+ },
+  {
+    "Word": "Melody",
+    "Start Timecode": "00:01:12.59",
+    "End Timecode": "00:01:13.22",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "Primer.",
+    "Start Timecode": "00:01:13.25",
+    "End Timecode": "00:01:13.85",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "The",
+    "Start Timecode": "00:01:14.15",
+    "End Timecode": "00:01:14.57",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "Melody.",
+    "Start Timecode": "00:01:14.57",
+    "End Timecode": "00:01:15.14",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "Children",
+    "Start Timecode": "00:01:15.17",
+    "End Timecode": "00:01:15.71",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "of",
+    "Start Timecode": "00:01:15.74",
+    "End Timecode": "00:01:15.83",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "the",
+    "Start Timecode": "00:01:15.83",
+    "End Timecode": "00:01:15.95",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "Sands",
+    "Start Timecode": "00:01:15.95",
+    "End Timecode": "00:01:16.52",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "and",
+    "Start Timecode": "00:01:16.52",
+    "End Timecode": "00:01:16.85",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "the",
+    "Start Timecode": "00:01:16.85",
+    "End Timecode": "00:01:16.97",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "Sworn",
+    "Start Timecode": "00:01:16.97",
+    "End Timecode": "00:01:17.30",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "of",
+    "Start Timecode": "00:01:17.33",
+    "End Timecode": "00:01:17.45",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "As-sirat.",
+    "Start Timecode": "00:01:17.45",
+    "End Timecode": "00:01:18.29",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "From",
+    "Start Timecode": "00:01:18.44",
+    "End Timecode": "00:01:18.86",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "the",
+    "Start Timecode": "00:01:18.86",
+    "End Timecode": "00:01:18.98",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "scorching",
+    "Start Timecode": "00:01:18.98",
+    "End Timecode": "00:01:19.46",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "deserts",
+    "Start Timecode": "00:01:19.46",
+    "End Timecode": "00:01:19.88",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "to",
+    "Start Timecode": "00:01:19.88",
+    "End Timecode": "00:01:20.06",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "the",
+    "Start Timecode": "00:01:20.06",
+    "End Timecode": "00:01:20.15",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "dry",
+    "Start Timecode": "00:01:20.15",
+    "End Timecode": "00:01:20.45",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "savannas",
+    "Start Timecode": "00:01:20.45",
+    "End Timecode": "00:01:20.93",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "of",
+    "Start Timecode": "00:01:20.93",
+    "End Timecode": "00:01:21.02",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "the",
+    "Start Timecode": "00:01:21.02",
+    "End Timecode": "00:01:21.14",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "Southeast.",
+    "Start Timecode": "00:01:21.14",
+    "End Timecode": "00:01:21.89",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "The",
+    "Start Timecode": "00:01:21.92",
+    "End Timecode": "00:01:22.19",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "melody",
+    "Start Timecode": "00:01:22.22",
+    "End Timecode": "00:01:22.61",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "had",
+    "Start Timecode": "00:01:22.64",
+    "End Timecode": "00:01:22.85",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "wandered",
+    "Start Timecode": "00:01:22.85",
+    "End Timecode": "00:01:23.24",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "long",
+    "Start Timecode": "00:01:23.24",
+    "End Timecode": "00:01:23.60",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "and",
+    "Start Timecode": "00:01:23.60",
+    "End Timecode": "00:01:23.81",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "far.",
+    "Start Timecode": "00:01:23.81",
+    "End Timecode": "00:01:24.36",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "Living",
+    "Start Timecode": "00:01:24.38",
+    "End Timecode": "00:01:24.95",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "where",
+    "Start Timecode": "00:01:24.95",
+    "End Timecode": "00:01:25.13",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "no",
+    "Start Timecode": "00:01:25.16",
+    "End Timecode": "00:01:25.31",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "other",
+    "Start Timecode": "00:01:25.31",
+    "End Timecode": "00:01:25.58",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "could.",
+    "Start Timecode": "00:01:25.58",
+    "End Timecode": "00:01:26.15",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "Thriving",
+    "Start Timecode": "00:01:26.18",
+    "End Timecode": "00:01:26.93",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "when",
+    "Start Timecode": "00:01:26.93",
+    "End Timecode": "00:01:27.11",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "the",
+    "Start Timecode": "00:01:27.11",
+    "End Timecode": "00:01:27.20",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "world",
+    "Start Timecode": "00:01:27.20",
+    "End Timecode": "00:01:27.53",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "was",
+    "Start Timecode": "00:01:27.53",
+    "End Timecode": "00:01:27.71",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "poisoned.",
+    "Start Timecode": "00:01:27.71",
+    "End Timecode": "00:01:28.52",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "These",
+    "Start Timecode": "00:01:28.55",
+    "End Timecode": "00:01:29.18",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "tough",
+    "Start Timecode": "00:01:29.18",
+    "End Timecode": "00:01:29.54",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "skinned",
+    "Start Timecode": "00:01:29.54",
+    "End Timecode": "00:01:29.93",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "warriors,",
+    "Start Timecode": "00:01:29.96",
+    "End Timecode": "00:01:30.56",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "artisans",
+    "Start Timecode": "00:01:30.59",
+    "End Timecode": "00:01:31.31",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "and",
+    "Start Timecode": "00:01:31.31",
+    "End Timecode": "00:01:31.52",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "advisers,",
+    "Start Timecode": "00:01:31.52",
+    "End Timecode": "00:01:32.00",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "have",
+    "Start Timecode": "00:01:32.00",
+    "End Timecode": "00:01:32.18",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "stood",
+    "Start Timecode": "00:01:32.18",
+    "End Timecode": "00:01:32.42",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "the",
+    "Start Timecode": "00:01:32.42",
+    "End Timecode": "00:01:32.51",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "test",
+    "Start Timecode": "00:01:32.51",
+    "End Timecode": "00:01:32.84",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "of",
+    "Start Timecode": "00:01:32.84",
+    "End Timecode": "00:01:32.93",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "time",
+    "Start Timecode": "00:01:32.93",
+    "End Timecode": "00:01:33.29",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "so",
+    "Start Timecode": "00:01:33.29",
+    "End Timecode": "00:01:33.53",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "far",
+    "Start Timecode": "00:01:33.53",
+    "End Timecode": "00:01:33.80",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "through",
+    "Start Timecode": "00:01:33.80",
+    "End Timecode": "00:01:34.04",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "both",
+    "Start Timecode": "00:01:34.04",
+    "End Timecode": "00:01:34.34",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "their",
+    "Start Timecode": "00:01:34.34",
+    "End Timecode": "00:01:34.55",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "zeal",
+    "Start Timecode": "00:01:34.55",
+    "End Timecode": "00:01:34.91",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "and",
+    "Start Timecode": "00:01:34.91",
+    "End Timecode": "00:01:35.27",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "willingness",
+    "Start Timecode": "00:01:35.27",
+    "End Timecode": "00:01:35.75",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "to",
+    "Start Timecode": "00:01:35.75",
+    "End Timecode": "00:01:35.87",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "persevere.",
+    "Start Timecode": "00:01:35.87",
+    "End Timecode": "00:01:36.74",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "To",
+    "Start Timecode": "00:01:36.77",
+    "End Timecode": "00:01:37.19",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "laugh",
+    "Start Timecode": "00:01:37.19",
+    "End Timecode": "00:01:37.58",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "in",
+    "Start Timecode": "00:01:37.58",
+    "End Timecode": "00:01:37.70",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "the",
+    "Start Timecode": "00:01:37.70",
+    "End Timecode": "00:01:37.79",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "face",
+    "Start Timecode": "00:01:37.79",
+    "End Timecode": "00:01:38.09",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "of",
+    "Start Timecode": "00:01:38.09",
+    "End Timecode": "00:01:38.21",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "death,",
+    "Start Timecode": "00:01:38.21",
+    "End Timecode": "00:01:38.65",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "surely",
+    "Start Timecode": "00:01:38.66",
+    "End Timecode": "00:01:39.14",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "taking",
+    "Start Timecode": "00:01:39.14",
+    "End Timecode": "00:01:39.47",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "much",
+    "Start Timecode": "00:01:39.47",
+    "End Timecode": "00:01:39.71",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "pride",
+    "Start Timecode": "00:01:39.71",
+    "End Timecode": "00:01:40.07",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "in",
+    "Start Timecode": "00:01:40.07",
+    "End Timecode": "00:01:40.22",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "spite",
+    "Start Timecode": "00:01:40.22",
+    "End Timecode": "00:01:40.49",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "of",
+    "Start Timecode": "00:01:40.49",
+    "End Timecode": "00:01:40.61",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "adversity.",
+    "Start Timecode": "00:01:40.61",
+    "End Timecode": "00:01:41.45",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "Though",
+    "Start Timecode": "00:01:41.48",
+    "End Timecode": "00:01:41.84",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "it",
+    "Start Timecode": "00:01:41.84",
+    "End Timecode": "00:01:41.90",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "is",
+    "Start Timecode": "00:01:41.90",
+    "End Timecode": "00:01:42.05",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "wrong",
+    "Start Timecode": "00:01:42.05",
+    "End Timecode": "00:01:42.26",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "to",
+    "Start Timecode": "00:01:42.29",
+    "End Timecode": "00:01:42.41",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "say",
+    "Start Timecode": "00:01:42.41",
+    "End Timecode": "00:01:42.59",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "the",
+    "Start Timecode": "00:01:42.59",
+    "End Timecode": "00:01:42.68",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "melody",
+    "Start Timecode": "00:01:42.71",
+    "End Timecode": "00:01:43.13",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "have",
+    "Start Timecode": "00:01:43.16",
+    "End Timecode": "00:01:43.34",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "not",
+    "Start Timecode": "00:01:43.34",
+    "End Timecode": "00:01:43.55",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "faced",
+    "Start Timecode": "00:01:43.55",
+    "End Timecode": "00:01:44.00",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "tragedy",
+    "Start Timecode": "00:01:44.00",
+    "End Timecode": "00:01:44.91",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "from",
+    "Start Timecode": "00:01:44.93",
+    "End Timecode": "00:01:45.38",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "the",
+    "Start Timecode": "00:01:45.38",
+    "End Timecode": "00:01:45.44",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "beginning.",
+    "Start Timecode": "00:01:45.44",
+    "End Timecode": "00:01:45.86",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "They",
+    "Start Timecode": "00:01:45.86",
+    "End Timecode": "00:01:45.98",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "were",
+    "Start Timecode": "00:01:46.01",
+    "End Timecode": "00:01:46.13",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "nomads",
+    "Start Timecode": "00:01:46.13",
+    "End Timecode": "00:01:46.94",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "living",
+    "Start Timecode": "00:01:46.97",
+    "End Timecode": "00:01:47.48",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "from",
+    "Start Timecode": "00:01:47.48",
+    "End Timecode": "00:01:47.69",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "place",
+    "Start Timecode": "00:01:47.69",
+    "End Timecode": "00:01:47.96",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "to",
+    "Start Timecode": "00:01:47.96",
+    "End Timecode": "00:01:48.05",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "place,",
+    "Start Timecode": "00:01:48.05",
+    "End Timecode": "00:01:48.38",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "always",
+    "Start Timecode": "00:01:48.38",
+    "End Timecode": "00:01:48.77",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "on",
+    "Start Timecode": "00:01:48.77",
+    "End Timecode": "00:01:48.89",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "the",
+    "Start Timecode": "00:01:48.89",
+    "End Timecode": "00:01:48.98",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "move.",
+    "Start Timecode": "00:01:48.98",
+    "End Timecode": "00:01:49.64",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "But",
+    "Start Timecode": "00:01:49.67",
+    "End Timecode": "00:01:50.12",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "they",
+    "Start Timecode": "00:01:50.12",
+    "End Timecode": "00:01:50.30",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "were",
+    "Start Timecode": "00:01:50.33",
+    "End Timecode": "00:01:50.48",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "wanderers",
+    "Start Timecode": "00:01:50.48",
+    "End Timecode": "00:01:51.05",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "who",
+    "Start Timecode": "00:01:51.05",
+    "End Timecode": "00:01:51.23",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "disrespected",
+    "Start Timecode": "00:01:51.23",
+    "End Timecode": "00:01:52.04",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "the",
+    "Start Timecode": "00:01:52.04",
+    "End Timecode": "00:01:52.13",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "tenets",
+    "Start Timecode": "00:01:52.13",
+    "End Timecode": "00:01:52.49",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "of",
+    "Start Timecode": "00:01:52.49",
+    "End Timecode": "00:01:52.61",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "their",
+    "Start Timecode": "00:01:52.64",
+    "End Timecode": "00:01:52.85",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "former",
+    "Start Timecode": "00:01:52.85",
+    "End Timecode": "00:01:53.21",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "tribe.",
+    "Start Timecode": "00:01:53.21",
+    "End Timecode": "00:01:53.69",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "Now",
+    "Start Timecode": "00:01:53.69",
+    "End Timecode": "00:01:54.05",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "instead",
+    "Start Timecode": "00:01:54.05",
+    "End Timecode": "00:01:54.41",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "forced",
+    "Start Timecode": "00:01:54.41",
+    "End Timecode": "00:01:54.80",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "to",
+    "Start Timecode": "00:01:54.80",
+    "End Timecode": "00:01:55.04",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "seal",
+    "Start Timecode": "00:01:55.04",
+    "End Timecode": "00:01:55.40",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "their",
+    "Start Timecode": "00:01:55.40",
+    "End Timecode": "00:01:55.61",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "fate",
+    "Start Timecode": "00:01:55.61",
+    "End Timecode": "00:01:55.91",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "by",
+    "Start Timecode": "00:01:55.91",
+    "End Timecode": "00:01:56.18",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "wandering",
+    "Start Timecode": "00:01:56.18",
+    "End Timecode": "00:01:56.63",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "the",
+    "Start Timecode": "00:01:56.63",
+    "End Timecode": "00:01:56.75",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "dunes",
+    "Start Timecode": "00:01:56.75",
+    "End Timecode": "00:01:57.20",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "of",
+    "Start Timecode": "00:01:57.20",
+    "End Timecode": "00:01:57.35",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "death",
+    "Start Timecode": "00:01:57.35",
+    "End Timecode": "00:01:58.01",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "where",
+    "Start Timecode": "00:01:58.01",
+    "End Timecode": "00:01:58.37",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "no",
+    "Start Timecode": "00:01:58.40",
+    "End Timecode": "00:01:58.58",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "man",
+    "Start Timecode": "00:01:58.58",
+    "End Timecode": "00:01:58.88",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "or",
+    "Start Timecode": "00:01:58.88",
+    "End Timecode": "00:01:59.06",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "God",
+    "Start Timecode": "00:01:59.06",
+    "End Timecode": "00:01:59.30",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "alike",
+    "Start Timecode": "00:01:59.30",
+    "End Timecode": "00:01:59.63",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "emerged",
+    "Start Timecode": "00:01:59.66",
+    "End Timecode": "00:02:00.14",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "alive.",
+    "Start Timecode": "00:02:00.14",
+    "End Timecode": "00:02:00.83",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "A",
+    "Start Timecode": "00:02:00.86",
+    "End Timecode": "00:02:01.07",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "most",
+    "Start Timecode": "00:02:01.07",
+    "End Timecode": "00:02:01.34",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "cruel",
+    "Start Timecode": "00:02:01.34",
+    "End Timecode": "00:02:01.70",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "punishment",
+    "Start Timecode": "00:02:01.70",
+    "End Timecode": "00:02:02.36",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "invoked",
+    "Start Timecode": "00:02:02.36",
+    "End Timecode": "00:02:02.93",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "only",
+    "Start Timecode": "00:02:02.93",
+    "End Timecode": "00:02:03.20",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "by",
+    "Start Timecode": "00:02:03.20",
+    "End Timecode": "00:02:03.38",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "the",
+    "Start Timecode": "00:02:03.38",
+    "End Timecode": "00:02:03.50",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "harshest",
+    "Start Timecode": "00:02:03.50",
+    "End Timecode": "00:02:04.01",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "of",
+    "Start Timecode": "00:02:04.01",
+    "End Timecode": "00:02:04.13",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "chiefs",
+    "Start Timecode": "00:02:04.13",
+    "End Timecode": "00:02:04.49",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "at",
+    "Start Timecode": "00:02:04.49",
+    "End Timecode": "00:02:04.61",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "the",
+    "Start Timecode": "00:02:04.61",
+    "End Timecode": "00:02:04.70",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "time.",
+    "Start Timecode": "00:02:04.70",
+    "End Timecode": "00:02:05.37",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "Yet",
+    "Start Timecode": "00:02:05.39",
+    "End Timecode": "00:02:05.81",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "this",
+    "Start Timecode": "00:02:05.81",
+    "End Timecode": "00:02:06.17",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "was",
+    "Start Timecode": "00:02:06.17",
+    "End Timecode": "00:02:06.41",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "the",
+    "Start Timecode": "00:02:06.41",
+    "End Timecode": "00:02:06.56",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "rast",
+    "Start Timecode": "00:02:06.56",
+    "End Timecode": "00:02:06.92",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "proof",
+    "Start Timecode": "00:02:06.92",
+    "End Timecode": "00:02:07.37",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "of",
+    "Start Timecode": "00:02:07.37",
+    "End Timecode": "00:02:07.58",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "faith.",
+    "Start Timecode": "00:02:07.58",
+    "End Timecode": "00:02:08.26",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "Their",
+    "Start Timecode": "00:02:08.27",
+    "End Timecode": "00:02:08.72",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "willingness",
+    "Start Timecode": "00:02:08.72",
+    "End Timecode": "00:02:09.11",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "to",
+    "Start Timecode": "00:02:09.11",
+    "End Timecode": "00:02:09.20",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "put",
+    "Start Timecode": "00:02:09.20",
+    "End Timecode": "00:02:09.38",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "themselves",
+    "Start Timecode": "00:02:09.38",
+    "End Timecode": "00:02:09.80",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "in",
+    "Start Timecode": "00:02:09.80",
+    "End Timecode": "00:02:09.95",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "danger",
+    "Start Timecode": "00:02:09.95",
+    "End Timecode": "00:02:10.28",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "did",
+    "Start Timecode": "00:02:10.28",
+    "End Timecode": "00:02:10.43",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "not",
+    "Start Timecode": "00:02:10.43",
+    "End Timecode": "00:02:10.61",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "go",
+    "Start Timecode": "00:02:10.61",
+    "End Timecode": "00:02:10.76",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "unnoticed",
+    "Start Timecode": "00:02:10.76",
+    "End Timecode": "00:02:11.30",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "for",
+    "Start Timecode": "00:02:11.30",
+    "End Timecode": "00:02:11.45",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "long.",
+    "Start Timecode": "00:02:11.45",
+    "End Timecode": "00:02:12.14",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "The",
+    "Start Timecode": "00:02:12.27",
+    "End Timecode": "00:02:12.75",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "eyes",
+    "Start Timecode": "00:02:12.75",
+    "End Timecode": "00:02:13.02",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "of",
+    "Start Timecode": "00:02:13.02",
+    "End Timecode": "00:02:13.11",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "the",
+    "Start Timecode": "00:02:13.11",
+    "End Timecode": "00:02:13.23",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "night",
+    "Start Timecode": "00:02:13.23",
+    "End Timecode": "00:02:13.53",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "sky",
+    "Start Timecode": "00:02:13.53",
+    "End Timecode": "00:02:13.92",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "watch",
+    "Start Timecode": "00:02:13.95",
+    "End Timecode": "00:02:14.40",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "diligently",
+    "Start Timecode": "00:02:14.40",
+    "End Timecode": "00:02:15.27",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "and",
+    "Start Timecode": "00:02:15.27",
+    "End Timecode": "00:02:15.57",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "even",
+    "Start Timecode": "00:02:15.57",
+    "End Timecode": "00:02:15.78",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "among",
+    "Start Timecode": "00:02:15.78",
+    "End Timecode": "00:02:16.05",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "the",
+    "Start Timecode": "00:02:16.05",
+    "End Timecode": "00:02:16.14",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "dunes.",
+    "Start Timecode": "00:02:16.14",
+    "End Timecode": "00:02:16.62",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "The",
+    "Start Timecode": "00:02:16.62",
+    "End Timecode": "00:02:16.80",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "vermin",
+    "Start Timecode": "00:02:16.80",
+    "End Timecode": "00:02:17.19",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "truly",
+    "Start Timecode": "00:02:17.19",
+    "End Timecode": "00:02:17.55",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "persevered.",
+    "Start Timecode": "00:02:17.55",
+    "End Timecode": "00:02:18.35",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "For",
+    "Start Timecode": "00:02:18.36",
+    "End Timecode": "00:02:18.66",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "it",
+    "Start Timecode": "00:02:18.66",
+    "End Timecode": "00:02:18.78",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "is",
+    "Start Timecode": "00:02:18.78",
+    "End Timecode": "00:02:18.93",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "where",
+    "Start Timecode": "00:02:18.93",
+    "End Timecode": "00:02:19.08",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "the",
+    "Start Timecode": "00:02:19.08",
+    "End Timecode": "00:02:19.20",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "three",
+    "Start Timecode": "00:02:19.20",
+    "End Timecode": "00:02:19.56",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "tailed",
+    "Start Timecode": "00:02:19.56",
+    "End Timecode": "00:02:19.92",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "scorpion",
+    "Start Timecode": "00:02:19.92",
+    "End Timecode": "00:02:20.55",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "set",
+    "Start Timecode": "00:02:20.55",
+    "End Timecode": "00:02:20.82",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "his",
+    "Start Timecode": "00:02:20.82",
+    "End Timecode": "00:02:21.03",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "cruel",
+    "Start Timecode": "00:02:21.03",
+    "End Timecode": "00:02:21.45",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "stage.",
+    "Start Timecode": "00:02:21.45",
+    "End Timecode": "00:02:22.26",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "Deprived",
+    "Start Timecode": "00:02:22.47",
+    "End Timecode": "00:02:23.19",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "of",
+    "Start Timecode": "00:02:23.19",
+    "End Timecode": "00:02:23.31",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "ailments,",
+    "Start Timecode": "00:02:23.31",
+    "End Timecode": "00:02:23.85",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "the",
+    "Start Timecode": "00:02:23.85",
+    "End Timecode": "00:02:24.12",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "wandering",
+    "Start Timecode": "00:02:24.12",
+    "End Timecode": "00:02:24.54",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "pilgrims",
+    "Start Timecode": "00:02:24.54",
+    "End Timecode": "00:02:25.08",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "stopped",
+    "Start Timecode": "00:02:25.08",
+    "End Timecode": "00:02:25.56",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "to",
+    "Start Timecode": "00:02:25.56",
+    "End Timecode": "00:02:25.77",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "rest.",
+    "Start Timecode": "00:02:25.77",
+    "End Timecode": "00:02:26.49",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "This",
+    "Start Timecode": "00:02:26.70",
+    "End Timecode": "00:02:27.18",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "is",
+    "Start Timecode": "00:02:27.18",
+    "End Timecode": "00:02:27.33",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "when",
+    "Start Timecode": "00:02:27.33",
+    "End Timecode": "00:02:27.51",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "the",
+    "Start Timecode": "00:02:27.51",
+    "End Timecode": "00:02:27.63",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "soaring",
+    "Start Timecode": "00:02:27.63",
+    "End Timecode": "00:02:28.08",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "ishq",
+    "Start Timecode": "00:02:28.11",
+    "End Timecode": "00:02:28.59",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "happened",
+    "Start Timecode": "00:02:28.59",
+    "End Timecode": "00:02:29.04",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "upon",
+    "Start Timecode": "00:02:29.04",
+    "End Timecode": "00:02:29.28",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "the",
+    "Start Timecode": "00:02:29.28",
+    "End Timecode": "00:02:29.37",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "poisoned",
+    "Start Timecode": "00:02:29.37",
+    "End Timecode": "00:02:29.82",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "oasis",
+    "Start Timecode": "00:02:29.82",
+    "End Timecode": "00:02:30.48",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "where",
+    "Start Timecode": "00:02:30.51",
+    "End Timecode": "00:02:30.84",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "the",
+    "Start Timecode": "00:02:30.84",
+    "End Timecode": "00:02:30.96",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "blind",
+    "Start Timecode": "00:02:30.96",
+    "End Timecode": "00:02:31.38",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "and",
+    "Start Timecode": "00:02:31.38",
+    "End Timecode": "00:02:31.59",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "gangrenous",
+    "Start Timecode": "00:02:31.59",
+    "End Timecode": "00:02:32.16",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "pilgrim",
+    "Start Timecode": "00:02:32.16",
+    "End Timecode": "00:02:32.61",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "submerged",
+    "Start Timecode": "00:02:32.61",
+    "End Timecode": "00:02:33.15",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "himself",
+    "Start Timecode": "00:02:33.15",
+    "End Timecode": "00:02:33.69",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "and",
+    "Start Timecode": "00:02:33.69",
+    "End Timecode": "00:02:33.99",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "succumbed",
+    "Start Timecode": "00:02:33.99",
+    "End Timecode": "00:02:34.50",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "to",
+    "Start Timecode": "00:02:34.50",
+    "End Timecode": "00:02:34.68",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "the",
+    "Start Timecode": "00:02:34.68",
+    "End Timecode": "00:02:34.77",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "scorpion's",
+    "Start Timecode": "00:02:34.77",
+    "End Timecode": "00:02:35.34",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "poison",
+    "Start Timecode": "00:02:35.34",
+    "End Timecode": "00:02:35.97",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "as",
+    "Start Timecode": "00:02:35.97",
+    "End Timecode": "00:02:36.39",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "irad.",
+    "Start Timecode": "00:02:36.39",
+    "End Timecode": "00:02:36.93",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "The",
+    "Start Timecode": "00:02:37.43",
+    "End Timecode": "00:02:37.67",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "pilgrim",
+    "Start Timecode": "00:02:37.67",
+    "End Timecode": "00:02:38.12",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "Isaac",
+    "Start Timecode": "00:02:38.12",
+    "End Timecode": "00:02:38.51",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "emerged",
+    "Start Timecode": "00:02:38.54",
+    "End Timecode": "00:02:39.02",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "in",
+    "Start Timecode": "00:02:39.02",
+    "End Timecode": "00:02:39.20",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "health,",
+    "Start Timecode": "00:02:39.20",
+    "End Timecode": "00:02:39.61",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "blessed",
+    "Start Timecode": "00:02:39.62",
+    "End Timecode": "00:02:40.19",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "with",
+    "Start Timecode": "00:02:40.19",
+    "End Timecode": "00:02:40.43",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "seeing",
+    "Start Timecode": "00:02:40.43",
+    "End Timecode": "00:02:40.79",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "and",
+    "Start Timecode": "00:02:40.79",
+    "End Timecode": "00:02:40.91",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "a",
+    "Start Timecode": "00:02:40.91",
+    "End Timecode": "00:02:41.00",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "full",
+    "Start Timecode": "00:02:41.00",
+    "End Timecode": "00:02:41.24",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "stomach.",
+    "Start Timecode": "00:02:41.24",
+    "End Timecode": "00:02:41.75",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "He",
+    "Start Timecode": "00:02:41.78",
+    "End Timecode": "00:02:42.05",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "told",
+    "Start Timecode": "00:02:42.05",
+    "End Timecode": "00:02:42.29",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "the",
+    "Start Timecode": "00:02:42.29",
+    "End Timecode": "00:02:42.38",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "other",
+    "Start Timecode": "00:02:42.38",
+    "End Timecode": "00:02:42.62",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "pilgrims",
+    "Start Timecode": "00:02:42.62",
+    "End Timecode": "00:02:43.10",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "the",
+    "Start Timecode": "00:02:43.10",
+    "End Timecode": "00:02:43.22",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "truth",
+    "Start Timecode": "00:02:43.22",
+    "End Timecode": "00:02:43.58",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "of",
+    "Start Timecode": "00:02:43.58",
+    "End Timecode": "00:02:43.73",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "the",
+    "Start Timecode": "00:02:43.73",
+    "End Timecode": "00:02:43.88",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "oasis.",
+    "Start Timecode": "00:02:43.88",
+    "End Timecode": "00:02:44.75",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "They",
+    "Start Timecode": "00:02:44.78",
+    "End Timecode": "00:02:45.23",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "knew",
+    "Start Timecode": "00:02:45.23",
+    "End Timecode": "00:02:45.41",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "there",
+    "Start Timecode": "00:02:45.41",
+    "End Timecode": "00:02:45.53",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "was",
+    "Start Timecode": "00:02:45.53",
+    "End Timecode": "00:02:45.65",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "nothing",
+    "Start Timecode": "00:02:45.65",
+    "End Timecode": "00:02:45.92",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "else",
+    "Start Timecode": "00:02:45.92",
+    "End Timecode": "00:02:46.16",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "to",
+    "Start Timecode": "00:02:46.16",
+    "End Timecode": "00:02:46.25",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "be",
+    "Start Timecode": "00:02:46.25",
+    "End Timecode": "00:02:46.34",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "found",
+    "Start Timecode": "00:02:46.34",
+    "End Timecode": "00:02:46.64",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "there",
+    "Start Timecode": "00:02:46.64",
+    "End Timecode": "00:02:46.82",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "than",
+    "Start Timecode": "00:02:46.82",
+    "End Timecode": "00:02:47.00",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "death.",
+    "Start Timecode": "00:02:47.03",
+    "End Timecode": "00:02:47.54",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "And",
+    "Start Timecode": "00:02:47.54",
+    "End Timecode": "00:02:47.81",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "so",
+    "Start Timecode": "00:02:47.81",
+    "End Timecode": "00:02:48.02",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "Isaac",
+    "Start Timecode": "00:02:48.05",
+    "End Timecode": "00:02:48.38",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "was",
+    "Start Timecode": "00:02:48.38",
+    "End Timecode": "00:02:48.62",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "exiled",
+    "Start Timecode": "00:02:48.62",
+    "End Timecode": "00:02:49.16",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "for",
+    "Start Timecode": "00:02:49.16",
+    "End Timecode": "00:02:49.28",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "his",
+    "Start Timecode": "00:02:49.28",
+    "End Timecode": "00:02:49.49",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "insanity.",
+    "Start Timecode": "00:02:49.49",
+    "End Timecode": "00:02:50.48",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "He",
+    "Start Timecode": "00:02:50.69",
+    "End Timecode": "00:02:51.11",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "pondered",
+    "Start Timecode": "00:02:51.11",
+    "End Timecode": "00:02:51.50",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "on",
+    "Start Timecode": "00:02:51.50",
+    "End Timecode": "00:02:51.65",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "what",
+    "Start Timecode": "00:02:51.65",
+    "End Timecode": "00:02:51.80",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "he",
+    "Start Timecode": "00:02:51.80",
+    "End Timecode": "00:02:51.92",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "witnessed",
+    "Start Timecode": "00:02:51.95",
+    "End Timecode": "00:02:52.34",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "within",
+    "Start Timecode": "00:02:52.34",
+    "End Timecode": "00:02:52.67",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "the",
+    "Start Timecode": "00:02:52.67",
+    "End Timecode": "00:02:52.76",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "pond.",
+    "Start Timecode": "00:02:52.76",
+    "End Timecode": "00:02:53.30",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "A",
+    "Start Timecode": "00:02:53.33",
+    "End Timecode": "00:02:53.54",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "red",
+    "Start Timecode": "00:02:53.54",
+    "End Timecode": "00:02:53.78",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "faced",
+    "Start Timecode": "00:02:53.78",
+    "End Timecode": "00:02:54.11",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "man",
+    "Start Timecode": "00:02:54.11",
+    "End Timecode": "00:02:54.41",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "sat",
+    "Start Timecode": "00:02:54.41",
+    "End Timecode": "00:02:54.62",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "across",
+    "Start Timecode": "00:02:54.62",
+    "End Timecode": "00:02:54.95",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "him",
+    "Start Timecode": "00:02:54.95",
+    "End Timecode": "00:02:55.10",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "in",
+    "Start Timecode": "00:02:55.10",
+    "End Timecode": "00:02:55.19",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "a",
+    "Start Timecode": "00:02:55.19",
+    "End Timecode": "00:02:55.25",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "sea",
+    "Start Timecode": "00:02:55.28",
+    "End Timecode": "00:02:55.46",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "of",
+    "Start Timecode": "00:02:55.49",
+    "End Timecode": "00:02:55.64",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "black",
+    "Start Timecode": "00:02:55.64",
+    "End Timecode": "00:02:56.18",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "waters,",
+    "Start Timecode": "00:02:56.18",
+    "End Timecode": "00:02:56.75",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "cold",
+    "Start Timecode": "00:02:56.75",
+    "End Timecode": "00:02:57.20",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "and",
+    "Start Timecode": "00:02:57.20",
+    "End Timecode": "00:02:57.35",
+    "Speaker": "Speaker1"
+  },
+  {
+    "Word": "perilous.",
+    "Start Timecode": "00:02:57.35",
+    "End Timecode": "00:02:58.07",
+    "Speaker": "Speaker1"
+  }
+]
+}
