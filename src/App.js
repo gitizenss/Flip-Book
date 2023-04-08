@@ -10,7 +10,7 @@ import "react-pdf/dist/esm/Page/TextLayer.css";
 import "react-pdf/dist/esm/Page/AnnotationLayer.css";
 import "./App.css";
 import { Highlight, PdfHighlighter, PdfLoader } from "react-pdf-highlighter";
-import transcript from "./transcript/meyaditemp.mp3.json";
+import transcript from "./transcript/csvjsonnew.json";
 import HTMLFlipBook from "react-pageflip";
 import { Pageview } from "@mui/icons-material";
 
@@ -57,14 +57,17 @@ const App = () => {
   }
 
   function modifySpans() {
+    const updatedspans = getSpans();
     const spans = document.querySelectorAll('span[role="presentation"]');
 
     const newpageIndex = pageFlip.current.pageFlip().getCurrentPageIndex();
-    setLastWord(
-      transcript.results[newpageIndex].words[
-        transcript.results[newpageIndex].words.length - 1
-      ].text
-    );
+    if(updatedspans.length>0){
+      setLastWord(
+        transcript.results[newpageIndex].words[
+          transcript.results[newpageIndex].words.length - 1
+        ].Word
+      );
+    }
 
     const newSpans = [];
 
@@ -98,6 +101,7 @@ const App = () => {
 
   const [prevSpan, setPrevSpan] = useState(null);
   const [fixedSpans, setFixedSpans] = useState(0);
+  const [disable, setDisable] = useState(false);
 
   function handleAudioTimeUpdate(
     resultsindex,
@@ -110,11 +114,12 @@ const App = () => {
       modifySpans();
       setFixedSpans(fixedSpans + 1);
     }
-    if (resultsindex !== pageFlip.current.pageFlip().getPageCount()) {
+      if (resultsindex !== pageFlip.current.pageFlip().getPageCount()) {   
+        if(updatedspans.length>0){
       if (time > parseFloat(transcript.results[resultsindex].data_end)) {
         setResultsIndex(resultsindex + 1);
         const index = transcript.results[resultsindex].words.findIndex(
-          (word) => word.text === startingWord
+          (word) => word.Word === startingWord
         );
         setTranscriptIndex(0);
         setWordsIndex(index);
@@ -157,7 +162,7 @@ const App = () => {
           if (
             transcript.results[resultsindex].words[
               transcript.results[resultsindex].words.length - 1
-            ].text === lastWord &&
+            ].Word === lastWord &&
             transcriptindex ===
               transcript.results[resultsindex].words.length - 2
           ) {
@@ -167,7 +172,8 @@ const App = () => {
           }
         }
       }
-    }
+        }
+  }
   }
   useEffect(() => {
     introRef.current.volume = 0.1;
@@ -256,30 +262,43 @@ const App = () => {
   const [oldstate, setOldState] = useState("read");
 
   function changeTimeOnPageChange(newState, oldState) {
+    const updatedspans = getSpans();
     modifySpans();
     const newpageIndex = pageFlip.current.pageFlip().getCurrentPageIndex();
+    if(updatedspans.length>0){
     if (newState.data === "read") {
      
       if (oldstate === "flipping") {
         introRef.current.currentTime = parseFloat(
-          transcript.results[newpageIndex].words[0].data_start - 1
+          transcript.results[newpageIndex].words[0].data_start - 0.5
         );
         console.log(oldpageindex);
         console.log(newpageIndex);
 
         setResultsIndex(newpageIndex);
-        setStartingWord(transcript.results[newpageIndex].words[0].text);
+        setStartingWord(transcript.results[newpageIndex].words[0].Word);
         const spans = getSpans();
         const index = Array.from(spans).findIndex((word) =>
           word.textContent.includes(
-            transcript.results[newpageIndex].words[0].text
+            transcript.results[newpageIndex].words[0].Word
           )
         );
         setTranscriptIndex(0);
         setSpanindex(0);
-        setWordsIndex(index);
+        setWordsIndex(index); 
+        if(disable){
+          setDisable(!disable);
+        }      
       }
+      
     }
+  }else{
+    introRef.current.currentTime = transcript.results[newpageIndex-1].data_end - 0.5;
+    setDisable(!disable);
+    if(playing){
+      setPlaying(!playing)
+    }
+  }
 
     if (newState.data === "flipping") {
       flippingRef.current.play();
@@ -302,22 +321,24 @@ const App = () => {
       const newpageIndex = pageFlip.current.pageFlip().getCurrentPageIndex();
       console.log(oldpageindex);
       console.log(newpageIndex);
+      if(updatedspans.length>0){
       introRef.current.currentTime = parseFloat(
         transcript.results[newpageIndex].words[0].data_start - 1
       );
 
       setResultsIndex(newpageIndex);
-      setStartingWord(transcript.results[newpageIndex].words[0].text);
+      setStartingWord(transcript.results[newpageIndex].words[0].Word);
       const spans = getSpans();
       const index = Array.from(spans).findIndex((word) =>
         word.textContent.includes(
-          transcript.results[newpageIndex].words[0].text
+          transcript.results[newpageIndex].words[0].Word
         )
       );
       setTranscriptIndex(0);
       setSpanindex(0);
       setWordsIndex(index);
     }
+  }
   }
 
   return (
@@ -386,7 +407,9 @@ const App = () => {
                 height="3em"
                 width="3em"
                 onClick={() => {
-                  setPlaying(!playing);
+                  if(!disable){
+                    setPlaying(!playing);
+                  }
                 }}
               >
                 <path d="M512 64C264.6 64 64 264.6 64 512s200.6 448 448 448 448-200.6 448-448S759.4 64 512 64zm0 820c-205.4 0-372-166.6-372-372s166.6-372 372-372 372 166.6 372 372-166.6 372-372 372z" />
@@ -400,7 +423,7 @@ const App = () => {
                 height="3em"
                 width="3em"
                 onClick={() => {
-                  setPlaying(!playing);
+                    setPlaying(!playing);                
                 }}
               >
                 <path d="M512 64C264.6 64 64 264.6 64 512s200.6 448 448 448 448-200.6 448-448S759.4 64 512 64zm0 820c-205.4 0-372-166.6-372-372s166.6-372 372-372 372 166.6 372 372-166.6 372-372 372zm-88-532h-48c-4.4 0-8 3.6-8 8v304c0 4.4 3.6 8 8 8h48c4.4 0 8-3.6 8-8V360c0-4.4-3.6-8-8-8zm224 0h-48c-4.4 0-8 3.6-8 8v304c0 4.4 3.6 8 8 8h48c4.4 0 8-3.6 8-8V360c0-4.4-3.6-8-8-8z" />
