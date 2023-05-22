@@ -18,6 +18,7 @@
     "react-pageflip": "^2.0.3",
     "react-pdf": "latest",
     "react-pdf-highlighter": "^5.6.0",
+    "react-router-dom": "^5.3.4",
     "react-scripts": "^5.0.0",
     "styled-components": "^5.3.9",
     "web-vitals": "^2.1.4"
