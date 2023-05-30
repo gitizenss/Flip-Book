@@ -23,6 +23,12 @@ const pdfRoutes = [
       audioPath: '/Flip-Book/audio/Isilians.mp3',
       transcriptPath: '/Flip-Book/transcript/Isilians.json',
     },
+    {
+      path: '/Glaze',
+      pdfPath: '/Flip-Book/docs/Glaze.pdf',
+      audioPath: '/Flip-Book/audio/Glaze.mp3',
+      transcriptPath: '/Flip-Book/transcript/Glaze.json',
+    },
     // Add more routes as needed
   ];
   
