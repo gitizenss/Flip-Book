@@ -1,4 +1,4 @@
-import React, { useRef, useState, useEffect, forwardRef } from "react";
+import React, { useRef, useState, useEffect } from "react";
 import audio from "./audio/doc2merged.mp3";
 import flippingPageAudio from "./audio/page-flip-8.mp3";
 import {
@@ -9,10 +9,8 @@ import {
 import "react-pdf/dist/esm/Page/TextLayer.css";
 import "react-pdf/dist/esm/Page/AnnotationLayer.css";
 import "./App.css";
-import { Highlight, PdfHighlighter, PdfLoader } from "react-pdf-highlighter";
 import transcript from "./transcript/csvjsonmergedUpdated.json";
 import HTMLFlipBook from "react-pageflip";
-import { Pageview } from "@mui/icons-material";
 import loading from "./images/loading.gif";
 import logo from "./images/logo.png";
 
@@ -42,7 +40,7 @@ const App = () => {
 
   const pageFlip = useRef(null);
   const [width, setWidth] = useState(700);
-  const [height, setHeight] = useState(1081);
+  const [height, setHeight] = useState(2000);
 
   function flipNextPage() {
     pageFlip.current.pageFlip().flipNext();

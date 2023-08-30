@@ -1,5 +1,7 @@
 .App {
   text-align: center;
+  display: flex;
+  justify-content: center;
 }
 
 .App-logo {
@@ -71,15 +73,22 @@ svg {
 }
 
 .pagespdf {
-  width: 50% !important;
+  width: 100% !important;
   height: 1081px !important;
 }
+
+/* canvas{
+  height: 1081px !important;
+} */
+
+/* span[role=presentation]{
+  transform: scale(0.95,1.1) !important;
+} */
 
 .react-pdf__Document {
   position: relative;
   display: inline-block;
 }
-
 .wrap-wrapper {
   position: absolute;
   top: 0;
@@ -101,7 +110,7 @@ svg {
   grid-template-rows: 1fr 1fr;
 }
 .wrapper {
-  position: fixed;
+  position: absolute;
   width: fit-content;
   z-index: 20;
   height: 60px;
@@ -110,7 +119,7 @@ svg {
 }
 .progress-wrapper {
   position: relative;
-  width: 600px;
+  width: 100%;
   background-color: rgba(0, 0, 0, 0.3);
   border-radius: 50px;
 }
@@ -224,7 +233,6 @@ svg {
 }
 
 .placeholder.loading {
-  width: 700px;
   height: 100%;
   opacity: 1;
   position: absolute;
@@ -233,7 +241,6 @@ svg {
 }
 
 .placeholder.loaded {
-  width: 700px;
   height: 100%;
   opacity: 0;
   position: absolute;
@@ -243,8 +250,8 @@ svg {
 }
 .loading {
   position: relative;
-  width: 400px;
-  height: 400px;
+  width: 300px;
+  height: 300px;
 }
 
 .logo {
@@ -325,4 +332,57 @@ svg {
 
 .timer-dropdown > div:hover {
   background-color: #5782ad96;
+}
+
+.stf__block {
+  /* Default styling (for screens with a width less than 400px) */
+  transform: scale(1, 1);
+}
+
+@media (min-width: 200px) and (max-width: 599px) {
+  .stf__block {
+    /* Increase height and decrease width for screens between 400px and 599px */
+    transform: scale(0.7, 1);
+  }
+  .wrap-wrapper {
+    transform: scale(0.7, 1);
+  }
+  .react-pdf__Document{
+    width: 490px !important;
+  }
+  .stf__parent{
+    min-width: 490px !important;
+  }
+}
+
+@media (min-width: 600px) and (max-width: 699px) {
+  .stf__block {
+    /* Increase height and decrease width for screens between 600px and 699px */
+    transform: scale(0.8, 1);
+  }
+  .wrap-wrapper {
+    transform: scale(0.8, 1);
+  }
+  .react-pdf__Document{
+    width: 560px !important;
+  }
+  .stf__parent{
+    min-width: 560px !important;
+  }
+}
+
+@media (min-width: 700px) {
+  .stf__block {
+    /* Increase height and decrease width for screens 700px or greater */
+    transform: scale(1, 1);
+  }
+  .wrap-wrapper {
+    transform: scale(1, 1);
+  }
+  .react-pdf__Document{
+    width: 700px !important;
+  }
+  .stf__parent{
+    min-width: 700px !important;
+  }
 }

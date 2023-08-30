@@ -35,6 +35,24 @@ const pdfRoutes = [
     audioPath: "/Flip-Book/audio/Joagundr.mp3",
     transcriptPath: "/Flip-Book/transcript/Joagundr.json",
   },
+  {
+    path: "/Huzvok",
+    pdfPath: "/Flip-Book/docs/Huzvok.pdf",
+    audioPath: "/Flip-Book/audio/Huzvok.mp3",
+    transcriptPath: "/Flip-Book/transcript/Huzvok.json",
+  },
+  {
+    path: "/Kriyhud",
+    pdfPath: "/Flip-Book/docs/Kriyhud.pdf",
+    audioPath: "/Flip-Book/audio/Kriyhud.mp3",
+    transcriptPath: "/Flip-Book/transcript/Kriyhud.json",
+  },
+  {
+    path: "/Khazgan",
+    pdfPath: "/Flip-Book/docs/Khazgan.pdf",
+    audioPath: "/Flip-Book/audio/Khazgan.mp3",
+    transcriptPath: "/Flip-Book/transcript/Khazgan.json",
+  },
   // Add more routes as needed
 ];
 

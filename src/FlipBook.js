@@ -62,8 +62,26 @@ const FlipBook = ({ pdfPath, audioPath, transcriptPath, pdfIndex }) => {
   const [isLoading, setIsLoading] = useState(true);
   const [disable, setDisable] = useState(false);
   const pageFlip = useRef(null);
-  const [width, setWidth] = useState(700);
   const [height, setHeight] = useState(1081);
+
+  const [width, setWidth] = useState(700);
+
+  // const handleResize = () => {
+  //   const newWidth = window.innerWidth;
+  //   if (newWidth > 700) {
+  //     setWidth(700);
+  //   } else if (newWidth < 400) {
+  //     setWidth(400);
+  //   } else {
+  //     setWidth(newWidth);
+  //   }
+  //   setHeight(window.innerHeight);
+  // };
+
+  // useEffect(() => {
+  //   // Call handleResize on mount to set the initial width
+  //   handleResize();
+  // }, []);
 
   function flipNextPage() {
     pageFlip.current.pageFlip().flipNext();
@@ -1318,7 +1336,10 @@ const FlipBook = ({ pdfPath, audioPath, transcriptPath, pdfIndex }) => {
         </Document>
       )}
       <div className="placeholder-wrapper">
-        <div className={`placeholder ${isLoading ? "loading" : "loaded"}`}>
+        <div
+          className={`placeholder ${isLoading ? "loading" : "loaded"}`}
+          style={{ width: isLoading ? `${width}px` : `${width}px` }}
+        >
           {" "}
           <img className="loadinggif" src={loading} alt="Loading..." />{" "}
           <img className="logo" src={logo} alt="DNDCRAFT" />{" "}
