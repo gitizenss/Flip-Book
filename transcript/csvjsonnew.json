@@ -1,0 +1,4136 @@
+{
+  "results": [
+    {
+      "words": [
+        {
+            "Word": "he",
+            "Start Timecode": "00:00:00.02",
+            "End Timecode": "00:00:00.05",
+            "Speaker": "Speaker1",
+            "data_start": 0.02,
+            "data_end": 0.05
+          },
+        {
+          "Word": "Melody.",
+          "Start Timecode": "00:00:00.05",
+          "End Timecode": "00:00:00.58",
+          "Speaker": "Speaker1",
+          "data_start": 0.05,
+          "data_end": 0.58
+        },
+        {
+          "Word": "Children",
+          "Start Timecode": "00:00:00.74",
+          "End Timecode": "00:00:01.28",
+          "Speaker": "Speaker1",
+          "data_start": 0.74,
+          "data_end": 1.28
+        },
+        {
+          "Word": "of",
+          "Start Timecode": "00:00:01.28",
+          "End Timecode": "00:00:01.37",
+          "Speaker": "Speaker1",
+          "data_start": 1.28,
+          "data_end": 1.37
+        },
+        {
+          "Word": "the",
+          "Start Timecode": "00:00:01.37",
+          "End Timecode": "00:00:01.49",
+          "Speaker": "Speaker1",
+          "data_start": 1.37,
+          "data_end": 1.49
+        },
+        {
+          "Word": "Sands",
+          "Start Timecode": "00:00:01.49",
+          "End Timecode": "00:00:02.21",
+          "Speaker": "Speaker1",
+          "data_start": 1.49,
+          "data_end": 2.21
+        },
+        {
+          "Word": "and",
+          "Start Timecode": "00:00:02.21",
+          "End Timecode": "00:00:02.51",
+          "Speaker": "Speaker1",
+          "data_start": 2.21,
+          "data_end": 2.51
+        },
+        {
+          "Word": "the",
+          "Start Timecode": "00:00:02.51",
+          "End Timecode": "00:00:02.63",
+          "Speaker": "Speaker1",
+          "data_start": 2.51,
+          "data_end": 2.63
+        },
+        {
+          "Word": "Sworn",
+          "Start Timecode": "00:00:02.63",
+          "End Timecode": "00:00:03.05",
+          "Speaker": "Speaker1",
+          "data_start": 2.63,
+          "data_end": 3.05
+        },
+        {
+          "Word": "of",
+          "Start Timecode": "00:00:03.08",
+          "End Timecode": "00:00:03.20",
+          "Speaker": "Speaker1",
+          "data_start": 3.08,
+          "data_end": 3.2
+        },
+        {
+          "Word": "As-sirat.",
+          "Start Timecode": "00:00:03.20",
+          "End Timecode": "00:00:04.04",
+          "Speaker": "Speaker1",
+          "data_start": 3.2,
+          "data_end": 4.04
+        },
+        {
+          "Word": "From",
+          "Start Timecode": "00:00:04.25",
+          "End Timecode": "00:00:04.70",
+          "Speaker": "Speaker1",
+          "data_start": 4.25,
+          "data_end": 4.7
+        },
+        {
+          "Word": "the",
+          "Start Timecode": "00:00:04.70",
+          "End Timecode": "00:00:04.79",
+          "Speaker": "Speaker1",
+          "data_start": 4.7,
+          "data_end": 4.79
+        },
+        {
+          "Word": "scorching",
+          "Start Timecode": "00:00:04.79",
+          "End Timecode": "00:00:05.36",
+          "Speaker": "Speaker1",
+          "data_start": 4.79,
+          "data_end": 5.36
+        },
+        {
+          "Word": "deserts",
+          "Start Timecode": "00:00:05.36",
+          "End Timecode": "00:00:05.78",
+          "Speaker": "Speaker1",
+          "data_start": 5.36,
+          "data_end": 5.78
+        },
+        {
+          "Word": "to",
+          "Start Timecode": "00:00:05.78",
+          "End Timecode": "00:00:05.96",
+          "Speaker": "Speaker1",
+          "data_start": 5.78,
+          "data_end": 5.96
+        },
+        {
+          "Word": "the",
+          "Start Timecode": "00:00:05.96",
+          "End Timecode": "00:00:06.08",
+          "Speaker": "Speaker1",
+          "data_start": 5.96,
+          "data_end": 6.08
+        },
+        {
+          "Word": "dry",
+          "Start Timecode": "00:00:06.08",
+          "End Timecode": "00:00:06.35",
+          "Speaker": "Speaker1",
+          "data_start": 6.08,
+          "data_end": 6.35
+        },
+        {
+          "Word": "savannas",
+          "Start Timecode": "00:00:06.38",
+          "End Timecode": "00:00:06.86",
+          "Speaker": "Speaker1",
+          "data_start": 6.38,
+          "data_end": 6.86
+        },
+        {
+          "Word": "of",
+          "Start Timecode": "00:00:06.86",
+          "End Timecode": "00:00:06.98",
+          "Speaker": "Speaker1",
+          "data_start": 6.86,
+          "data_end": 6.98
+        },
+        {
+          "Word": "the",
+          "Start Timecode": "00:00:06.98",
+          "End Timecode": "00:00:07.07",
+          "Speaker": "Speaker1",
+          "data_start": 6.98,
+          "data_end": 7.07
+        },
+        {
+          "Word": "South.",
+          "Start Timecode": "00:00:07.07",
+          "End Timecode": "00:00:07.37",
+          "Speaker": "Speaker1",
+          "data_start": 7.07,
+          "data_end": 7.37
+        },
+        {
+          "Word": "The",
+          "Start Timecode": "00:00:07.94",
+          "End Timecode": "00:00:08.24",
+          "Speaker": "Speaker1",
+          "data_start": 7.9399999999999995,
+          "data_end": 8.24
+        },
+        {
+          "Word": "melody",
+          "Start Timecode": "00:00:08.24",
+          "End Timecode": "00:00:08.72",
+          "Speaker": "Speaker1",
+          "data_start": 8.24,
+          "data_end": 8.72
+        },
+        {
+          "Word": "had",
+          "Start Timecode": "00:00:08.72",
+          "End Timecode": "00:00:08.93",
+          "Speaker": "Speaker1",
+          "data_start": 8.72,
+          "data_end": 8.93
+        },
+        {
+          "Word": "wandered",
+          "Start Timecode": "00:00:08.93",
+          "End Timecode": "00:00:09.38",
+          "Speaker": "Speaker1",
+          "data_start": 8.93,
+          "data_end": 9.38
+        },
+        {
+          "Word": "long",
+          "Start Timecode": "00:00:09.38",
+          "End Timecode": "00:00:09.80",
+          "Speaker": "Speaker1",
+          "data_start": 9.38,
+          "data_end": 9.8
+        },
+        {
+          "Word": "and",
+          "Start Timecode": "00:00:09.80",
+          "End Timecode": "00:00:10.01",
+          "Speaker": "Speaker1",
+          "data_start": 9.8,
+          "data_end": 10.01
+        },
+        {
+          "Word": "far.",
+          "Start Timecode": "00:00:10.01",
+          "End Timecode": "00:00:10.50",
+          "Speaker": "Speaker1",
+          "data_start": 10.01,
+          "data_end": 10.5
+        },
+        {
+          "Word": "Living",
+          "Start Timecode": "00:00:10.52",
+          "End Timecode": "00:00:11.06",
+          "Speaker": "Speaker1",
+          "data_start": 10.52,
+          "data_end": 11.06
+        },
+        {
+          "Word": "where",
+          "Start Timecode": "00:00:11.06",
+          "End Timecode": "00:00:11.24",
+          "Speaker": "Speaker1",
+          "data_start": 11.06,
+          "data_end": 11.24
+        },
+        {
+          "Word": "no",
+          "Start Timecode": "00:00:11.27",
+          "End Timecode": "00:00:11.42",
+          "Speaker": "Speaker1",
+          "data_start": 11.27,
+          "data_end": 11.42
+        },
+        {
+          "Word": "other",
+          "Start Timecode": "00:00:11.42",
+          "End Timecode": "00:00:11.69",
+          "Speaker": "Speaker1",
+          "data_start": 11.42,
+          "data_end": 11.69
+        },
+        {
+          "Word": "could.",
+          "Start Timecode": "00:00:11.69",
+          "End Timecode": "00:00:12.29",
+          "Speaker": "Speaker1",
+          "data_start": 11.69,
+          "data_end": 12.29
+        },
+        {
+          "Word": "Thriving",
+          "Start Timecode": "00:00:12.32",
+          "End Timecode": "00:00:13.07",
+          "Speaker": "Speaker1",
+          "data_start": 12.32,
+          "data_end": 13.07
+        },
+        {
+          "Word": "when",
+          "Start Timecode": "00:00:13.07",
+          "End Timecode": "00:00:13.25",
+          "Speaker": "Speaker1",
+          "data_start": 13.07,
+          "data_end": 13.25
+        },
+        {
+          "Word": "the",
+          "Start Timecode": "00:00:13.25",
+          "End Timecode": "00:00:13.34",
+          "Speaker": "Speaker1",
+          "data_start": 13.25,
+          "data_end": 13.34
+        },
+        {
+          "Word": "world",
+          "Start Timecode": "00:00:13.34",
+          "End Timecode": "00:00:13.67",
+          "Speaker": "Speaker1",
+          "data_start": 13.34,
+          "data_end": 13.67
+        },
+        {
+          "Word": "was",
+          "Start Timecode": "00:00:13.67",
+          "End Timecode": "00:00:13.85",
+          "Speaker": "Speaker1",
+          "data_start": 13.67,
+          "data_end": 13.85
+        },
+        {
+          "Word": "poisoned.",
+          "Start Timecode": "00:00:13.85",
+          "End Timecode": "00:00:14.81",
+          "Speaker": "Speaker1",
+          "data_start": 13.85,
+          "data_end": 14.81
+        },
+        {
+          "Word": "These",
+          "Start Timecode": "00:00:14.84",
+          "End Timecode": "00:00:15.47",
+          "Speaker": "Speaker1",
+          "data_start": 14.84,
+          "data_end": 15.47
+        },
+        {
+          "Word": "tough",
+          "Start Timecode": "00:00:15.47",
+          "End Timecode": "00:00:15.80",
+          "Speaker": "Speaker1",
+          "data_start": 15.47,
+          "data_end": 15.8
+        },
+        {
+          "Word": "skinned",
+          "Start Timecode": "00:00:15.80",
+          "End Timecode": "00:00:16.19",
+          "Speaker": "Speaker1",
+          "data_start": 15.8,
+          "data_end": 16.19
+        },
+        {
+          "Word": "warriors,",
+          "Start Timecode": "00:00:16.22",
+          "End Timecode": "00:00:16.91",
+          "Speaker": "Speaker1",
+          "data_start": 16.22,
+          "data_end": 16.91
+        },
+        {
+          "Word": "artisans",
+          "Start Timecode": "00:00:16.94",
+          "End Timecode": "00:00:17.57",
+          "Speaker": "Speaker1",
+          "data_start": 16.94,
+          "data_end": 17.57
+        },
+        {
+          "Word": "and",
+          "Start Timecode": "00:00:17.57",
+          "End Timecode": "00:00:17.75",
+          "Speaker": "Speaker1",
+          "data_start": 17.57,
+          "data_end": 17.75
+        },
+        {
+          "Word": "advisers,",
+          "Start Timecode": "00:00:17.75",
+          "End Timecode": "00:00:18.38",
+          "Speaker": "Speaker1",
+          "data_start": 17.75,
+          "data_end": 18.38
+        },
+        {
+          "Word": "have",
+          "Start Timecode": "00:00:18.41",
+          "End Timecode": "00:00:18.77",
+          "Speaker": "Speaker1",
+          "data_start": 18.41,
+          "data_end": 18.77
+        },
+        {
+          "Word": "stood",
+          "Start Timecode": "00:00:18.77",
+          "End Timecode": "00:00:19.04",
+          "Speaker": "Speaker1",
+          "data_start": 18.77,
+          "data_end": 19.04
+        },
+        {
+          "Word": "the",
+          "Start Timecode": "00:00:19.04",
+          "End Timecode": "00:00:19.13",
+          "Speaker": "Speaker1",
+          "data_start": 19.04,
+          "data_end": 19.13
+        },
+        {
+          "Word": "test",
+          "Start Timecode": "00:00:19.13",
+          "End Timecode": "00:00:19.40",
+          "Speaker": "Speaker1",
+          "data_start": 19.13,
+          "data_end": 19.4
+        },
+        {
+          "Word": "of",
+          "Start Timecode": "00:00:19.40",
+          "End Timecode": "00:00:19.52",
+          "Speaker": "Speaker1",
+          "data_start": 19.4,
+          "data_end": 19.52
+        },
+        {
+          "Word": "time",
+          "Start Timecode": "00:00:19.52",
+          "End Timecode": "00:00:19.88",
+          "Speaker": "Speaker1",
+          "data_start": 19.52,
+          "data_end": 19.88
+        },
+        {
+          "Word": "so",
+          "Start Timecode": "00:00:19.88",
+          "End Timecode": "00:00:20.12",
+          "Speaker": "Speaker1",
+          "data_start": 19.88,
+          "data_end": 20.12
+        },
+        {
+          "Word": "far",
+          "Start Timecode": "00:00:20.12",
+          "End Timecode": "00:00:20.42",
+          "Speaker": "Speaker1",
+          "data_start": 20.12,
+          "data_end": 20.42
+        },
+        {
+          "Word": "through",
+          "Start Timecode": "00:00:20.42",
+          "End Timecode": "00:00:20.66",
+          "Speaker": "Speaker1",
+          "data_start": 20.42,
+          "data_end": 20.66
+        },
+        {
+          "Word": "both",
+          "Start Timecode": "00:00:20.66",
+          "End Timecode": "00:00:20.99",
+          "Speaker": "Speaker1",
+          "data_start": 20.66,
+          "data_end": 20.99
+        },
+        {
+          "Word": "their",
+          "Start Timecode": "00:00:20.99",
+          "End Timecode": "00:00:21.20",
+          "Speaker": "Speaker1",
+          "data_start": 20.99,
+          "data_end": 21.2
+        },
+        {
+          "Word": "zeal",
+          "Start Timecode": "00:00:21.20",
+          "End Timecode": "00:00:21.62",
+          "Speaker": "Speaker1",
+          "data_start": 21.2,
+          "data_end": 21.62
+        },
+        {
+          "Word": "and",
+          "Start Timecode": "00:00:21.62",
+          "End Timecode": "00:00:21.86",
+          "Speaker": "Speaker1",
+          "data_start": 21.62,
+          "data_end": 21.86
+        },
+        {
+          "Word": "willingness",
+          "Start Timecode": "00:00:21.86",
+          "End Timecode": "00:00:22.34",
+          "Speaker": "Speaker1",
+          "data_start": 21.86,
+          "data_end": 22.34
+        },
+        {
+          "Word": "to",
+          "Start Timecode": "00:00:22.34",
+          "End Timecode": "00:00:22.46",
+          "Speaker": "Speaker1",
+          "data_start": 22.34,
+          "data_end": 22.46
+        },
+        {
+          "Word": "persevere",
+          "Start Timecode": "00:00:22.46",
+          "End Timecode": "00:00:23.00",
+          "Speaker": "Speaker1",
+          "data_start": 22.46,
+          "data_end": 23.0
+        },
+        {
+          "Word": "through",
+          "Start Timecode": "00:00:23.03",
+          "End Timecode": "00:00:23.27",
+          "Speaker": "Speaker1",
+          "data_start": 23.03,
+          "data_end": 23.27
+        },
+        {
+          "Word": "the",
+          "Start Timecode": "00:00:23.27",
+          "End Timecode": "00:00:23.39",
+          "Speaker": "Speaker1",
+          "data_start": 23.27,
+          "data_end": 23.39
+        },
+        {
+          "Word": "harshest",
+          "Start Timecode": "00:00:23.39",
+          "End Timecode": "00:00:23.96",
+          "Speaker": "Speaker1",
+          "data_start": 23.39,
+          "data_end": 23.96
+        },
+        {
+          "Word": "storms",
+          "Start Timecode": "00:00:23.96",
+          "End Timecode": "00:00:24.80",
+          "Speaker": "Speaker1",
+          "data_start": 23.96,
+          "data_end": 24.8
+        },
+        {
+          "Word": "and",
+          "Start Timecode": "00:00:24.80",
+          "End Timecode": "00:00:25.13",
+          "Speaker": "Speaker1",
+          "data_start": 24.8,
+          "data_end": 25.13
+        },
+        {
+          "Word": "to",
+          "Start Timecode": "00:00:25.13",
+          "End Timecode": "00:00:25.31",
+          "Speaker": "Speaker1",
+          "data_start": 25.13,
+          "data_end": 25.31
+        },
+        {
+          "Word": "laugh",
+          "Start Timecode": "00:00:25.31",
+          "End Timecode": "00:00:25.67",
+          "Speaker": "Speaker1",
+          "data_start": 25.31,
+          "data_end": 25.67
+        },
+        {
+          "Word": "in",
+          "Start Timecode": "00:00:25.67",
+          "End Timecode": "00:00:25.79",
+          "Speaker": "Speaker1",
+          "data_start": 25.67,
+          "data_end": 25.79
+        },
+        {
+          "Word": "the",
+          "Start Timecode": "00:00:25.79",
+          "End Timecode": "00:00:25.88",
+          "Speaker": "Speaker1",
+          "data_start": 25.79,
+          "data_end": 25.88
+        },
+        {
+          "Word": "face",
+          "Start Timecode": "00:00:25.88",
+          "End Timecode": "00:00:26.18",
+          "Speaker": "Speaker1",
+          "data_start": 25.88,
+          "data_end": 26.18
+        },
+        {
+          "Word": "of",
+          "Start Timecode": "00:00:26.18",
+          "End Timecode": "00:00:26.30",
+          "Speaker": "Speaker1",
+          "data_start": 26.18,
+          "data_end": 26.3
+        },
+        {
+          "Word": "death.",
+          "Start Timecode": "00:00:26.30",
+          "End Timecode": "00:00:26.85",
+          "Speaker": "Speaker1",
+          "data_start": 26.3,
+          "data_end": 26.85
+        },
+        {
+          "Word": "Surely",
+          "Start Timecode": "00:00:26.87",
+          "End Timecode": "00:00:27.47",
+          "Speaker": "Speaker1",
+          "data_start": 26.87,
+          "data_end": 27.47
+        },
+        {
+          "Word": "taking",
+          "Start Timecode": "00:00:27.47",
+          "End Timecode": "00:00:27.77",
+          "Speaker": "Speaker1",
+          "data_start": 27.47,
+          "data_end": 27.77
+        },
+        {
+          "Word": "much",
+          "Start Timecode": "00:00:27.77",
+          "End Timecode": "00:00:28.04",
+          "Speaker": "Speaker1",
+          "data_start": 27.77,
+          "data_end": 28.04
+        },
+        {
+          "Word": "pride",
+          "Start Timecode": "00:00:28.04",
+          "End Timecode": "00:00:28.40",
+          "Speaker": "Speaker1",
+          "data_start": 28.04,
+          "data_end": 28.4
+        },
+        {
+          "Word": "in",
+          "Start Timecode": "00:00:28.40",
+          "End Timecode": "00:00:28.55",
+          "Speaker": "Speaker1",
+          "data_start": 28.4,
+          "data_end": 28.55
+        },
+        {
+          "Word": "spite",
+          "Start Timecode": "00:00:28.55",
+          "End Timecode": "00:00:28.82",
+          "Speaker": "Speaker1",
+          "data_start": 28.55,
+          "data_end": 28.82
+        },
+        {
+          "Word": "of",
+          "Start Timecode": "00:00:28.82",
+          "End Timecode": "00:00:28.94",
+          "Speaker": "Speaker1",
+          "data_start": 28.82,
+          "data_end": 28.94
+        },
+        {
+          "Word": "adversity,",
+          "Start Timecode": "00:00:28.94",
+          "End Timecode": "00:00:29.87",
+          "Speaker": "Speaker1",
+          "data_start": 28.94,
+          "data_end": 29.87
+        },
+        {
+          "Word": "though",
+          "Start Timecode": "00:00:30.20",
+          "End Timecode": "00:00:30.62",
+          "Speaker": "Speaker1",
+          "data_start": 30.2,
+          "data_end": 30.62
+        },
+        {
+          "Word": "it",
+          "Start Timecode": "00:00:30.62",
+          "End Timecode": "00:00:30.71",
+          "Speaker": "Speaker1",
+          "data_start": 30.62,
+          "data_end": 30.71
+        },
+        {
+          "Word": "is",
+          "Start Timecode": "00:00:30.71",
+          "End Timecode": "00:00:30.86",
+          "Speaker": "Speaker1",
+          "data_start": 30.71,
+          "data_end": 30.86
+        },
+        {
+          "Word": "wrong",
+          "Start Timecode": "00:00:30.86",
+          "End Timecode": "00:00:31.07",
+          "Speaker": "Speaker1",
+          "data_start": 30.86,
+          "data_end": 31.07
+        },
+        {
+          "Word": "to",
+          "Start Timecode": "00:00:31.10",
+          "End Timecode": "00:00:31.19",
+          "Speaker": "Speaker1",
+          "data_start": 31.1,
+          "data_end": 31.19
+        },
+        {
+          "Word": "say",
+          "Start Timecode": "00:00:31.19",
+          "End Timecode": "00:00:31.37",
+          "Speaker": "Speaker1",
+          "data_start": 31.19,
+          "data_end": 31.37
+        },
+        {
+          "Word": "the",
+          "Start Timecode": "00:00:31.37",
+          "End Timecode": "00:00:31.46",
+          "Speaker": "Speaker1",
+          "data_start": 31.37,
+          "data_end": 31.46
+        },
+        {
+          "Word": "melody",
+          "Start Timecode": "00:00:31.49",
+          "End Timecode": "00:00:31.88",
+          "Speaker": "Speaker1",
+          "data_start": 31.49,
+          "data_end": 31.88
+        },
+        {
+          "Word": "have",
+          "Start Timecode": "00:00:31.88",
+          "End Timecode": "00:00:32.06",
+          "Speaker": "Speaker1",
+          "data_start": 31.88,
+          "data_end": 32.06
+        },
+        {
+          "Word": "not",
+          "Start Timecode": "00:00:32.06",
+          "End Timecode": "00:00:32.30",
+          "Speaker": "Speaker1",
+          "data_start": 32.06,
+          "data_end": 32.3
+        },
+        {
+          "Word": "faced",
+          "Start Timecode": "00:00:32.30",
+          "End Timecode": "00:00:32.75",
+          "Speaker": "Speaker1",
+          "data_start": 32.3,
+          "data_end": 32.75
+        },
+        {
+          "Word": "tragedy.",
+          "Start Timecode": "00:00:32.75",
+          "End Timecode": "00:00:33.59",
+          "Speaker": "Speaker1",
+          "data_start": 32.75,
+          "data_end": 33.59
+        },
+        {
+          "Word": "From",
+          "Start Timecode": "00:00:33.74",
+          "End Timecode": "00:00:34.16",
+          "Speaker": "Speaker1",
+          "data_start": 33.74,
+          "data_end": 34.16
+        },
+        {
+          "Word": "the",
+          "Start Timecode": "00:00:34.16",
+          "End Timecode": "00:00:34.22",
+          "Speaker": "Speaker1",
+          "data_start": 34.16,
+          "data_end": 34.22
+        },
+        {
+          "Word": "beginning",
+          "Start Timecode": "00:00:34.22",
+          "End Timecode": "00:00:34.67",
+          "Speaker": "Speaker1",
+          "data_start": 34.22,
+          "data_end": 34.67
+        },
+        {
+          "Word": "they",
+          "Start Timecode": "00:00:34.67",
+          "End Timecode": "00:00:34.82",
+          "Speaker": "Speaker1",
+          "data_start": 34.67,
+          "data_end": 34.82
+        },
+        {
+          "Word": "were",
+          "Start Timecode": "00:00:34.82",
+          "End Timecode": "00:00:34.97",
+          "Speaker": "Speaker1",
+          "data_start": 34.82,
+          "data_end": 34.97
+        },
+        {
+          "Word": "nomads,",
+          "Start Timecode": "00:00:34.97",
+          "End Timecode": "00:00:35.81",
+          "Speaker": "Speaker1",
+          "data_start": 34.97,
+          "data_end": 35.81
+        },
+        {
+          "Word": "living",
+          "Start Timecode": "00:00:35.84",
+          "End Timecode": "00:00:36.32",
+          "Speaker": "Speaker1",
+          "data_start": 35.84,
+          "data_end": 36.32
+        },
+        {
+          "Word": "from",
+          "Start Timecode": "00:00:36.32",
+          "End Timecode": "00:00:36.53",
+          "Speaker": "Speaker1",
+          "data_start": 36.32,
+          "data_end": 36.53
+        },
+        {
+          "Word": "place",
+          "Start Timecode": "00:00:36.53",
+          "End Timecode": "00:00:36.83",
+          "Speaker": "Speaker1",
+          "data_start": 36.53,
+          "data_end": 36.83
+        },
+        {
+          "Word": "to",
+          "Start Timecode": "00:00:36.83",
+          "End Timecode": "00:00:36.92",
+          "Speaker": "Speaker1",
+          "data_start": 36.83,
+          "data_end": 36.92
+        },
+        {
+          "Word": "place,",
+          "Start Timecode": "00:00:36.92",
+          "End Timecode": "00:00:37.25",
+          "Speaker": "Speaker1",
+          "data_start": 36.92,
+          "data_end": 37.25
+        },
+        {
+          "Word": "always",
+          "Start Timecode": "00:00:37.25",
+          "End Timecode": "00:00:37.67",
+          "Speaker": "Speaker1",
+          "data_start": 37.25,
+          "data_end": 37.67
+        },
+        {
+          "Word": "on",
+          "Start Timecode": "00:00:37.67",
+          "End Timecode": "00:00:37.79",
+          "Speaker": "Speaker1",
+          "data_start": 37.67,
+          "data_end": 37.79
+        },
+        {
+          "Word": "the",
+          "Start Timecode": "00:00:37.79",
+          "End Timecode": "00:00:37.88",
+          "Speaker": "Speaker1",
+          "data_start": 37.79,
+          "data_end": 37.88
+        },
+        {
+          "Word": "move.",
+          "Start Timecode": "00:00:37.88",
+          "End Timecode": "00:00:38.57",
+          "Speaker": "Speaker1",
+          "data_start": 37.88,
+          "data_end": 38.57
+        },
+        {
+          "Word": "But",
+          "Start Timecode": "00:00:38.60",
+          "End Timecode": "00:00:39.02",
+          "Speaker": "Speaker1",
+          "data_start": 38.6,
+          "data_end": 39.02
+        },
+        {
+          "Word": "they",
+          "Start Timecode": "00:00:39.02",
+          "End Timecode": "00:00:39.23",
+          "Speaker": "Speaker1",
+          "data_start": 39.02,
+          "data_end": 39.23
+        },
+        {
+          "Word": "were",
+          "Start Timecode": "00:00:39.23",
+          "End Timecode": "00:00:39.41",
+          "Speaker": "Speaker1",
+          "data_start": 39.23,
+          "data_end": 39.41
+        },
+        {
+          "Word": "wanderers",
+          "Start Timecode": "00:00:39.41",
+          "End Timecode": "00:00:39.98",
+          "Speaker": "Speaker1",
+          "data_start": 39.41,
+          "data_end": 39.98
+        },
+        {
+          "Word": "who",
+          "Start Timecode": "00:00:39.98",
+          "End Timecode": "00:00:40.16",
+          "Speaker": "Speaker1",
+          "data_start": 39.98,
+          "data_end": 40.16
+        },
+        {
+          "Word": "disrespected",
+          "Start Timecode": "00:00:40.16",
+          "End Timecode": "00:00:40.91",
+          "Speaker": "Speaker1",
+          "data_start": 40.16,
+          "data_end": 40.91
+        },
+        {
+          "Word": "the",
+          "Start Timecode": "00:00:40.91",
+          "End Timecode": "00:00:41.00",
+          "Speaker": "Speaker1",
+          "data_start": 40.91,
+          "data_end": 41.0
+        },
+        {
+          "Word": "tenets",
+          "Start Timecode": "00:00:41.00",
+          "End Timecode": "00:00:41.39",
+          "Speaker": "Speaker1",
+          "data_start": 41.0,
+          "data_end": 41.39
+        },
+        {
+          "Word": "of",
+          "Start Timecode": "00:00:41.39",
+          "End Timecode": "00:00:41.51",
+          "Speaker": "Speaker1",
+          "data_start": 41.39,
+          "data_end": 41.51
+        },
+        {
+          "Word": "their",
+          "Start Timecode": "00:00:41.51",
+          "End Timecode": "00:00:41.72",
+          "Speaker": "Speaker1",
+          "data_start": 41.51,
+          "data_end": 41.72
+        },
+        {
+          "Word": "former",
+          "Start Timecode": "00:00:41.72",
+          "End Timecode": "00:00:42.05",
+          "Speaker": "Speaker1",
+          "data_start": 41.72,
+          "data_end": 42.05
+        },
+        {
+          "Word": "tribe.",
+          "Start Timecode": "00:00:42.05",
+          "End Timecode": "00:00:42.70",
+          "Speaker": "Speaker1",
+          "data_start": 42.05,
+          "data_end": 42.7
+        },
+        {
+          "Word": "Now",
+          "Start Timecode": "00:00:42.71",
+          "End Timecode": "00:00:43.16",
+          "Speaker": "Speaker1",
+          "data_start": 42.71,
+          "data_end": 43.16
+        },
+        {
+          "Word": "instead",
+          "Start Timecode": "00:00:43.16",
+          "End Timecode": "00:00:43.58",
+          "Speaker": "Speaker1",
+          "data_start": 43.16,
+          "data_end": 43.58
+        },
+        {
+          "Word": "forced",
+          "Start Timecode": "00:00:43.58",
+          "End Timecode": "00:00:43.91",
+          "Speaker": "Speaker1",
+          "data_start": 43.58,
+          "data_end": 43.91
+        },
+        {
+          "Word": "to",
+          "Start Timecode": "00:00:43.91",
+          "End Timecode": "00:00:44.06",
+          "Speaker": "Speaker1",
+          "data_start": 43.91,
+          "data_end": 44.06
+        },
+        {
+          "Word": "seal",
+          "Start Timecode": "00:00:44.06",
+          "End Timecode": "00:00:44.42",
+          "Speaker": "Speaker1",
+          "data_start": 44.06,
+          "data_end": 44.42
+        },
+        {
+          "Word": "their",
+          "Start Timecode": "00:00:44.42",
+          "End Timecode": "00:00:44.63",
+          "Speaker": "Speaker1",
+          "data_start": 44.42,
+          "data_end": 44.63
+        },
+        {
+          "Word": "fate",
+          "Start Timecode": "00:00:44.63",
+          "End Timecode": "00:00:44.90",
+          "Speaker": "Speaker1",
+          "data_start": 44.63,
+          "data_end": 44.9
+        },
+        {
+          "Word": "by",
+          "Start Timecode": "00:00:44.90",
+          "End Timecode": "00:00:45.14",
+          "Speaker": "Speaker1",
+          "data_start": 44.9,
+          "data_end": 45.14
+        },
+        {
+          "Word": "wandering",
+          "Start Timecode": "00:00:45.14",
+          "End Timecode": "00:00:45.59",
+          "Speaker": "Speaker1",
+          "data_start": 45.14,
+          "data_end": 45.59
+        },
+        {
+          "Word": "the",
+          "Start Timecode": "00:00:45.59",
+          "End Timecode": "00:00:45.71",
+          "Speaker": "Speaker1",
+          "data_start": 45.59,
+          "data_end": 45.71
+        },
+        {
+          "Word": "dunes",
+          "Start Timecode": "00:00:45.71",
+          "End Timecode": "00:00:46.10",
+          "Speaker": "Speaker1",
+          "data_start": 45.71,
+          "data_end": 46.1
+        },
+        {
+          "Word": "of",
+          "Start Timecode": "00:00:46.10",
+          "End Timecode": "00:00:46.25",
+          "Speaker": "Speaker1",
+          "data_start": 46.1,
+          "data_end": 46.25
+        },
+        {
+          "Word": "death",
+          "Start Timecode": "00:00:46.25",
+          "End Timecode": "00:00:46.88",
+          "Speaker": "Speaker1",
+          "data_start": 46.25,
+          "data_end": 46.88
+        },
+        {
+          "Word": "where",
+          "Start Timecode": "00:00:46.91",
+          "End Timecode": "00:00:47.30",
+          "Speaker": "Speaker1",
+          "data_start": 46.91,
+          "data_end": 47.3
+        },
+        {
+          "Word": "no",
+          "Start Timecode": "00:00:47.33",
+          "End Timecode": "00:00:47.51",
+          "Speaker": "Speaker1",
+          "data_start": 47.33,
+          "data_end": 47.51
+        },
+        {
+          "Word": "man",
+          "Start Timecode": "00:00:47.51",
+          "End Timecode": "00:00:47.81",
+          "Speaker": "Speaker1",
+          "data_start": 47.51,
+          "data_end": 47.81
+        },
+        {
+          "Word": "or",
+          "Start Timecode": "00:00:47.81",
+          "End Timecode": "00:00:47.99",
+          "Speaker": "Speaker1",
+          "data_start": 47.81,
+          "data_end": 47.99
+        },
+        {
+          "Word": "God",
+          "Start Timecode": "00:00:47.99",
+          "End Timecode": "00:00:48.29",
+          "Speaker": "Speaker1",
+          "data_start": 47.99,
+          "data_end": 48.29
+        },
+        {
+          "Word": "alike",
+          "Start Timecode": "00:00:48.29",
+          "End Timecode": "00:00:48.68",
+          "Speaker": "Speaker1",
+          "data_start": 48.29,
+          "data_end": 48.68
+        },
+        {
+          "Word": "emerged",
+          "Start Timecode": "00:00:48.71",
+          "End Timecode": "00:00:49.19",
+          "Speaker": "Speaker1",
+          "data_start": 48.71,
+          "data_end": 49.19
+        },
+        {
+          "Word": "alive.",
+          "Start Timecode": "00:00:49.19",
+          "End Timecode": "00:00:49.94",
+          "Speaker": "Speaker1",
+          "data_start": 49.19,
+          "data_end": 49.94
+        },
+        {
+          "Word": "A",
+          "Start Timecode": "00:00:50.09",
+          "End Timecode": "00:00:50.33",
+          "Speaker": "Speaker1",
+          "data_start": 50.09,
+          "data_end": 50.33
+        },
+        {
+          "Word": "most",
+          "Start Timecode": "00:00:50.33",
+          "End Timecode": "00:00:50.66",
+          "Speaker": "Speaker1",
+          "data_start": 50.33,
+          "data_end": 50.66
+        },
+        {
+          "Word": "cruel",
+          "Start Timecode": "00:00:50.66",
+          "End Timecode": "00:00:51.11",
+          "Speaker": "Speaker1",
+          "data_start": 50.66,
+          "data_end": 51.11
+        },
+        {
+          "Word": "punishment",
+          "Start Timecode": "00:00:51.11",
+          "End Timecode": "00:00:51.80",
+          "Speaker": "Speaker1",
+          "data_start": 51.11,
+          "data_end": 51.8
+        },
+        {
+          "Word": "invoked",
+          "Start Timecode": "00:00:51.80",
+          "End Timecode": "00:00:52.43",
+          "Speaker": "Speaker1",
+          "data_start": 51.8,
+          "data_end": 52.43
+        },
+        {
+          "Word": "only",
+          "Start Timecode": "00:00:52.43",
+          "End Timecode": "00:00:52.79",
+          "Speaker": "Speaker1",
+          "data_start": 52.43,
+          "data_end": 52.79
+        },
+        {
+          "Word": "by",
+          "Start Timecode": "00:00:52.79",
+          "End Timecode": "00:00:52.97",
+          "Speaker": "Speaker1",
+          "data_start": 52.79,
+          "data_end": 52.97
+        },
+        {
+          "Word": "the",
+          "Start Timecode": "00:00:52.97",
+          "End Timecode": "00:00:53.09",
+          "Speaker": "Speaker1",
+          "data_start": 52.97,
+          "data_end": 53.09
+        },
+        {
+          "Word": "harshest",
+          "Start Timecode": "00:00:53.09",
+          "End Timecode": "00:00:53.57",
+          "Speaker": "Speaker1",
+          "data_start": 53.09,
+          "data_end": 53.57
+        },
+        {
+          "Word": "of",
+          "Start Timecode": "00:00:53.57",
+          "End Timecode": "00:00:53.69",
+          "Speaker": "Speaker1",
+          "data_start": 53.57,
+          "data_end": 53.69
+        },
+        {
+          "Word": "chiefs",
+          "Start Timecode": "00:00:53.69",
+          "End Timecode": "00:00:54.08",
+          "Speaker": "Speaker1",
+          "data_start": 53.69,
+          "data_end": 54.08
+        },
+        {
+          "Word": "at",
+          "Start Timecode": "00:00:54.08",
+          "End Timecode": "00:00:54.17",
+          "Speaker": "Speaker1",
+          "data_start": 54.08,
+          "data_end": 54.17
+        },
+        {
+          "Word": "the",
+          "Start Timecode": "00:00:54.17",
+          "End Timecode": "00:00:54.29",
+          "Speaker": "Speaker1",
+          "data_start": 54.17,
+          "data_end": 54.29
+        },
+        {
+          "Word": "time.",
+          "Start Timecode": "00:00:54.29",
+          "End Timecode": "00:00:54.95",
+          "Speaker": "Speaker1",
+          "data_start": 54.29,
+          "data_end": 54.95
+        },
+        {
+          "Word": "Yet",
+          "Start Timecode": "00:00:55.04",
+          "End Timecode": "00:00:55.46",
+          "Speaker": "Speaker1",
+          "data_start": 55.04,
+          "data_end": 55.46
+        },
+        {
+          "Word": "this",
+          "Start Timecode": "00:00:55.46",
+          "End Timecode": "00:00:55.79",
+          "Speaker": "Speaker1",
+          "data_start": 55.46,
+          "data_end": 55.79
+        },
+        {
+          "Word": "was",
+          "Start Timecode": "00:00:55.79",
+          "End Timecode": "00:00:56.03",
+          "Speaker": "Speaker1",
+          "data_start": 55.79,
+          "data_end": 56.03
+        },
+        {
+          "Word": "the",
+          "Start Timecode": "00:00:56.03",
+          "End Timecode": "00:00:56.12",
+          "Speaker": "Speaker1",
+          "data_start": 56.03,
+          "data_end": 56.12
+        },
+        {
+          "Word": "first",
+          "Start Timecode": "00:00:56.12",
+          "End Timecode": "00:00:56.48",
+          "Speaker": "Speaker1",
+          "data_start": 56.12,
+          "data_end": 56.48
+        },
+        {
+          "Word": "proof",
+          "Start Timecode": "00:00:56.48",
+          "End Timecode": "00:00:56.84",
+          "Speaker": "Speaker1",
+          "data_start": 56.48,
+          "data_end": 56.84
+        },
+        {
+          "Word": "of",
+          "Start Timecode": "00:00:56.84",
+          "End Timecode": "00:00:56.99",
+          "Speaker": "Speaker1",
+          "data_start": 56.84,
+          "data_end": 56.99
+        },
+        {
+          "Word": "faith",
+          "Start Timecode": "00:00:56.99",
+          "End Timecode": "00:00:57.76",
+          "Speaker": "Speaker1",
+          "data_start": 56.99,
+          "data_end": 57.76
+        },
+        {
+          "Word": "their",
+          "Start Timecode": "00:00:57.77",
+          "End Timecode": "00:00:58.25",
+          "Speaker": "Speaker1",
+          "data_start": 57.77,
+          "data_end": 58.25
+        },
+        {
+          "Word": "willingness",
+          "Start Timecode": "00:00:58.25",
+          "End Timecode": "00:00:58.67",
+          "Speaker": "Speaker1",
+          "data_start": 58.25,
+          "data_end": 58.67
+        },
+        {
+          "Word": "to",
+          "Start Timecode": "00:00:58.67",
+          "End Timecode": "00:00:58.76",
+          "Speaker": "Speaker1",
+          "data_start": 58.67,
+          "data_end": 58.76
+        },
+        {
+          "Word": "put",
+          "Start Timecode": "00:00:58.76",
+          "End Timecode": "00:00:58.94",
+          "Speaker": "Speaker1",
+          "data_start": 58.76,
+          "data_end": 58.94
+        },
+        {
+          "Word": "themselves",
+          "Start Timecode": "00:00:58.94",
+          "End Timecode": "00:00:59.33",
+          "Speaker": "Speaker1",
+          "data_start": 58.94,
+          "data_end": 59.33
+        },
+        {
+          "Word": "in",
+          "Start Timecode": "00:00:59.33",
+          "End Timecode": "00:00:59.48",
+          "Speaker": "Speaker1",
+          "data_start": 59.33,
+          "data_end": 59.48
+        },
+        {
+          "Word": "danger",
+          "Start Timecode": "00:00:59.48",
+          "End Timecode": "00:00:59.87",
+          "Speaker": "Speaker1",
+          "data_start": 59.48,
+          "data_end": 59.87
+        },
+        {
+          "Word": "did",
+          "Start Timecode": "00:00:59.97",
+          "End Timecode": "00:01:00.12",
+          "Speaker": "Speaker1",
+          "data_start": 59.97,
+          "data_end": 60.12
+        },
+        {
+          "Word": "not",
+          "Start Timecode": "00:01:00.12",
+          "End Timecode": "00:01:00.36",
+          "Speaker": "Speaker1",
+          "data_start": 60.12,
+          "data_end": 60.36
+        },
+        {
+          "Word": "go",
+          "Start Timecode": "00:01:00.36",
+          "End Timecode": "00:01:00.54",
+          "Speaker": "Speaker1",
+          "data_start": 60.36,
+          "data_end": 60.54
+        },
+        {
+          "Word": "unnoticed",
+          "Start Timecode": "00:01:00.54",
+          "End Timecode": "00:01:01.11",
+          "Speaker": "Speaker1",
+          "data_start": 60.54,
+          "data_end": 61.11
+        },
+        {
+          "Word": "for",
+          "Start Timecode": "00:01:01.11",
+          "End Timecode": "00:01:01.29",
+          "Speaker": "Speaker1",
+          "data_start": 61.11,
+          "data_end": 61.29
+        },
+        {
+          "Word": "long.",
+          "Start Timecode": "00:01:01.29",
+          "End Timecode": "00:01:01.92",
+          "Speaker": "Speaker1",
+          "data_start": 61.29,
+          "data_end": 61.92
+        },
+        {
+          "Word": "The",
+          "Start Timecode": "00:01:01.95",
+          "End Timecode": "00:01:02.34",
+          "Speaker": "Speaker1",
+          "data_start": 61.95,
+          "data_end": 62.34
+        },
+        {
+          "Word": "eyes",
+          "Start Timecode": "00:01:02.34",
+          "End Timecode": "00:01:02.61",
+          "Speaker": "Speaker1",
+          "data_start": 62.34,
+          "data_end": 62.61
+        },
+        {
+          "Word": "of",
+          "Start Timecode": "00:01:02.61",
+          "End Timecode": "00:01:02.73",
+          "Speaker": "Speaker1",
+          "data_start": 62.61,
+          "data_end": 62.73
+        },
+        {
+          "Word": "the",
+          "Start Timecode": "00:01:02.73",
+          "End Timecode": "00:01:02.85",
+          "Speaker": "Speaker1",
+          "data_start": 62.73,
+          "data_end": 62.85
+        },
+        {
+          "Word": "night",
+          "Start Timecode": "00:01:02.85",
+          "End Timecode": "00:01:03.18",
+          "Speaker": "Speaker1",
+          "data_start": 62.85,
+          "data_end": 63.18
+        },
+        {
+          "Word": "sky",
+          "Start Timecode": "00:01:03.18",
+          "End Timecode": "00:01:03.66",
+          "Speaker": "Speaker1",
+          "data_start": 63.18,
+          "data_end": 63.66
+        },
+        {
+          "Word": "watched",
+          "Start Timecode": "00:01:03.66",
+          "End Timecode": "00:01:04.08",
+          "Speaker": "Speaker1",
+          "data_start": 63.66,
+          "data_end": 64.08
+        },
+        {
+          "Word": "diligently",
+          "Start Timecode": "00:01:04.08",
+          "End Timecode": "00:01:04.95",
+          "Speaker": "Speaker1",
+          "data_start": 64.08,
+          "data_end": 64.95
+        },
+        {
+          "Word": "and",
+          "Start Timecode": "00:01:04.95",
+          "End Timecode": "00:01:05.28",
+          "Speaker": "Speaker1",
+          "data_start": 64.95,
+          "data_end": 65.28
+        },
+        {
+          "Word": "even",
+          "Start Timecode": "00:01:05.28",
+          "End Timecode": "00:01:05.52",
+          "Speaker": "Speaker1",
+          "data_start": 65.28,
+          "data_end": 65.52
+        },
+        {
+          "Word": "among",
+          "Start Timecode": "00:01:05.52",
+          "End Timecode": "00:01:05.79",
+          "Speaker": "Speaker1",
+          "data_start": 65.52,
+          "data_end": 65.79
+        },
+        {
+          "Word": "the",
+          "Start Timecode": "00:01:05.79",
+          "End Timecode": "00:01:05.91",
+          "Speaker": "Speaker1",
+          "data_start": 65.79,
+          "data_end": 65.91
+        },
+        {
+          "Word": "dunes,",
+          "Start Timecode": "00:01:05.91",
+          "End Timecode": "00:01:06.39",
+          "Speaker": "Speaker1",
+          "data_start": 65.91,
+          "data_end": 66.39
+        },
+        {
+          "Word": "the",
+          "Start Timecode": "00:01:06.39",
+          "End Timecode": "00:01:06.51",
+          "Speaker": "Speaker1",
+          "data_start": 66.39,
+          "data_end": 66.51
+        },
+        {
+          "Word": "vermin",
+          "Start Timecode": "00:01:06.51",
+          "End Timecode": "00:01:06.96",
+          "Speaker": "Speaker1",
+          "data_start": 66.51,
+          "data_end": 66.96
+        },
+        {
+          "Word": "truly",
+          "Start Timecode": "00:01:06.96",
+          "End Timecode": "00:01:07.35",
+          "Speaker": "Speaker1",
+          "data_start": 66.96,
+          "data_end": 67.35
+        },
+        {
+          "Word": "persevered.",
+          "Start Timecode": "00:01:07.35",
+          "End Timecode": "00:01:08.19",
+          "Speaker": "Speaker1",
+          "data_start": 67.35,
+          "data_end": 68.19
+        },
+        {
+          "Word": "For",
+          "Start Timecode": "00:01:08.22",
+          "End Timecode": "00:01:08.58",
+          "Speaker": "Speaker1",
+          "data_start": 68.22,
+          "data_end": 68.58
+        },
+        {
+          "Word": "it",
+          "Start Timecode": "00:01:08.58",
+          "End Timecode": "00:01:08.67",
+          "Speaker": "Speaker1",
+          "data_start": 68.58,
+          "data_end": 68.67
+        },
+        {
+          "Word": "is",
+          "Start Timecode": "00:01:08.67",
+          "End Timecode": "00:01:08.82",
+          "Speaker": "Speaker1",
+          "data_start": 68.67,
+          "data_end": 68.82
+        },
+        {
+          "Word": "where",
+          "Start Timecode": "00:01:08.82",
+          "End Timecode": "00:01:09.00",
+          "Speaker": "Speaker1",
+          "data_start": 68.82,
+          "data_end": 69.0
+        },
+        {
+          "Word": "the",
+          "Start Timecode": "00:01:09.00",
+          "End Timecode": "00:01:09.12",
+          "Speaker": "Speaker1",
+          "data_start": 69.0,
+          "data_end": 69.12
+        },
+        {
+          "Word": "three",
+          "Start Timecode": "00:01:09.12",
+          "End Timecode": "00:01:09.39",
+          "Speaker": "Speaker1",
+          "data_start": 69.12,
+          "data_end": 69.39
+        },
+        {
+          "Word": "tailed",
+          "Start Timecode": "00:01:09.39",
+          "End Timecode": "00:01:09.69",
+          "Speaker": "Speaker1",
+          "data_start": 69.39,
+          "data_end": 69.69
+        },
+        {
+          "Word": "scorpion",
+          "Start Timecode": "00:01:09.69",
+          "End Timecode": "00:01:10.29",
+          "Speaker": "Speaker1",
+          "data_start": 69.69,
+          "data_end": 70.29
+        },
+        {
+          "Word": "set",
+          "Start Timecode": "00:01:10.29",
+          "End Timecode": "00:01:10.53",
+          "Speaker": "Speaker1",
+          "data_start": 70.29,
+          "data_end": 70.53
+        },
+        {
+          "Word": "his",
+          "Start Timecode": "00:01:10.53",
+          "End Timecode": "00:01:10.77",
+          "Speaker": "Speaker1",
+          "data_start": 70.53,
+          "data_end": 70.77
+        },
+        {
+          "Word": "cruel",
+          "Start Timecode": "00:01:10.77",
+          "End Timecode": "00:01:11.16",
+          "Speaker": "Speaker1",
+          "data_start": 70.77,
+          "data_end": 71.16
+        },
+        {
+          "Word": "stage.",
+          "Start Timecode": "00:01:11.16",
+          "End Timecode": "00:01:12.03",
+          "Speaker": "Speaker1",
+          "data_start": 71.16,
+          "data_end": 72.03
+        }
+      ],
+      "data_start": 72.03,
+      "data_end": 72.59
+    },
+    {
+      "words": [
+        {
+          "Word": "MEYADI",
+          "Start Timecode": "00:01:12.59",
+          "End Timecode": "00:01:13.22",
+          "Speaker": "Speaker1",
+          "data_start": 72.59,
+          "data_end": 73.22
+        },
+        {
+          "Word": "Primer.",
+          "Start Timecode": "00:01:13.25",
+          "End Timecode": "00:01:13.85",
+          "Speaker": "Speaker1",
+          "data_start": 73.25,
+          "data_end": 73.85
+        },
+        {
+          "Word": "The",
+          "Start Timecode": "00:01:14.15",
+          "End Timecode": "00:01:14.57",
+          "Speaker": "Speaker1",
+          "data_start": 74.15,
+          "data_end": 74.57
+        },
+        {
+          "Word": "Melody.",
+          "Start Timecode": "00:01:14.57",
+          "End Timecode": "00:01:15.14",
+          "Speaker": "Speaker1",
+          "data_start": 74.57,
+          "data_end": 75.14
+        },
+        {
+          "Word": "Children",
+          "Start Timecode": "00:01:15.17",
+          "End Timecode": "00:01:15.71",
+          "Speaker": "Speaker1",
+          "data_start": 75.17,
+          "data_end": 75.71
+        },
+        {
+          "Word": "of",
+          "Start Timecode": "00:01:15.74",
+          "End Timecode": "00:01:15.83",
+          "Speaker": "Speaker1",
+          "data_start": 75.74,
+          "data_end": 75.83
+        },
+        {
+          "Word": "the",
+          "Start Timecode": "00:01:15.83",
+          "End Timecode": "00:01:15.95",
+          "Speaker": "Speaker1",
+          "data_start": 75.83,
+          "data_end": 75.95
+        },
+        {
+          "Word": "Sands",
+          "Start Timecode": "00:01:15.95",
+          "End Timecode": "00:01:16.52",
+          "Speaker": "Speaker1",
+          "data_start": 75.95,
+          "data_end": 76.52
+        },
+        {
+          "Word": "and",
+          "Start Timecode": "00:01:16.52",
+          "End Timecode": "00:01:16.85",
+          "Speaker": "Speaker1",
+          "data_start": 76.52,
+          "data_end": 76.85
+        },
+        {
+          "Word": "the",
+          "Start Timecode": "00:01:16.85",
+          "End Timecode": "00:01:16.97",
+          "Speaker": "Speaker1",
+          "data_start": 76.85,
+          "data_end": 76.97
+        },
+        {
+          "Word": "Sworn",
+          "Start Timecode": "00:01:16.97",
+          "End Timecode": "00:01:17.30",
+          "Speaker": "Speaker1",
+          "data_start": 76.97,
+          "data_end": 77.3
+        },
+        {
+          "Word": "of",
+          "Start Timecode": "00:01:17.33",
+          "End Timecode": "00:01:17.45",
+          "Speaker": "Speaker1",
+          "data_start": 77.33,
+          "data_end": 77.45
+        },
+        {
+          "Word": "As-sirat.",
+          "Start Timecode": "00:01:17.45",
+          "End Timecode": "00:01:18.29",
+          "Speaker": "Speaker1",
+          "data_start": 77.45,
+          "data_end": 78.29
+        },
+        {
+          "Word": "From",
+          "Start Timecode": "00:01:18.44",
+          "End Timecode": "00:01:18.86",
+          "Speaker": "Speaker1",
+          "data_start": 78.44,
+          "data_end": 78.86
+        },
+        {
+          "Word": "the",
+          "Start Timecode": "00:01:18.86",
+          "End Timecode": "00:01:18.98",
+          "Speaker": "Speaker1",
+          "data_start": 78.86,
+          "data_end": 78.98
+        },
+        {
+          "Word": "scorching",
+          "Start Timecode": "00:01:18.98",
+          "End Timecode": "00:01:19.46",
+          "Speaker": "Speaker1",
+          "data_start": 78.98,
+          "data_end": 79.46
+        },
+        {
+          "Word": "deserts",
+          "Start Timecode": "00:01:19.46",
+          "End Timecode": "00:01:19.88",
+          "Speaker": "Speaker1",
+          "data_start": 79.46,
+          "data_end": 79.88
+        },
+        {
+          "Word": "to",
+          "Start Timecode": "00:01:19.88",
+          "End Timecode": "00:01:20.06",
+          "Speaker": "Speaker1",
+          "data_start": 79.88,
+          "data_end": 80.06
+        },
+        {
+          "Word": "the",
+          "Start Timecode": "00:01:20.06",
+          "End Timecode": "00:01:20.15",
+          "Speaker": "Speaker1",
+          "data_start": 80.06,
+          "data_end": 80.15
+        },
+        {
+          "Word": "dry",
+          "Start Timecode": "00:01:20.15",
+          "End Timecode": "00:01:20.45",
+          "Speaker": "Speaker1",
+          "data_start": 80.15,
+          "data_end": 80.45
+        },
+        {
+          "Word": "savannas",
+          "Start Timecode": "00:01:20.45",
+          "End Timecode": "00:01:20.93",
+          "Speaker": "Speaker1",
+          "data_start": 80.45,
+          "data_end": 80.93
+        },
+        {
+          "Word": "of",
+          "Start Timecode": "00:01:20.93",
+          "End Timecode": "00:01:21.02",
+          "Speaker": "Speaker1",
+          "data_start": 80.93,
+          "data_end": 81.02
+        },
+        {
+          "Word": "the",
+          "Start Timecode": "00:01:21.02",
+          "End Timecode": "00:01:21.14",
+          "Speaker": "Speaker1",
+          "data_start": 81.02,
+          "data_end": 81.14
+        },
+        {
+          "Word": "Southeast.",
+          "Start Timecode": "00:01:21.14",
+          "End Timecode": "00:01:21.89",
+          "Speaker": "Speaker1",
+          "data_start": 81.14,
+          "data_end": 81.89
+        },
+        {
+          "Word": "The",
+          "Start Timecode": "00:01:21.92",
+          "End Timecode": "00:01:22.19",
+          "Speaker": "Speaker1",
+          "data_start": 81.92,
+          "data_end": 82.19
+        },
+        {
+          "Word": "melody",
+          "Start Timecode": "00:01:22.22",
+          "End Timecode": "00:01:22.61",
+          "Speaker": "Speaker1",
+          "data_start": 82.22,
+          "data_end": 82.61
+        },
+        {
+          "Word": "had",
+          "Start Timecode": "00:01:22.64",
+          "End Timecode": "00:01:22.85",
+          "Speaker": "Speaker1",
+          "data_start": 82.64,
+          "data_end": 82.85
+        },
+        {
+          "Word": "wandered",
+          "Start Timecode": "00:01:22.85",
+          "End Timecode": "00:01:23.24",
+          "Speaker": "Speaker1",
+          "data_start": 82.85,
+          "data_end": 83.24
+        },
+        {
+          "Word": "long",
+          "Start Timecode": "00:01:23.24",
+          "End Timecode": "00:01:23.60",
+          "Speaker": "Speaker1",
+          "data_start": 83.24,
+          "data_end": 83.6
+        },
+        {
+          "Word": "and",
+          "Start Timecode": "00:01:23.60",
+          "End Timecode": "00:01:23.81",
+          "Speaker": "Speaker1",
+          "data_start": 83.6,
+          "data_end": 83.81
+        },
+        {
+          "Word": "far.",
+          "Start Timecode": "00:01:23.81",
+          "End Timecode": "00:01:24.36",
+          "Speaker": "Speaker1",
+          "data_start": 83.81,
+          "data_end": 84.36
+        },
+        {
+          "Word": "Living",
+          "Start Timecode": "00:01:24.38",
+          "End Timecode": "00:01:24.95",
+          "Speaker": "Speaker1",
+          "data_start": 84.38,
+          "data_end": 84.95
+        },
+        {
+          "Word": "where",
+          "Start Timecode": "00:01:24.95",
+          "End Timecode": "00:01:25.13",
+          "Speaker": "Speaker1",
+          "data_start": 84.95,
+          "data_end": 85.13
+        },
+        {
+          "Word": "no",
+          "Start Timecode": "00:01:25.16",
+          "End Timecode": "00:01:25.31",
+          "Speaker": "Speaker1",
+          "data_start": 85.16,
+          "data_end": 85.31
+        },
+        {
+          "Word": "other",
+          "Start Timecode": "00:01:25.31",
+          "End Timecode": "00:01:25.58",
+          "Speaker": "Speaker1",
+          "data_start": 85.31,
+          "data_end": 85.58
+        },
+        {
+          "Word": "could.",
+          "Start Timecode": "00:01:25.58",
+          "End Timecode": "00:01:26.15",
+          "Speaker": "Speaker1",
+          "data_start": 85.58,
+          "data_end": 86.15
+        },
+        {
+          "Word": "Thriving",
+          "Start Timecode": "00:01:26.18",
+          "End Timecode": "00:01:26.93",
+          "Speaker": "Speaker1",
+          "data_start": 86.18,
+          "data_end": 86.93
+        },
+        {
+          "Word": "when",
+          "Start Timecode": "00:01:26.93",
+          "End Timecode": "00:01:27.11",
+          "Speaker": "Speaker1",
+          "data_start": 86.93,
+          "data_end": 87.11
+        },
+        {
+          "Word": "the",
+          "Start Timecode": "00:01:27.11",
+          "End Timecode": "00:01:27.20",
+          "Speaker": "Speaker1",
+          "data_start": 87.11,
+          "data_end": 87.2
+        },
+        {
+          "Word": "world",
+          "Start Timecode": "00:01:27.20",
+          "End Timecode": "00:01:27.53",
+          "Speaker": "Speaker1",
+          "data_start": 87.2,
+          "data_end": 87.53
+        },
+        {
+          "Word": "was",
+          "Start Timecode": "00:01:27.53",
+          "End Timecode": "00:01:27.71",
+          "Speaker": "Speaker1",
+          "data_start": 87.53,
+          "data_end": 87.71
+        },
+        {
+          "Word": "poisoned.",
+          "Start Timecode": "00:01:27.71",
+          "End Timecode": "00:01:28.52",
+          "Speaker": "Speaker1",
+          "data_start": 87.71,
+          "data_end": 88.52
+        },
+        {
+          "Word": "These",
+          "Start Timecode": "00:01:28.55",
+          "End Timecode": "00:01:29.18",
+          "Speaker": "Speaker1",
+          "data_start": 88.55,
+          "data_end": 89.18
+        },
+        {
+          "Word": "tough",
+          "Start Timecode": "00:01:29.18",
+          "End Timecode": "00:01:29.54",
+          "Speaker": "Speaker1",
+          "data_start": 89.18,
+          "data_end": 89.54
+        },
+        {
+          "Word": "skinned",
+          "Start Timecode": "00:01:29.54",
+          "End Timecode": "00:01:29.93",
+          "Speaker": "Speaker1",
+          "data_start": 89.54,
+          "data_end": 89.93
+        },
+        {
+          "Word": "warriors,",
+          "Start Timecode": "00:01:29.96",
+          "End Timecode": "00:01:30.56",
+          "Speaker": "Speaker1",
+          "data_start": 89.96,
+          "data_end": 90.56
+        },
+        {
+          "Word": "artisans",
+          "Start Timecode": "00:01:30.59",
+          "End Timecode": "00:01:31.31",
+          "Speaker": "Speaker1",
+          "data_start": 90.59,
+          "data_end": 91.31
+        },
+        {
+          "Word": "and",
+          "Start Timecode": "00:01:31.31",
+          "End Timecode": "00:01:31.52",
+          "Speaker": "Speaker1",
+          "data_start": 91.31,
+          "data_end": 91.52
+        },
+        {
+          "Word": "advisers,",
+          "Start Timecode": "00:01:31.52",
+          "End Timecode": "00:01:32.00",
+          "Speaker": "Speaker1",
+          "data_start": 91.52,
+          "data_end": 92.0
+        },
+        {
+          "Word": "have",
+          "Start Timecode": "00:01:32.00",
+          "End Timecode": "00:01:32.18",
+          "Speaker": "Speaker1",
+          "data_start": 92.0,
+          "data_end": 92.18
+        },
+        {
+          "Word": "stood",
+          "Start Timecode": "00:01:32.18",
+          "End Timecode": "00:01:32.42",
+          "Speaker": "Speaker1",
+          "data_start": 92.18,
+          "data_end": 92.42
+        },
+        {
+          "Word": "the",
+          "Start Timecode": "00:01:32.42",
+          "End Timecode": "00:01:32.51",
+          "Speaker": "Speaker1",
+          "data_start": 92.42,
+          "data_end": 92.51
+        },
+        {
+          "Word": "test",
+          "Start Timecode": "00:01:32.51",
+          "End Timecode": "00:01:32.84",
+          "Speaker": "Speaker1",
+          "data_start": 92.51,
+          "data_end": 92.84
+        },
+        {
+          "Word": "of",
+          "Start Timecode": "00:01:32.84",
+          "End Timecode": "00:01:32.93",
+          "Speaker": "Speaker1",
+          "data_start": 92.84,
+          "data_end": 92.93
+        },
+        {
+          "Word": "time",
+          "Start Timecode": "00:01:32.93",
+          "End Timecode": "00:01:33.29",
+          "Speaker": "Speaker1",
+          "data_start": 92.93,
+          "data_end": 93.29
+        },
+        {
+          "Word": "so",
+          "Start Timecode": "00:01:33.29",
+          "End Timecode": "00:01:33.53",
+          "Speaker": "Speaker1",
+          "data_start": 93.29,
+          "data_end": 93.53
+        },
+        {
+          "Word": "far",
+          "Start Timecode": "00:01:33.53",
+          "End Timecode": "00:01:33.80",
+          "Speaker": "Speaker1",
+          "data_start": 93.53,
+          "data_end": 93.8
+        },
+        {
+          "Word": "through",
+          "Start Timecode": "00:01:33.80",
+          "End Timecode": "00:01:34.04",
+          "Speaker": "Speaker1",
+          "data_start": 93.8,
+          "data_end": 94.04
+        },
+        {
+          "Word": "both",
+          "Start Timecode": "00:01:34.04",
+          "End Timecode": "00:01:34.34",
+          "Speaker": "Speaker1",
+          "data_start": 94.04,
+          "data_end": 94.34
+        },
+        {
+          "Word": "their",
+          "Start Timecode": "00:01:34.34",
+          "End Timecode": "00:01:34.55",
+          "Speaker": "Speaker1",
+          "data_start": 94.34,
+          "data_end": 94.55
+        },
+        {
+          "Word": "zeal",
+          "Start Timecode": "00:01:34.55",
+          "End Timecode": "00:01:34.91",
+          "Speaker": "Speaker1",
+          "data_start": 94.55,
+          "data_end": 94.91
+        },
+        {
+          "Word": "and",
+          "Start Timecode": "00:01:34.91",
+          "End Timecode": "00:01:35.27",
+          "Speaker": "Speaker1",
+          "data_start": 94.91,
+          "data_end": 95.27
+        },
+        {
+          "Word": "willingness",
+          "Start Timecode": "00:01:35.27",
+          "End Timecode": "00:01:35.75",
+          "Speaker": "Speaker1",
+          "data_start": 95.27,
+          "data_end": 95.75
+        },
+        {
+          "Word": "to",
+          "Start Timecode": "00:01:35.75",
+          "End Timecode": "00:01:35.87",
+          "Speaker": "Speaker1",
+          "data_start": 95.75,
+          "data_end": 95.87
+        },
+        {
+          "Word": "persevere.",
+          "Start Timecode": "00:01:35.87",
+          "End Timecode": "00:01:36.74",
+          "Speaker": "Speaker1",
+          "data_start": 95.87,
+          "data_end": 96.74
+        },
+        {
+          "Word": "To",
+          "Start Timecode": "00:01:36.77",
+          "End Timecode": "00:01:37.19",
+          "Speaker": "Speaker1",
+          "data_start": 96.77,
+          "data_end": 97.19
+        },
+        {
+          "Word": "laugh",
+          "Start Timecode": "00:01:37.19",
+          "End Timecode": "00:01:37.58",
+          "Speaker": "Speaker1",
+          "data_start": 97.19,
+          "data_end": 97.58
+        },
+        {
+          "Word": "in",
+          "Start Timecode": "00:01:37.58",
+          "End Timecode": "00:01:37.70",
+          "Speaker": "Speaker1",
+          "data_start": 97.58,
+          "data_end": 97.7
+        },
+        {
+          "Word": "the",
+          "Start Timecode": "00:01:37.70",
+          "End Timecode": "00:01:37.79",
+          "Speaker": "Speaker1",
+          "data_start": 97.7,
+          "data_end": 97.79
+        },
+        {
+          "Word": "face",
+          "Start Timecode": "00:01:37.79",
+          "End Timecode": "00:01:38.09",
+          "Speaker": "Speaker1",
+          "data_start": 97.79,
+          "data_end": 98.09
+        },
+        {
+          "Word": "of",
+          "Start Timecode": "00:01:38.09",
+          "End Timecode": "00:01:38.21",
+          "Speaker": "Speaker1",
+          "data_start": 98.09,
+          "data_end": 98.21
+        },
+        {
+          "Word": "death,",
+          "Start Timecode": "00:01:38.21",
+          "End Timecode": "00:01:38.65",
+          "Speaker": "Speaker1",
+          "data_start": 98.21,
+          "data_end": 98.65
+        },
+        {
+          "Word": "surely",
+          "Start Timecode": "00:01:38.66",
+          "End Timecode": "00:01:39.14",
+          "Speaker": "Speaker1",
+          "data_start": 98.66,
+          "data_end": 99.14
+        },
+        {
+          "Word": "taking",
+          "Start Timecode": "00:01:39.14",
+          "End Timecode": "00:01:39.47",
+          "Speaker": "Speaker1",
+          "data_start": 99.14,
+          "data_end": 99.47
+        },
+        {
+          "Word": "much",
+          "Start Timecode": "00:01:39.47",
+          "End Timecode": "00:01:39.71",
+          "Speaker": "Speaker1",
+          "data_start": 99.47,
+          "data_end": 99.71
+        },
+        {
+          "Word": "pride",
+          "Start Timecode": "00:01:39.71",
+          "End Timecode": "00:01:40.07",
+          "Speaker": "Speaker1",
+          "data_start": 99.71,
+          "data_end": 100.07
+        },
+        {
+          "Word": "in",
+          "Start Timecode": "00:01:40.07",
+          "End Timecode": "00:01:40.22",
+          "Speaker": "Speaker1",
+          "data_start": 100.07,
+          "data_end": 100.22
+        },
+        {
+          "Word": "spite",
+          "Start Timecode": "00:01:40.22",
+          "End Timecode": "00:01:40.49",
+          "Speaker": "Speaker1",
+          "data_start": 100.22,
+          "data_end": 100.49
+        },
+        {
+          "Word": "of",
+          "Start Timecode": "00:01:40.49",
+          "End Timecode": "00:01:40.61",
+          "Speaker": "Speaker1",
+          "data_start": 100.49,
+          "data_end": 100.61
+        },
+        {
+          "Word": "adversity.",
+          "Start Timecode": "00:01:40.61",
+          "End Timecode": "00:01:41.45",
+          "Speaker": "Speaker1",
+          "data_start": 100.61,
+          "data_end": 101.45
+        },
+        {
+          "Word": "Though",
+          "Start Timecode": "00:01:41.48",
+          "End Timecode": "00:01:41.84",
+          "Speaker": "Speaker1",
+          "data_start": 101.48,
+          "data_end": 101.84
+        },
+        {
+          "Word": "it",
+          "Start Timecode": "00:01:41.84",
+          "End Timecode": "00:01:41.90",
+          "Speaker": "Speaker1",
+          "data_start": 101.84,
+          "data_end": 101.9
+        },
+        {
+          "Word": "is",
+          "Start Timecode": "00:01:41.90",
+          "End Timecode": "00:01:42.05",
+          "Speaker": "Speaker1",
+          "data_start": 101.9,
+          "data_end": 102.05
+        },
+        {
+          "Word": "wrong",
+          "Start Timecode": "00:01:42.05",
+          "End Timecode": "00:01:42.26",
+          "Speaker": "Speaker1",
+          "data_start": 102.05,
+          "data_end": 102.26
+        },
+        {
+          "Word": "to",
+          "Start Timecode": "00:01:42.29",
+          "End Timecode": "00:01:42.41",
+          "Speaker": "Speaker1",
+          "data_start": 102.29,
+          "data_end": 102.41
+        },
+        {
+          "Word": "say",
+          "Start Timecode": "00:01:42.41",
+          "End Timecode": "00:01:42.59",
+          "Speaker": "Speaker1",
+          "data_start": 102.41,
+          "data_end": 102.59
+        },
+        {
+          "Word": "the",
+          "Start Timecode": "00:01:42.59",
+          "End Timecode": "00:01:42.68",
+          "Speaker": "Speaker1",
+          "data_start": 102.59,
+          "data_end": 102.68
+        },
+        {
+          "Word": "melody",
+          "Start Timecode": "00:01:42.71",
+          "End Timecode": "00:01:43.13",
+          "Speaker": "Speaker1",
+          "data_start": 102.71,
+          "data_end": 103.13
+        },
+        {
+          "Word": "have",
+          "Start Timecode": "00:01:43.16",
+          "End Timecode": "00:01:43.34",
+          "Speaker": "Speaker1",
+          "data_start": 103.16,
+          "data_end": 103.34
+        },
+        {
+          "Word": "not",
+          "Start Timecode": "00:01:43.34",
+          "End Timecode": "00:01:43.55",
+          "Speaker": "Speaker1",
+          "data_start": 103.34,
+          "data_end": 103.55
+        },
+        {
+          "Word": "faced",
+          "Start Timecode": "00:01:43.55",
+          "End Timecode": "00:01:44.00",
+          "Speaker": "Speaker1",
+          "data_start": 103.55,
+          "data_end": 104.0
+        },
+        {
+          "Word": "tragedy",
+          "Start Timecode": "00:01:44.00",
+          "End Timecode": "00:01:44.91",
+          "Speaker": "Speaker1",
+          "data_start": 104.0,
+          "data_end": 104.91
+        },
+        {
+          "Word": "from",
+          "Start Timecode": "00:01:44.93",
+          "End Timecode": "00:01:45.38",
+          "Speaker": "Speaker1",
+          "data_start": 104.93,
+          "data_end": 105.38
+        },
+        {
+          "Word": "the",
+          "Start Timecode": "00:01:45.38",
+          "End Timecode": "00:01:45.44",
+          "Speaker": "Speaker1",
+          "data_start": 105.38,
+          "data_end": 105.44
+        },
+        {
+          "Word": "beginning.",
+          "Start Timecode": "00:01:45.44",
+          "End Timecode": "00:01:45.86",
+          "Speaker": "Speaker1",
+          "data_start": 105.44,
+          "data_end": 105.86
+        },
+        {
+          "Word": "They",
+          "Start Timecode": "00:01:45.86",
+          "End Timecode": "00:01:45.98",
+          "Speaker": "Speaker1",
+          "data_start": 105.86,
+          "data_end": 105.98
+        },
+        {
+          "Word": "were",
+          "Start Timecode": "00:01:46.01",
+          "End Timecode": "00:01:46.13",
+          "Speaker": "Speaker1",
+          "data_start": 106.01,
+          "data_end": 106.13
+        },
+        {
+          "Word": "nomads",
+          "Start Timecode": "00:01:46.13",
+          "End Timecode": "00:01:46.94",
+          "Speaker": "Speaker1",
+          "data_start": 106.13,
+          "data_end": 106.94
+        },
+        {
+          "Word": "living",
+          "Start Timecode": "00:01:46.97",
+          "End Timecode": "00:01:47.48",
+          "Speaker": "Speaker1",
+          "data_start": 106.97,
+          "data_end": 107.48
+        },
+        {
+          "Word": "from",
+          "Start Timecode": "00:01:47.48",
+          "End Timecode": "00:01:47.69",
+          "Speaker": "Speaker1",
+          "data_start": 107.48,
+          "data_end": 107.69
+        },
+        {
+          "Word": "place",
+          "Start Timecode": "00:01:47.69",
+          "End Timecode": "00:01:47.96",
+          "Speaker": "Speaker1",
+          "data_start": 107.69,
+          "data_end": 107.96
+        },
+        {
+          "Word": "to",
+          "Start Timecode": "00:01:47.96",
+          "End Timecode": "00:01:48.05",
+          "Speaker": "Speaker1",
+          "data_start": 107.96,
+          "data_end": 108.05
+        },
+        {
+          "Word": "place,",
+          "Start Timecode": "00:01:48.05",
+          "End Timecode": "00:01:48.38",
+          "Speaker": "Speaker1",
+          "data_start": 108.05,
+          "data_end": 108.38
+        },
+        {
+          "Word": "always",
+          "Start Timecode": "00:01:48.38",
+          "End Timecode": "00:01:48.77",
+          "Speaker": "Speaker1",
+          "data_start": 108.38,
+          "data_end": 108.77
+        },
+        {
+          "Word": "on",
+          "Start Timecode": "00:01:48.77",
+          "End Timecode": "00:01:48.89",
+          "Speaker": "Speaker1",
+          "data_start": 108.77,
+          "data_end": 108.89
+        },
+        {
+          "Word": "the",
+          "Start Timecode": "00:01:48.89",
+          "End Timecode": "00:01:48.98",
+          "Speaker": "Speaker1",
+          "data_start": 108.89,
+          "data_end": 108.98
+        },
+        {
+          "Word": "move.",
+          "Start Timecode": "00:01:48.98",
+          "End Timecode": "00:01:49.64",
+          "Speaker": "Speaker1",
+          "data_start": 108.98,
+          "data_end": 109.64
+        },
+        {
+          "Word": "But",
+          "Start Timecode": "00:01:49.67",
+          "End Timecode": "00:01:50.12",
+          "Speaker": "Speaker1",
+          "data_start": 109.67,
+          "data_end": 110.12
+        },
+        {
+          "Word": "they",
+          "Start Timecode": "00:01:50.12",
+          "End Timecode": "00:01:50.30",
+          "Speaker": "Speaker1",
+          "data_start": 110.12,
+          "data_end": 110.3
+        },
+        {
+          "Word": "were",
+          "Start Timecode": "00:01:50.33",
+          "End Timecode": "00:01:50.48",
+          "Speaker": "Speaker1",
+          "data_start": 110.33,
+          "data_end": 110.48
+        },
+        {
+          "Word": "wanderers",
+          "Start Timecode": "00:01:50.48",
+          "End Timecode": "00:01:51.05",
+          "Speaker": "Speaker1",
+          "data_start": 110.48,
+          "data_end": 111.05
+        },
+        {
+          "Word": "who",
+          "Start Timecode": "00:01:51.05",
+          "End Timecode": "00:01:51.23",
+          "Speaker": "Speaker1",
+          "data_start": 111.05,
+          "data_end": 111.23
+        },
+        {
+          "Word": "disrespected",
+          "Start Timecode": "00:01:51.23",
+          "End Timecode": "00:01:52.04",
+          "Speaker": "Speaker1",
+          "data_start": 111.23,
+          "data_end": 112.04
+        },
+        {
+          "Word": "the",
+          "Start Timecode": "00:01:52.04",
+          "End Timecode": "00:01:52.13",
+          "Speaker": "Speaker1",
+          "data_start": 112.04,
+          "data_end": 112.13
+        },
+        {
+          "Word": "tenets",
+          "Start Timecode": "00:01:52.13",
+          "End Timecode": "00:01:52.49",
+          "Speaker": "Speaker1",
+          "data_start": 112.13,
+          "data_end": 112.49
+        },
+        {
+          "Word": "of",
+          "Start Timecode": "00:01:52.49",
+          "End Timecode": "00:01:52.61",
+          "Speaker": "Speaker1",
+          "data_start": 112.49,
+          "data_end": 112.61
+        },
+        {
+          "Word": "their",
+          "Start Timecode": "00:01:52.64",
+          "End Timecode": "00:01:52.85",
+          "Speaker": "Speaker1",
+          "data_start": 112.64,
+          "data_end": 112.85
+        },
+        {
+          "Word": "former",
+          "Start Timecode": "00:01:52.85",
+          "End Timecode": "00:01:53.21",
+          "Speaker": "Speaker1",
+          "data_start": 112.85,
+          "data_end": 113.21
+        },
+        {
+          "Word": "tribe.",
+          "Start Timecode": "00:01:53.21",
+          "End Timecode": "00:01:53.69",
+          "Speaker": "Speaker1",
+          "data_start": 113.21,
+          "data_end": 113.69
+        },
+        {
+          "Word": "Now",
+          "Start Timecode": "00:01:53.69",
+          "End Timecode": "00:01:54.05",
+          "Speaker": "Speaker1",
+          "data_start": 113.69,
+          "data_end": 114.05
+        },
+        {
+          "Word": "instead",
+          "Start Timecode": "00:01:54.05",
+          "End Timecode": "00:01:54.41",
+          "Speaker": "Speaker1",
+          "data_start": 114.05,
+          "data_end": 114.41
+        },
+        {
+          "Word": "forced",
+          "Start Timecode": "00:01:54.41",
+          "End Timecode": "00:01:54.80",
+          "Speaker": "Speaker1",
+          "data_start": 114.41,
+          "data_end": 114.8
+        },
+        {
+          "Word": "to",
+          "Start Timecode": "00:01:54.80",
+          "End Timecode": "00:01:55.04",
+          "Speaker": "Speaker1",
+          "data_start": 114.8,
+          "data_end": 115.04
+        },
+        {
+          "Word": "seal",
+          "Start Timecode": "00:01:55.04",
+          "End Timecode": "00:01:55.40",
+          "Speaker": "Speaker1",
+          "data_start": 115.04,
+          "data_end": 115.4
+        },
+        {
+          "Word": "their",
+          "Start Timecode": "00:01:55.40",
+          "End Timecode": "00:01:55.61",
+          "Speaker": "Speaker1",
+          "data_start": 115.4,
+          "data_end": 115.61
+        },
+        {
+          "Word": "fate",
+          "Start Timecode": "00:01:55.61",
+          "End Timecode": "00:01:55.91",
+          "Speaker": "Speaker1",
+          "data_start": 115.61,
+          "data_end": 115.91
+        },
+        {
+          "Word": "by",
+          "Start Timecode": "00:01:55.91",
+          "End Timecode": "00:01:56.18",
+          "Speaker": "Speaker1",
+          "data_start": 115.91,
+          "data_end": 116.18
+        },
+        {
+          "Word": "wandering",
+          "Start Timecode": "00:01:56.18",
+          "End Timecode": "00:01:56.63",
+          "Speaker": "Speaker1",
+          "data_start": 116.18,
+          "data_end": 116.63
+        },
+        {
+          "Word": "the",
+          "Start Timecode": "00:01:56.63",
+          "End Timecode": "00:01:56.75",
+          "Speaker": "Speaker1",
+          "data_start": 116.63,
+          "data_end": 116.75
+        },
+        {
+          "Word": "dunes",
+          "Start Timecode": "00:01:56.75",
+          "End Timecode": "00:01:57.20",
+          "Speaker": "Speaker1",
+          "data_start": 116.75,
+          "data_end": 117.2
+        },
+        {
+          "Word": "of",
+          "Start Timecode": "00:01:57.20",
+          "End Timecode": "00:01:57.35",
+          "Speaker": "Speaker1",
+          "data_start": 117.2,
+          "data_end": 117.35
+        },
+        {
+          "Word": "death",
+          "Start Timecode": "00:01:57.35",
+          "End Timecode": "00:01:58.01",
+          "Speaker": "Speaker1",
+          "data_start": 117.35,
+          "data_end": 118.01
+        },
+        {
+          "Word": "where",
+          "Start Timecode": "00:01:58.01",
+          "End Timecode": "00:01:58.37",
+          "Speaker": "Speaker1",
+          "data_start": 118.01,
+          "data_end": 118.37
+        },
+        {
+          "Word": "no",
+          "Start Timecode": "00:01:58.40",
+          "End Timecode": "00:01:58.58",
+          "Speaker": "Speaker1",
+          "data_start": 118.4,
+          "data_end": 118.58
+        },
+        {
+          "Word": "man",
+          "Start Timecode": "00:01:58.58",
+          "End Timecode": "00:01:58.88",
+          "Speaker": "Speaker1",
+          "data_start": 118.58,
+          "data_end": 118.88
+        },
+        {
+          "Word": "or",
+          "Start Timecode": "00:01:58.88",
+          "End Timecode": "00:01:59.06",
+          "Speaker": "Speaker1",
+          "data_start": 118.88,
+          "data_end": 119.06
+        },
+        {
+          "Word": "God",
+          "Start Timecode": "00:01:59.06",
+          "End Timecode": "00:01:59.30",
+          "Speaker": "Speaker1",
+          "data_start": 119.06,
+          "data_end": 119.3
+        },
+        {
+          "Word": "alike",
+          "Start Timecode": "00:01:59.30",
+          "End Timecode": "00:01:59.63",
+          "Speaker": "Speaker1",
+          "data_start": 119.3,
+          "data_end": 119.63
+        },
+        {
+          "Word": "emerged",
+          "Start Timecode": "00:01:59.66",
+          "End Timecode": "00:02:00.14",
+          "Speaker": "Speaker1",
+          "data_start": 119.66,
+          "data_end": 120.14
+        },
+        {
+          "Word": "alive.",
+          "Start Timecode": "00:02:00.14",
+          "End Timecode": "00:02:00.83",
+          "Speaker": "Speaker1",
+          "data_start": 120.14,
+          "data_end": 120.83
+        },
+        {
+          "Word": "A",
+          "Start Timecode": "00:02:00.86",
+          "End Timecode": "00:02:01.07",
+          "Speaker": "Speaker1",
+          "data_start": 120.86,
+          "data_end": 121.07
+        },
+        {
+          "Word": "most",
+          "Start Timecode": "00:02:01.07",
+          "End Timecode": "00:02:01.34",
+          "Speaker": "Speaker1",
+          "data_start": 121.07,
+          "data_end": 121.34
+        },
+        {
+          "Word": "cruel",
+          "Start Timecode": "00:02:01.34",
+          "End Timecode": "00:02:01.70",
+          "Speaker": "Speaker1",
+          "data_start": 121.34,
+          "data_end": 121.7
+        },
+        {
+          "Word": "punishment",
+          "Start Timecode": "00:02:01.70",
+          "End Timecode": "00:02:02.36",
+          "Speaker": "Speaker1",
+          "data_start": 121.7,
+          "data_end": 122.36
+        },
+        {
+          "Word": "invoked",
+          "Start Timecode": "00:02:02.36",
+          "End Timecode": "00:02:02.93",
+          "Speaker": "Speaker1",
+          "data_start": 122.36,
+          "data_end": 122.93
+        },
+        {
+          "Word": "only",
+          "Start Timecode": "00:02:02.93",
+          "End Timecode": "00:02:03.20",
+          "Speaker": "Speaker1",
+          "data_start": 122.93,
+          "data_end": 123.2
+        },
+        {
+          "Word": "by",
+          "Start Timecode": "00:02:03.20",
+          "End Timecode": "00:02:03.38",
+          "Speaker": "Speaker1",
+          "data_start": 123.2,
+          "data_end": 123.38
+        },
+        {
+          "Word": "the",
+          "Start Timecode": "00:02:03.38",
+          "End Timecode": "00:02:03.50",
+          "Speaker": "Speaker1",
+          "data_start": 123.38,
+          "data_end": 123.5
+        },
+        {
+          "Word": "harshest",
+          "Start Timecode": "00:02:03.50",
+          "End Timecode": "00:02:04.01",
+          "Speaker": "Speaker1",
+          "data_start": 123.5,
+          "data_end": 124.01
+        },
+        {
+          "Word": "of",
+          "Start Timecode": "00:02:04.01",
+          "End Timecode": "00:02:04.13",
+          "Speaker": "Speaker1",
+          "data_start": 124.01,
+          "data_end": 124.13
+        },
+        {
+          "Word": "chiefs",
+          "Start Timecode": "00:02:04.13",
+          "End Timecode": "00:02:04.49",
+          "Speaker": "Speaker1",
+          "data_start": 124.13,
+          "data_end": 124.49
+        },
+        {
+          "Word": "at",
+          "Start Timecode": "00:02:04.49",
+          "End Timecode": "00:02:04.61",
+          "Speaker": "Speaker1",
+          "data_start": 124.49,
+          "data_end": 124.61
+        },
+        {
+          "Word": "the",
+          "Start Timecode": "00:02:04.61",
+          "End Timecode": "00:02:04.70",
+          "Speaker": "Speaker1",
+          "data_start": 124.61,
+          "data_end": 124.7
+        },
+        {
+          "Word": "time.",
+          "Start Timecode": "00:02:04.70",
+          "End Timecode": "00:02:05.37",
+          "Speaker": "Speaker1",
+          "data_start": 124.7,
+          "data_end": 125.37
+        },
+        {
+          "Word": "Yet",
+          "Start Timecode": "00:02:05.39",
+          "End Timecode": "00:02:05.81",
+          "Speaker": "Speaker1",
+          "data_start": 125.39,
+          "data_end": 125.81
+        },
+        {
+          "Word": "this",
+          "Start Timecode": "00:02:05.81",
+          "End Timecode": "00:02:06.17",
+          "Speaker": "Speaker1",
+          "data_start": 125.81,
+          "data_end": 126.17
+        },
+        {
+          "Word": "was",
+          "Start Timecode": "00:02:06.17",
+          "End Timecode": "00:02:06.41",
+          "Speaker": "Speaker1",
+          "data_start": 126.17,
+          "data_end": 126.41
+        },
+        {
+          "Word": "the",
+          "Start Timecode": "00:02:06.41",
+          "End Timecode": "00:02:06.56",
+          "Speaker": "Speaker1",
+          "data_start": 126.41,
+          "data_end": 126.56
+        },
+        {
+          "Word": "rast",
+          "Start Timecode": "00:02:06.56",
+          "End Timecode": "00:02:06.92",
+          "Speaker": "Speaker1",
+          "data_start": 126.56,
+          "data_end": 126.92
+        },
+        {
+          "Word": "proof",
+          "Start Timecode": "00:02:06.92",
+          "End Timecode": "00:02:07.37",
+          "Speaker": "Speaker1",
+          "data_start": 126.92,
+          "data_end": 127.37
+        },
+        {
+          "Word": "of",
+          "Start Timecode": "00:02:07.37",
+          "End Timecode": "00:02:07.58",
+          "Speaker": "Speaker1",
+          "data_start": 127.37,
+          "data_end": 127.58
+        },
+        {
+          "Word": "faith.",
+          "Start Timecode": "00:02:07.58",
+          "End Timecode": "00:02:08.26",
+          "Speaker": "Speaker1",
+          "data_start": 127.58,
+          "data_end": 128.26
+        },
+        {
+          "Word": "Their",
+          "Start Timecode": "00:02:08.27",
+          "End Timecode": "00:02:08.72",
+          "Speaker": "Speaker1",
+          "data_start": 128.27,
+          "data_end": 128.72
+        },
+        {
+          "Word": "willingness",
+          "Start Timecode": "00:02:08.72",
+          "End Timecode": "00:02:09.11",
+          "Speaker": "Speaker1",
+          "data_start": 128.72,
+          "data_end": 129.11
+        },
+        {
+          "Word": "to",
+          "Start Timecode": "00:02:09.11",
+          "End Timecode": "00:02:09.20",
+          "Speaker": "Speaker1",
+          "data_start": 129.11,
+          "data_end": 129.2
+        },
+        {
+          "Word": "put",
+          "Start Timecode": "00:02:09.20",
+          "End Timecode": "00:02:09.38",
+          "Speaker": "Speaker1",
+          "data_start": 129.2,
+          "data_end": 129.38
+        },
+        {
+          "Word": "themselves",
+          "Start Timecode": "00:02:09.38",
+          "End Timecode": "00:02:09.80",
+          "Speaker": "Speaker1",
+          "data_start": 129.38,
+          "data_end": 129.8
+        },
+        {
+          "Word": "in",
+          "Start Timecode": "00:02:09.80",
+          "End Timecode": "00:02:09.95",
+          "Speaker": "Speaker1",
+          "data_start": 129.8,
+          "data_end": 129.95
+        },
+        {
+          "Word": "danger",
+          "Start Timecode": "00:02:09.95",
+          "End Timecode": "00:02:10.28",
+          "Speaker": "Speaker1",
+          "data_start": 129.95,
+          "data_end": 130.28
+        },
+        {
+          "Word": "did",
+          "Start Timecode": "00:02:10.28",
+          "End Timecode": "00:02:10.43",
+          "Speaker": "Speaker1",
+          "data_start": 130.28,
+          "data_end": 130.43
+        },
+        {
+          "Word": "not",
+          "Start Timecode": "00:02:10.43",
+          "End Timecode": "00:02:10.61",
+          "Speaker": "Speaker1",
+          "data_start": 130.43,
+          "data_end": 130.61
+        },
+        {
+          "Word": "go",
+          "Start Timecode": "00:02:10.61",
+          "End Timecode": "00:02:10.76",
+          "Speaker": "Speaker1",
+          "data_start": 130.61,
+          "data_end": 130.76
+        },
+        {
+          "Word": "unnoticed",
+          "Start Timecode": "00:02:10.76",
+          "End Timecode": "00:02:11.30",
+          "Speaker": "Speaker1",
+          "data_start": 130.76,
+          "data_end": 131.3
+        },
+        {
+          "Word": "for",
+          "Start Timecode": "00:02:11.30",
+          "End Timecode": "00:02:11.45",
+          "Speaker": "Speaker1",
+          "data_start": 131.3,
+          "data_end": 131.45
+        },
+        {
+          "Word": "long.",
+          "Start Timecode": "00:02:11.45",
+          "End Timecode": "00:02:12.14",
+          "Speaker": "Speaker1",
+          "data_start": 131.45,
+          "data_end": 132.14
+        },
+        {
+          "Word": "The",
+          "Start Timecode": "00:02:12.27",
+          "End Timecode": "00:02:12.75",
+          "Speaker": "Speaker1",
+          "data_start": 132.27,
+          "data_end": 132.75
+        },
+        {
+          "Word": "eyes",
+          "Start Timecode": "00:02:12.75",
+          "End Timecode": "00:02:13.02",
+          "Speaker": "Speaker1",
+          "data_start": 132.75,
+          "data_end": 133.02
+        },
+        {
+          "Word": "of",
+          "Start Timecode": "00:02:13.02",
+          "End Timecode": "00:02:13.11",
+          "Speaker": "Speaker1",
+          "data_start": 133.02,
+          "data_end": 133.11
+        },
+        {
+          "Word": "the",
+          "Start Timecode": "00:02:13.11",
+          "End Timecode": "00:02:13.23",
+          "Speaker": "Speaker1",
+          "data_start": 133.11,
+          "data_end": 133.23
+        },
+        {
+          "Word": "night",
+          "Start Timecode": "00:02:13.23",
+          "End Timecode": "00:02:13.53",
+          "Speaker": "Speaker1",
+          "data_start": 133.23,
+          "data_end": 133.53
+        },
+        {
+          "Word": "sky",
+          "Start Timecode": "00:02:13.53",
+          "End Timecode": "00:02:13.92",
+          "Speaker": "Speaker1",
+          "data_start": 133.53,
+          "data_end": 133.92
+        },
+        {
+          "Word": "watch",
+          "Start Timecode": "00:02:13.95",
+          "End Timecode": "00:02:14.40",
+          "Speaker": "Speaker1",
+          "data_start": 133.95,
+          "data_end": 134.4
+        },
+        {
+          "Word": "diligently",
+          "Start Timecode": "00:02:14.40",
+          "End Timecode": "00:02:15.27",
+          "Speaker": "Speaker1",
+          "data_start": 134.4,
+          "data_end": 135.27
+        },
+        {
+          "Word": "and",
+          "Start Timecode": "00:02:15.27",
+          "End Timecode": "00:02:15.57",
+          "Speaker": "Speaker1",
+          "data_start": 135.27,
+          "data_end": 135.57
+        },
+        {
+          "Word": "even",
+          "Start Timecode": "00:02:15.57",
+          "End Timecode": "00:02:15.78",
+          "Speaker": "Speaker1",
+          "data_start": 135.57,
+          "data_end": 135.78
+        },
+        {
+          "Word": "among",
+          "Start Timecode": "00:02:15.78",
+          "End Timecode": "00:02:16.05",
+          "Speaker": "Speaker1",
+          "data_start": 135.78,
+          "data_end": 136.05
+        },
+        {
+          "Word": "the",
+          "Start Timecode": "00:02:16.05",
+          "End Timecode": "00:02:16.14",
+          "Speaker": "Speaker1",
+          "data_start": 136.05,
+          "data_end": 136.14
+        },
+        {
+          "Word": "dunes.",
+          "Start Timecode": "00:02:16.14",
+          "End Timecode": "00:02:16.62",
+          "Speaker": "Speaker1",
+          "data_start": 136.14,
+          "data_end": 136.62
+        },
+        {
+          "Word": "The",
+          "Start Timecode": "00:02:16.62",
+          "End Timecode": "00:02:16.80",
+          "Speaker": "Speaker1",
+          "data_start": 136.62,
+          "data_end": 136.8
+        },
+        {
+          "Word": "vermin",
+          "Start Timecode": "00:02:16.80",
+          "End Timecode": "00:02:17.19",
+          "Speaker": "Speaker1",
+          "data_start": 136.8,
+          "data_end": 137.19
+        },
+        {
+          "Word": "truly",
+          "Start Timecode": "00:02:17.19",
+          "End Timecode": "00:02:17.55",
+          "Speaker": "Speaker1",
+          "data_start": 137.19,
+          "data_end": 137.55
+        },
+        {
+          "Word": "persevered.",
+          "Start Timecode": "00:02:17.55",
+          "End Timecode": "00:02:18.35",
+          "Speaker": "Speaker1",
+          "data_start": 137.55,
+          "data_end": 138.35
+        },
+        {
+          "Word": "For",
+          "Start Timecode": "00:02:18.36",
+          "End Timecode": "00:02:18.66",
+          "Speaker": "Speaker1",
+          "data_start": 138.36,
+          "data_end": 138.66
+        },
+        {
+          "Word": "it",
+          "Start Timecode": "00:02:18.66",
+          "End Timecode": "00:02:18.78",
+          "Speaker": "Speaker1",
+          "data_start": 138.66,
+          "data_end": 138.78
+        },
+        {
+          "Word": "is",
+          "Start Timecode": "00:02:18.78",
+          "End Timecode": "00:02:18.93",
+          "Speaker": "Speaker1",
+          "data_start": 138.78,
+          "data_end": 138.93
+        },
+        {
+          "Word": "where",
+          "Start Timecode": "00:02:18.93",
+          "End Timecode": "00:02:19.08",
+          "Speaker": "Speaker1",
+          "data_start": 138.93,
+          "data_end": 139.08
+        },
+        {
+          "Word": "the",
+          "Start Timecode": "00:02:19.08",
+          "End Timecode": "00:02:19.20",
+          "Speaker": "Speaker1",
+          "data_start": 139.08,
+          "data_end": 139.2
+        },
+        {
+          "Word": "three",
+          "Start Timecode": "00:02:19.20",
+          "End Timecode": "00:02:19.56",
+          "Speaker": "Speaker1",
+          "data_start": 139.2,
+          "data_end": 139.56
+        },
+        {
+          "Word": "tailed",
+          "Start Timecode": "00:02:19.56",
+          "End Timecode": "00:02:19.92",
+          "Speaker": "Speaker1",
+          "data_start": 139.56,
+          "data_end": 139.92
+        },
+        {
+          "Word": "scorpion",
+          "Start Timecode": "00:02:19.92",
+          "End Timecode": "00:02:20.55",
+          "Speaker": "Speaker1",
+          "data_start": 139.92,
+          "data_end": 140.55
+        },
+        {
+          "Word": "set",
+          "Start Timecode": "00:02:20.55",
+          "End Timecode": "00:02:20.82",
+          "Speaker": "Speaker1",
+          "data_start": 140.55,
+          "data_end": 140.82
+        },
+        {
+          "Word": "his",
+          "Start Timecode": "00:02:20.82",
+          "End Timecode": "00:02:21.03",
+          "Speaker": "Speaker1",
+          "data_start": 140.82,
+          "data_end": 141.03
+        },
+        {
+          "Word": "cruel",
+          "Start Timecode": "00:02:21.03",
+          "End Timecode": "00:02:21.45",
+          "Speaker": "Speaker1",
+          "data_start": 141.03,
+          "data_end": 141.45
+        },
+        {
+          "Word": "stage.",
+          "Start Timecode": "00:02:21.45",
+          "End Timecode": "00:02:22.26",
+          "Speaker": "Speaker1",
+          "data_start": 141.45,
+          "data_end": 142.26
+        },
+        {
+          "Word": "Deprived",
+          "Start Timecode": "00:02:22.47",
+          "End Timecode": "00:02:23.19",
+          "Speaker": "Speaker1",
+          "data_start": 142.47,
+          "data_end": 143.19
+        },
+        {
+          "Word": "of",
+          "Start Timecode": "00:02:23.19",
+          "End Timecode": "00:02:23.31",
+          "Speaker": "Speaker1",
+          "data_start": 143.19,
+          "data_end": 143.31
+        },
+        {
+          "Word": "ailments,",
+          "Start Timecode": "00:02:23.31",
+          "End Timecode": "00:02:23.85",
+          "Speaker": "Speaker1",
+          "data_start": 143.31,
+          "data_end": 143.85
+        },
+        {
+          "Word": "the",
+          "Start Timecode": "00:02:23.85",
+          "End Timecode": "00:02:24.12",
+          "Speaker": "Speaker1",
+          "data_start": 143.85,
+          "data_end": 144.12
+        },
+        {
+          "Word": "wandering",
+          "Start Timecode": "00:02:24.12",
+          "End Timecode": "00:02:24.54",
+          "Speaker": "Speaker1",
+          "data_start": 144.12,
+          "data_end": 144.54
+        },
+        {
+          "Word": "pilgrims",
+          "Start Timecode": "00:02:24.54",
+          "End Timecode": "00:02:25.08",
+          "Speaker": "Speaker1",
+          "data_start": 144.54,
+          "data_end": 145.08
+        },
+        {
+          "Word": "stopped",
+          "Start Timecode": "00:02:25.08",
+          "End Timecode": "00:02:25.56",
+          "Speaker": "Speaker1",
+          "data_start": 145.08,
+          "data_end": 145.56
+        },
+        {
+          "Word": "to",
+          "Start Timecode": "00:02:25.56",
+          "End Timecode": "00:02:25.77",
+          "Speaker": "Speaker1",
+          "data_start": 145.56,
+          "data_end": 145.77
+        },
+        {
+          "Word": "rest.",
+          "Start Timecode": "00:02:25.77",
+          "End Timecode": "00:02:26.49",
+          "Speaker": "Speaker1",
+          "data_start": 145.77,
+          "data_end": 146.49
+        },
+        {
+          "Word": "This",
+          "Start Timecode": "00:02:26.70",
+          "End Timecode": "00:02:27.18",
+          "Speaker": "Speaker1",
+          "data_start": 146.7,
+          "data_end": 147.18
+        },
+        {
+          "Word": "is",
+          "Start Timecode": "00:02:27.18",
+          "End Timecode": "00:02:27.33",
+          "Speaker": "Speaker1",
+          "data_start": 147.18,
+          "data_end": 147.33
+        },
+        {
+          "Word": "when",
+          "Start Timecode": "00:02:27.33",
+          "End Timecode": "00:02:27.51",
+          "Speaker": "Speaker1",
+          "data_start": 147.33,
+          "data_end": 147.51
+        },
+        {
+          "Word": "the",
+          "Start Timecode": "00:02:27.51",
+          "End Timecode": "00:02:27.63",
+          "Speaker": "Speaker1",
+          "data_start": 147.51,
+          "data_end": 147.63
+        },
+        {
+          "Word": "soaring",
+          "Start Timecode": "00:02:27.63",
+          "End Timecode": "00:02:28.08",
+          "Speaker": "Speaker1",
+          "data_start": 147.63,
+          "data_end": 148.08
+        },
+        {
+          "Word": "ishq",
+          "Start Timecode": "00:02:28.11",
+          "End Timecode": "00:02:28.59",
+          "Speaker": "Speaker1",
+          "data_start": 148.11,
+          "data_end": 148.59
+        },
+        {
+          "Word": "happened",
+          "Start Timecode": "00:02:28.59",
+          "End Timecode": "00:02:29.04",
+          "Speaker": "Speaker1",
+          "data_start": 148.59,
+          "data_end": 149.04
+        },
+        {
+          "Word": "upon",
+          "Start Timecode": "00:02:29.04",
+          "End Timecode": "00:02:29.28",
+          "Speaker": "Speaker1",
+          "data_start": 149.04,
+          "data_end": 149.28
+        },
+        {
+          "Word": "the",
+          "Start Timecode": "00:02:29.28",
+          "End Timecode": "00:02:29.37",
+          "Speaker": "Speaker1",
+          "data_start": 149.28,
+          "data_end": 149.37
+        },
+        {
+          "Word": "poisoned",
+          "Start Timecode": "00:02:29.37",
+          "End Timecode": "00:02:29.82",
+          "Speaker": "Speaker1",
+          "data_start": 149.37,
+          "data_end": 149.82
+        },
+        {
+          "Word": "oasis",
+          "Start Timecode": "00:02:29.82",
+          "End Timecode": "00:02:30.48",
+          "Speaker": "Speaker1",
+          "data_start": 149.82,
+          "data_end": 150.48
+        },
+        {
+          "Word": "where",
+          "Start Timecode": "00:02:30.51",
+          "End Timecode": "00:02:30.84",
+          "Speaker": "Speaker1",
+          "data_start": 150.51,
+          "data_end": 150.84
+        },
+        {
+          "Word": "the",
+          "Start Timecode": "00:02:30.84",
+          "End Timecode": "00:02:30.96",
+          "Speaker": "Speaker1",
+          "data_start": 150.84,
+          "data_end": 150.96
+        },
+        {
+          "Word": "blind",
+          "Start Timecode": "00:02:30.96",
+          "End Timecode": "00:02:31.38",
+          "Speaker": "Speaker1",
+          "data_start": 150.96,
+          "data_end": 151.38
+        },
+        {
+          "Word": "and",
+          "Start Timecode": "00:02:31.38",
+          "End Timecode": "00:02:31.59",
+          "Speaker": "Speaker1",
+          "data_start": 151.38,
+          "data_end": 151.59
+        },
+        {
+          "Word": "gangrenous",
+          "Start Timecode": "00:02:31.59",
+          "End Timecode": "00:02:32.16",
+          "Speaker": "Speaker1",
+          "data_start": 151.59,
+          "data_end": 152.16
+        },
+        {
+          "Word": "pilgrim",
+          "Start Timecode": "00:02:32.16",
+          "End Timecode": "00:02:32.61",
+          "Speaker": "Speaker1",
+          "data_start": 152.16,
+          "data_end": 152.61
+        },
+        {
+          "Word": "submerged",
+          "Start Timecode": "00:02:32.61",
+          "End Timecode": "00:02:33.15",
+          "Speaker": "Speaker1",
+          "data_start": 152.61,
+          "data_end": 153.15
+        },
+        {
+          "Word": "himself",
+          "Start Timecode": "00:02:33.15",
+          "End Timecode": "00:02:33.69",
+          "Speaker": "Speaker1",
+          "data_start": 153.15,
+          "data_end": 153.69
+        },
+        {
+          "Word": "and",
+          "Start Timecode": "00:02:33.69",
+          "End Timecode": "00:02:33.99",
+          "Speaker": "Speaker1",
+          "data_start": 153.69,
+          "data_end": 153.99
+        },
+        {
+          "Word": "succumbed",
+          "Start Timecode": "00:02:33.99",
+          "End Timecode": "00:02:34.50",
+          "Speaker": "Speaker1",
+          "data_start": 153.99,
+          "data_end": 154.5
+        },
+        {
+          "Word": "to",
+          "Start Timecode": "00:02:34.50",
+          "End Timecode": "00:02:34.68",
+          "Speaker": "Speaker1",
+          "data_start": 154.5,
+          "data_end": 154.68
+        },
+        {
+          "Word": "the",
+          "Start Timecode": "00:02:34.68",
+          "End Timecode": "00:02:34.77",
+          "Speaker": "Speaker1",
+          "data_start": 154.68,
+          "data_end": 154.77
+        },
+        {
+          "Word": "scorpion's",
+          "Start Timecode": "00:02:34.77",
+          "End Timecode": "00:02:35.34",
+          "Speaker": "Speaker1",
+          "data_start": 154.77,
+          "data_end": 155.34
+        },
+        {
+          "Word": "poison",
+          "Start Timecode": "00:02:35.34",
+          "End Timecode": "00:02:35.97",
+          "Speaker": "Speaker1",
+          "data_start": 155.34,
+          "data_end": 155.97
+        },
+        {
+          "Word": "as",
+          "Start Timecode": "00:02:35.97",
+          "End Timecode": "00:02:36.39",
+          "Speaker": "Speaker1",
+          "data_start": 155.97,
+          "data_end": 156.39
+        },
+        {
+          "Word": "irad.",
+          "Start Timecode": "00:02:36.39",
+          "End Timecode": "00:02:36.93",
+          "Speaker": "Speaker1",
+          "data_start": 156.39,
+          "data_end": 156.93
+        },
+        {
+          "Word": "The",
+          "Start Timecode": "00:02:37.43",
+          "End Timecode": "00:02:37.67",
+          "Speaker": "Speaker1",
+          "data_start": 157.43,
+          "data_end": 157.67
+        },
+        {
+          "Word": "pilgrim",
+          "Start Timecode": "00:02:37.67",
+          "End Timecode": "00:02:38.12",
+          "Speaker": "Speaker1",
+          "data_start": 157.67,
+          "data_end": 158.12
+        },
+        {
+          "Word": "Isaac",
+          "Start Timecode": "00:02:38.12",
+          "End Timecode": "00:02:38.51",
+          "Speaker": "Speaker1",
+          "data_start": 158.12,
+          "data_end": 158.51
+        },
+        {
+          "Word": "emerged",
+          "Start Timecode": "00:02:38.54",
+          "End Timecode": "00:02:39.02",
+          "Speaker": "Speaker1",
+          "data_start": 158.54,
+          "data_end": 159.02
+        },
+        {
+          "Word": "in",
+          "Start Timecode": "00:02:39.02",
+          "End Timecode": "00:02:39.20",
+          "Speaker": "Speaker1",
+          "data_start": 159.02,
+          "data_end": 159.2
+        },
+        {
+          "Word": "health,",
+          "Start Timecode": "00:02:39.20",
+          "End Timecode": "00:02:39.61",
+          "Speaker": "Speaker1",
+          "data_start": 159.2,
+          "data_end": 159.61
+        },
+        {
+          "Word": "blessed",
+          "Start Timecode": "00:02:39.62",
+          "End Timecode": "00:02:40.19",
+          "Speaker": "Speaker1",
+          "data_start": 159.62,
+          "data_end": 160.19
+        },
+        {
+          "Word": "with",
+          "Start Timecode": "00:02:40.19",
+          "End Timecode": "00:02:40.43",
+          "Speaker": "Speaker1",
+          "data_start": 160.19,
+          "data_end": 160.43
+        },
+        {
+          "Word": "seeing",
+          "Start Timecode": "00:02:40.43",
+          "End Timecode": "00:02:40.79",
+          "Speaker": "Speaker1",
+          "data_start": 160.43,
+          "data_end": 160.79
+        },
+        {
+          "Word": "and",
+          "Start Timecode": "00:02:40.79",
+          "End Timecode": "00:02:40.91",
+          "Speaker": "Speaker1",
+          "data_start": 160.79,
+          "data_end": 160.91
+        },
+        {
+          "Word": "a",
+          "Start Timecode": "00:02:40.91",
+          "End Timecode": "00:02:41.00",
+          "Speaker": "Speaker1",
+          "data_start": 160.91,
+          "data_end": 161.0
+        },
+        {
+          "Word": "full",
+          "Start Timecode": "00:02:41.00",
+          "End Timecode": "00:02:41.24",
+          "Speaker": "Speaker1",
+          "data_start": 161.0,
+          "data_end": 161.24
+        },
+        {
+          "Word": "stomach.",
+          "Start Timecode": "00:02:41.24",
+          "End Timecode": "00:02:41.75",
+          "Speaker": "Speaker1",
+          "data_start": 161.24,
+          "data_end": 161.75
+        },
+        {
+          "Word": "He",
+          "Start Timecode": "00:02:41.78",
+          "End Timecode": "00:02:42.05",
+          "Speaker": "Speaker1",
+          "data_start": 161.78,
+          "data_end": 162.05
+        },
+        {
+          "Word": "told",
+          "Start Timecode": "00:02:42.05",
+          "End Timecode": "00:02:42.29",
+          "Speaker": "Speaker1",
+          "data_start": 162.05,
+          "data_end": 162.29
+        },
+        {
+          "Word": "the",
+          "Start Timecode": "00:02:42.29",
+          "End Timecode": "00:02:42.38",
+          "Speaker": "Speaker1",
+          "data_start": 162.29,
+          "data_end": 162.38
+        },
+        {
+          "Word": "other",
+          "Start Timecode": "00:02:42.38",
+          "End Timecode": "00:02:42.62",
+          "Speaker": "Speaker1",
+          "data_start": 162.38,
+          "data_end": 162.62
+        },
+        {
+          "Word": "pilgrims",
+          "Start Timecode": "00:02:42.62",
+          "End Timecode": "00:02:43.10",
+          "Speaker": "Speaker1",
+          "data_start": 162.62,
+          "data_end": 163.1
+        },
+        {
+          "Word": "the",
+          "Start Timecode": "00:02:43.10",
+          "End Timecode": "00:02:43.22",
+          "Speaker": "Speaker1",
+          "data_start": 163.1,
+          "data_end": 163.22
+        },
+        {
+          "Word": "truth",
+          "Start Timecode": "00:02:43.22",
+          "End Timecode": "00:02:43.58",
+          "Speaker": "Speaker1",
+          "data_start": 163.22,
+          "data_end": 163.58
+        },
+        {
+          "Word": "of",
+          "Start Timecode": "00:02:43.58",
+          "End Timecode": "00:02:43.73",
+          "Speaker": "Speaker1",
+          "data_start": 163.58,
+          "data_end": 163.73
+        },
+        {
+          "Word": "the",
+          "Start Timecode": "00:02:43.73",
+          "End Timecode": "00:02:43.88",
+          "Speaker": "Speaker1",
+          "data_start": 163.73,
+          "data_end": 163.88
+        },
+        {
+          "Word": "oasis.",
+          "Start Timecode": "00:02:43.88",
+          "End Timecode": "00:02:44.75",
+          "Speaker": "Speaker1",
+          "data_start": 163.88,
+          "data_end": 164.75
+        },
+        {
+          "Word": "They",
+          "Start Timecode": "00:02:44.78",
+          "End Timecode": "00:02:45.23",
+          "Speaker": "Speaker1",
+          "data_start": 164.78,
+          "data_end": 165.23
+        },
+        {
+          "Word": "knew",
+          "Start Timecode": "00:02:45.23",
+          "End Timecode": "00:02:45.41",
+          "Speaker": "Speaker1",
+          "data_start": 165.23,
+          "data_end": 165.41
+        },
+        {
+          "Word": "there",
+          "Start Timecode": "00:02:45.41",
+          "End Timecode": "00:02:45.53",
+          "Speaker": "Speaker1",
+          "data_start": 165.41,
+          "data_end": 165.53
+        },
+        {
+          "Word": "was",
+          "Start Timecode": "00:02:45.53",
+          "End Timecode": "00:02:45.65",
+          "Speaker": "Speaker1",
+          "data_start": 165.53,
+          "data_end": 165.65
+        },
+        {
+          "Word": "nothing",
+          "Start Timecode": "00:02:45.65",
+          "End Timecode": "00:02:45.92",
+          "Speaker": "Speaker1",
+          "data_start": 165.65,
+          "data_end": 165.92
+        },
+        {
+          "Word": "else",
+          "Start Timecode": "00:02:45.92",
+          "End Timecode": "00:02:46.16",
+          "Speaker": "Speaker1",
+          "data_start": 165.92,
+          "data_end": 166.16
+        },
+        {
+          "Word": "to",
+          "Start Timecode": "00:02:46.16",
+          "End Timecode": "00:02:46.25",
+          "Speaker": "Speaker1",
+          "data_start": 166.16,
+          "data_end": 166.25
+        },
+        {
+          "Word": "be",
+          "Start Timecode": "00:02:46.25",
+          "End Timecode": "00:02:46.34",
+          "Speaker": "Speaker1",
+          "data_start": 166.25,
+          "data_end": 166.34
+        },
+        {
+          "Word": "found",
+          "Start Timecode": "00:02:46.34",
+          "End Timecode": "00:02:46.64",
+          "Speaker": "Speaker1",
+          "data_start": 166.34,
+          "data_end": 166.64
+        },
+        {
+          "Word": "there",
+          "Start Timecode": "00:02:46.64",
+          "End Timecode": "00:02:46.82",
+          "Speaker": "Speaker1",
+          "data_start": 166.64,
+          "data_end": 166.82
+        },
+        {
+          "Word": "than",
+          "Start Timecode": "00:02:46.82",
+          "End Timecode": "00:02:47.00",
+          "Speaker": "Speaker1",
+          "data_start": 166.82,
+          "data_end": 167.0
+        },
+        {
+          "Word": "death.",
+          "Start Timecode": "00:02:47.03",
+          "End Timecode": "00:02:47.54",
+          "Speaker": "Speaker1",
+          "data_start": 167.03,
+          "data_end": 167.54
+        },
+        {
+          "Word": "And",
+          "Start Timecode": "00:02:47.54",
+          "End Timecode": "00:02:47.81",
+          "Speaker": "Speaker1",
+          "data_start": 167.54,
+          "data_end": 167.81
+        },
+        {
+          "Word": "so",
+          "Start Timecode": "00:02:47.81",
+          "End Timecode": "00:02:48.02",
+          "Speaker": "Speaker1",
+          "data_start": 167.81,
+          "data_end": 168.02
+        },
+        {
+          "Word": "Isaac",
+          "Start Timecode": "00:02:48.05",
+          "End Timecode": "00:02:48.38",
+          "Speaker": "Speaker1",
+          "data_start": 168.05,
+          "data_end": 168.38
+        },
+        {
+          "Word": "was",
+          "Start Timecode": "00:02:48.38",
+          "End Timecode": "00:02:48.62",
+          "Speaker": "Speaker1",
+          "data_start": 168.38,
+          "data_end": 168.62
+        },
+        {
+          "Word": "exiled",
+          "Start Timecode": "00:02:48.62",
+          "End Timecode": "00:02:49.16",
+          "Speaker": "Speaker1",
+          "data_start": 168.62,
+          "data_end": 169.16
+        },
+        {
+          "Word": "for",
+          "Start Timecode": "00:02:49.16",
+          "End Timecode": "00:02:49.28",
+          "Speaker": "Speaker1",
+          "data_start": 169.16,
+          "data_end": 169.28
+        },
+        {
+          "Word": "his",
+          "Start Timecode": "00:02:49.28",
+          "End Timecode": "00:02:49.49",
+          "Speaker": "Speaker1",
+          "data_start": 169.28,
+          "data_end": 169.49
+        },
+        {
+          "Word": "insanity.",
+          "Start Timecode": "00:02:49.49",
+          "End Timecode": "00:02:50.48",
+          "Speaker": "Speaker1",
+          "data_start": 169.49,
+          "data_end": 170.48
+        },
+        {
+          "Word": "He",
+          "Start Timecode": "00:02:50.69",
+          "End Timecode": "00:02:51.11",
+          "Speaker": "Speaker1",
+          "data_start": 170.69,
+          "data_end": 171.11
+        },
+        {
+          "Word": "pondered",
+          "Start Timecode": "00:02:51.11",
+          "End Timecode": "00:02:51.50",
+          "Speaker": "Speaker1",
+          "data_start": 171.11,
+          "data_end": 171.5
+        },
+        {
+          "Word": "on",
+          "Start Timecode": "00:02:51.50",
+          "End Timecode": "00:02:51.65",
+          "Speaker": "Speaker1",
+          "data_start": 171.5,
+          "data_end": 171.65
+        },
+        {
+          "Word": "what",
+          "Start Timecode": "00:02:51.65",
+          "End Timecode": "00:02:51.80",
+          "Speaker": "Speaker1",
+          "data_start": 171.65,
+          "data_end": 171.8
+        },
+        {
+          "Word": "he",
+          "Start Timecode": "00:02:51.80",
+          "End Timecode": "00:02:51.92",
+          "Speaker": "Speaker1",
+          "data_start": 171.8,
+          "data_end": 171.92
+        },
+        {
+          "Word": "witnessed",
+          "Start Timecode": "00:02:51.95",
+          "End Timecode": "00:02:52.34",
+          "Speaker": "Speaker1",
+          "data_start": 171.95,
+          "data_end": 172.34
+        },
+        {
+          "Word": "within",
+          "Start Timecode": "00:02:52.34",
+          "End Timecode": "00:02:52.67",
+          "Speaker": "Speaker1",
+          "data_start": 172.34,
+          "data_end": 172.67
+        },
+        {
+          "Word": "the",
+          "Start Timecode": "00:02:52.67",
+          "End Timecode": "00:02:52.76",
+          "Speaker": "Speaker1",
+          "data_start": 172.67,
+          "data_end": 172.76
+        },
+        {
+          "Word": "pond.",
+          "Start Timecode": "00:02:52.76",
+          "End Timecode": "00:02:53.30",
+          "Speaker": "Speaker1",
+          "data_start": 172.76,
+          "data_end": 173.3
+        },
+        {
+          "Word": "A",
+          "Start Timecode": "00:02:53.33",
+          "End Timecode": "00:02:53.54",
+          "Speaker": "Speaker1",
+          "data_start": 173.33,
+          "data_end": 173.54
+        },
+        {
+          "Word": "red",
+          "Start Timecode": "00:02:53.54",
+          "End Timecode": "00:02:53.78",
+          "Speaker": "Speaker1",
+          "data_start": 173.54,
+          "data_end": 173.78
+        },
+        {
+          "Word": "faced",
+          "Start Timecode": "00:02:53.78",
+          "End Timecode": "00:02:54.11",
+          "Speaker": "Speaker1",
+          "data_start": 173.78,
+          "data_end": 174.11
+        },
+        {
+          "Word": "man",
+          "Start Timecode": "00:02:54.11",
+          "End Timecode": "00:02:54.41",
+          "Speaker": "Speaker1",
+          "data_start": 174.11,
+          "data_end": 174.41
+        },
+        {
+          "Word": "sat",
+          "Start Timecode": "00:02:54.41",
+          "End Timecode": "00:02:54.62",
+          "Speaker": "Speaker1",
+          "data_start": 174.41,
+          "data_end": 174.62
+        },
+        {
+          "Word": "across",
+          "Start Timecode": "00:02:54.62",
+          "End Timecode": "00:02:54.95",
+          "Speaker": "Speaker1",
+          "data_start": 174.62,
+          "data_end": 174.95
+        },
+        {
+          "Word": "him",
+          "Start Timecode": "00:02:54.95",
+          "End Timecode": "00:02:55.10",
+          "Speaker": "Speaker1",
+          "data_start": 174.95,
+          "data_end": 175.1
+        },
+        {
+          "Word": "in",
+          "Start Timecode": "00:02:55.10",
+          "End Timecode": "00:02:55.19",
+          "Speaker": "Speaker1",
+          "data_start": 175.1,
+          "data_end": 175.19
+        },
+        {
+          "Word": "a",
+          "Start Timecode": "00:02:55.19",
+          "End Timecode": "00:02:55.25",
+          "Speaker": "Speaker1",
+          "data_start": 175.19,
+          "data_end": 175.25
+        },
+        {
+          "Word": "sea",
+          "Start Timecode": "00:02:55.28",
+          "End Timecode": "00:02:55.46",
+          "Speaker": "Speaker1",
+          "data_start": 175.28,
+          "data_end": 175.46
+        },
+        {
+          "Word": "of",
+          "Start Timecode": "00:02:55.49",
+          "End Timecode": "00:02:55.64",
+          "Speaker": "Speaker1",
+          "data_start": 175.49,
+          "data_end": 175.64
+        },
+        {
+          "Word": "black",
+          "Start Timecode": "00:02:55.64",
+          "End Timecode": "00:02:56.18",
+          "Speaker": "Speaker1",
+          "data_start": 175.64,
+          "data_end": 176.18
+        },
+        {
+          "Word": "waters,",
+          "Start Timecode": "00:02:56.18",
+          "End Timecode": "00:02:56.75",
+          "Speaker": "Speaker1",
+          "data_start": 176.18,
+          "data_end": 176.75
+        },
+        {
+          "Word": "cold",
+          "Start Timecode": "00:02:56.75",
+          "End Timecode": "00:02:57.20",
+          "Speaker": "Speaker1",
+          "data_start": 176.75,
+          "data_end": 177.2
+        },
+        {
+          "Word": "and",
+          "Start Timecode": "00:02:57.20",
+          "End Timecode": "00:02:57.35",
+          "Speaker": "Speaker1",
+          "data_start": 177.2,
+          "data_end": 177.35
+        },
+        {
+          "Word": "perilous.",
+          "Start Timecode": "00:02:57.35",
+          "End Timecode": "00:02:58.07",
+          "Speaker": "Speaker1",
+          "data_start": 177.35,
+          "data_end": 178.07
+        }
+      ],
+      "data_start": 72.59,
+      "data_end": 178.07
+    }
+  ]
+}

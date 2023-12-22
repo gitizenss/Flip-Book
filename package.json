@@ -24,7 +24,7 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    "start": "react-scripts start",
+    "start": "set HTTPS=true&&set SSL_CRT_FILE=C:/Certbot/live/dndcraft.com/fullchain.pem&&set SSL_CRT_KEY=C:/Certbot/live/dndcraft.com/privkey.pem&&set PORT=3006 && react-scripts start",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "build": "react-scripts build",

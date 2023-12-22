@@ -22,10 +22,12 @@ const FlipBook = ({ pdfPath, audioPath, transcriptPath, pdfIndex }) => {
 
   const [numPages, setNumPages] = useState(3);
   useEffect(() => {
-    setNumPages(parseInt(localStorage.getItem(`${pdfIndex}-numPages`)) || 3);
+    setNumPages(parseInt(localStorage.getItem(`${pdfIndex}-numPages`)) || 2);
   }, []);
 
   useEffect(() => {
+    if(transcriptPath)
+    {
     const loadTranscript = async () => {
       try {
         const response = await fetch(transcriptPath);
@@ -37,7 +39,7 @@ const FlipBook = ({ pdfPath, audioPath, transcriptPath, pdfIndex }) => {
     };
 
     loadTranscript();
-  }, [transcriptPath]);
+  }  }, [transcriptPath]);
 
   const [file, setFile] = useState(pdfPath);
   const introRef = useRef(null);
@@ -85,6 +87,7 @@ const FlipBook = ({ pdfPath, audioPath, transcriptPath, pdfIndex }) => {
 
   function flipNextPage() {
     pageFlip.current.pageFlip().flipNext();
+    if(audioPath)
     flippingRef.current.play();
     if (
       playing &&
@@ -101,6 +104,7 @@ const FlipBook = ({ pdfPath, audioPath, transcriptPath, pdfIndex }) => {
 
   function flipPrevPage() {
     pageFlip.current.pageFlip().flipPrev();
+    if(audioPath)
     flippingRef.current.play();
   }
 
@@ -383,7 +387,9 @@ const FlipBook = ({ pdfPath, audioPath, transcriptPath, pdfIndex }) => {
     ) {
       setNumPages((prevNumPages) => prevNumPages + 1);
     }
-    if (transcript.results[newpageIndex]) {
+    
+    if (transcript != null)
+    if(transcript.results[newpageIndex]) {
       if (!pageStates[newpageIndex] && newpageIndex !== oldpageindex) {
         if (newState.data === "read") {
           const spans = getSpans();
@@ -533,6 +539,7 @@ const FlipBook = ({ pdfPath, audioPath, transcriptPath, pdfIndex }) => {
         flippingRef.current.play();
       }
     }
+    if (transcript != null)
     if (
       transcript.results.length >
       pageFlip.current.pageFlip().getCurrentPageIndex()
@@ -976,6 +983,8 @@ const FlipBook = ({ pdfPath, audioPath, transcriptPath, pdfIndex }) => {
           // onMouseMove={handleHover}
           onLoadSuccess={handleDocumentLoadSuccess}
         >
+          {transcriptPath && audioPath && (
+      <>
           <audio
             ref={introRef}
             onTimeUpdate={() => {
@@ -990,8 +999,10 @@ const FlipBook = ({ pdfPath, audioPath, transcriptPath, pdfIndex }) => {
             onCanPlayThrough={() => setIsBuffering(false)}
             preload="auto"
           >
+            
             <source src={audio} type="audio/mpeg" />
           </audio>
+          
           <audio
             ref={flippingRef}
             onError={(e) => console.error("Flipping audio error:", e)}
@@ -999,6 +1010,7 @@ const FlipBook = ({ pdfPath, audioPath, transcriptPath, pdfIndex }) => {
           >
             <source src={flippingPageAudio} type="audio/mpeg" />
           </audio>
+          </>)}
           {/* <button onClick={goToPrevPage}> Go to Prev Page </button>
           <button onClick={goToNextPage}> Go to next Page </button> */}
           {/* <Document file={file} onLoadSuccess={onDocumentLoadSuccess} onLoadError={(error) => {
@@ -1028,6 +1040,8 @@ const FlipBook = ({ pdfPath, audioPath, transcriptPath, pdfIndex }) => {
               );
             }}
           </PdfLoader> */}
+          {transcriptPath && audioPath && (
+      <>
           <div className="wrap-wrapper">
             <div className="wrapper">
               <div className="progress-wrapper">
@@ -1301,6 +1315,8 @@ const FlipBook = ({ pdfPath, audioPath, transcriptPath, pdfIndex }) => {
               </div>
             </div>
           </div>
+          </>
+    )}
           <HTMLFlipBook
             width={width}
             height={height}
